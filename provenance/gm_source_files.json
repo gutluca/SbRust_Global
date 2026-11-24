@@ -1,0 +1,517 @@
+[
+  {
+    "country": "Albania",
+    "path": "countries/Albania/gm_frozen.csv",
+    "sha256": "ee3bad7b4ab89ff929f8cf5279f0b88f0706934be8333039b423fc86b9d4c90a"
+  },
+  {
+    "country": "Algeria",
+    "path": "countries/Algeria/gm_frozen.csv",
+    "sha256": "4fcc39fdf537215f89d32c5c615199aa8fe05a0ee78ea263fd94b337f5109e88"
+  },
+  {
+    "country": "Andorra",
+    "path": "countries/Andorra/gm_frozen.csv",
+    "sha256": "764ffa2c4c6916a4481e0382741ef3021310a57b2c8e1f1ec871eb6330623325"
+  },
+  {
+    "country": "Angola",
+    "path": "countries/Angola/gm_frozen.csv",
+    "sha256": "ced6f537fd3e28445e29e85a495fa8ae80a9332db38c0ef180c0b56f2a638dd0"
+  },
+  {
+    "country": "Argentina",
+    "path": "countries/Argentina/gm_frozen.csv",
+    "sha256": "145eb15c8d090119575579cc5fb99f13138728d7b3ea58f2cd805691b8b676b7"
+  },
+  {
+    "country": "Australia",
+    "path": "countries/Australia/gm_frozen.csv",
+    "sha256": "80531d3944451df6e680b6c7e9845e509eecf5c6566d133e4f753daf2ca99cf8"
+  },
+  {
+    "country": "Austria",
+    "path": "countries/Austria/gm_frozen.csv",
+    "sha256": "0b7a2165e8731470c916c70f4b5541c380b58637c636ad453d374d65b75a8369"
+  },
+  {
+    "country": "Azerbaijan",
+    "path": "countries/Azerbaijan/gm_frozen.csv",
+    "sha256": "a3bb043dad4a20deb66fcbd551a963be1274677738dc9fbb1124c9af54bcd275"
+  },
+  {
+    "country": "Bangladesh",
+    "path": "countries/Bangladesh/gm_frozen.csv",
+    "sha256": "dfeefd80147b5f880f4f1c1fdc8f72d1a1ca14cc05eb2867d7ac9c1f4861b3e8"
+  },
+  {
+    "country": "Belarus",
+    "path": "countries/Belarus/gm_frozen.csv",
+    "sha256": "235fb2b9a3a8b0e39cca3d1cd01127bfd51fec8c8e7787b6f130fc66c6609b4e"
+  },
+  {
+    "country": "Belize",
+    "path": "countries/Belize/gm_frozen.csv",
+    "sha256": "f479e06ea1d1954005fb9f674ae12678485a409c2f4c42fbcc1bcc12bac66d53"
+  },
+  {
+    "country": "Benin",
+    "path": "countries/Benin/gm_frozen.csv",
+    "sha256": "1b4ff066ffd0bb37cbf9639a8ebd73864050ca692c815436c6bdbcb446a5efb3"
+  },
+  {
+    "country": "Bolivia",
+    "path": "countries/Bolivia/gm_frozen.csv",
+    "sha256": "a0d6624c68e41efeeaf0178475d9696551c715951653de36932da24adc027841"
+  },
+  {
+    "country": "Bosnia & Herzegovina",
+    "path": "countries/Bosnia_Herzegovina/gm_frozen.csv",
+    "sha256": "8f53ab3475b5bc564fd78a9dc3fbb340bf90189aeaab81106da961d47350ad10"
+  },
+  {
+    "country": "Botswana",
+    "path": "countries/Botswana/gm_frozen.csv",
+    "sha256": "e158dd1c82dee00f6bc8364b0d56cdd2f4dde91f6fa3e1c0c63bc4d9b0533b7f"
+  },
+  {
+    "country": "Brazil",
+    "path": "countries/Brazil/gm_frozen.csv",
+    "sha256": "6416f57d4cc2b0f08aadbddf46fe41cb2a4b7fbde2dd4c601dad4b5000f51987"
+  },
+  {
+    "country": "Bulgaria",
+    "path": "countries/Bulgaria/gm_frozen.csv",
+    "sha256": "93ba491f7cfb44c83014c60947bc752b93e80415175c103dba6c235ffb875876"
+  },
+  {
+    "country": "Burkina Faso",
+    "path": "countries/Burkina_Faso/gm_frozen.csv",
+    "sha256": "c7a5166feb90c26ff0d4e037cec1438ce9a00561b43c975adb3ebe840500a5dd"
+  },
+  {
+    "country": "Burundi",
+    "path": "countries/Burundi/gm_frozen.csv",
+    "sha256": "bc5e9c7d00c572626828e4aaee19e22f0c250aa32ee4d3e05e93c0761026bdb7"
+  },
+  {
+    "country": "Cambodia",
+    "path": "countries/Cambodia/gm_frozen.csv",
+    "sha256": "8c46159a01c4034bbf87ada2a2224420da4f3eb76ee4fdae2918aa850d7c6164"
+  },
+  {
+    "country": "Cameroon",
+    "path": "countries/Cameroon/gm_frozen.csv",
+    "sha256": "8e4a6b330d7b0b49381a8bd6ceb3e001f0283da56052db0d9ba7c161e7a1d56a"
+  },
+  {
+    "country": "Canada",
+    "path": "countries/Canada/gm_frozen.csv",
+    "sha256": "b4b17423f0cff447385e7a7e5d3aff70cac98bd312bf573939326fea905d2eb4"
+  },
+  {
+    "country": "Central African Republic",
+    "path": "countries/Central_African_Republic/gm_frozen.csv",
+    "sha256": "dba29f820f9eda6777b2cd2a18b18ac8573bd9b86bd3be93a538f2b15f8295ba"
+  },
+  {
+    "country": "Chad",
+    "path": "countries/Chad/gm_frozen.csv",
+    "sha256": "3f33cc00456fcccf124b3e65be108c5ca16cde4e2768daeed04c711e159366a4"
+  },
+  {
+    "country": "China",
+    "path": "countries/China/gm_frozen.csv",
+    "sha256": "e4364d5673f34979ead1b9e4a4607b48fe9e483219d0330e8e1776c5b1cf99f7"
+  },
+  {
+    "country": "Colombia",
+    "path": "countries/Colombia/gm_frozen.csv",
+    "sha256": "5873548b6f21e6e5b7fd49e10884a91b230ee5cd52e6f28c3f274a08fe98819c"
+  },
+  {
+    "country": "Congo",
+    "path": "countries/Congo/gm_frozen.csv",
+    "sha256": "d5e2b4f5ff6803baccf668e5bde5201ef61f0e89efda02742594be0c06f8a8b2"
+  },
+  {
+    "country": "Congo, DRC",
+    "path": "countries/Congo_DRC/gm_frozen.csv",
+    "sha256": "fac722dca62babf9a94119a91f92abfe3d1c61b727bc0d3b74d7678bd4a35c64"
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "path": "countries/Cote_d_Ivoire/gm_frozen.csv",
+    "sha256": "92058b1372d5f5024bb39e7c1ee538a46b3a214d684757188b967ca876d85aa5"
+  },
+  {
+    "country": "Croatia",
+    "path": "countries/Croatia/gm_frozen.csv",
+    "sha256": "34cecf6b8371e7718b50b764a29889412d2b43f4681267ead3cd0f415ba25fb1"
+  },
+  {
+    "country": "Cuba",
+    "path": "countries/Cuba/gm_frozen.csv",
+    "sha256": "426f43618fb4fbaf04a31f6a9928a3a4ac628693adfd4b8a74589f63d449664b"
+  },
+  {
+    "country": "Czech Republic",
+    "path": "countries/Czech_Republic/gm_frozen.csv",
+    "sha256": "dad893aeddf9742f6c2503349a4e3412352b8b4df6d4777da701eab173ca7d5f"
+  },
+  {
+    "country": "Ecuador",
+    "path": "countries/Ecuador/gm_frozen.csv",
+    "sha256": "3564e3e94f1bcb6582abe1ef82d2bc14b25e2a30ba6d96ac5953a7ae96e83c52"
+  },
+  {
+    "country": "El Salvador",
+    "path": "countries/El_Salvador/gm_frozen.csv",
+    "sha256": "412b2b1f2e78b520a950a085cd0f0d30f3c54202eceab66532a2e7e1b83dfc72"
+  },
+  {
+    "country": "Ethiopia",
+    "path": "countries/Ethiopia/gm_frozen.csv",
+    "sha256": "27b6e9e8827ac3ba74184d94b6e06e4f3d22d106241b7293f43a4cdab2fca0c4"
+  },
+  {
+    "country": "France",
+    "path": "countries/France/gm_frozen.csv",
+    "sha256": "00442f7270db83b3bb90f7df119c978fcc944482837d281831f37dd2369b236c"
+  },
+  {
+    "country": "Gabon",
+    "path": "countries/Gabon/gm_frozen.csv",
+    "sha256": "f8d408058941c2f15d831007397cc1221a86802b94ebccc3930db3458b25d7a4"
+  },
+  {
+    "country": "Georgia",
+    "path": "countries/Georgia/gm_frozen.csv",
+    "sha256": "7211a7819459bc7d4458809625d132b84cadbdd9b1b1342c855689bade438326"
+  },
+  {
+    "country": "Germany",
+    "path": "countries/Germany/gm_frozen.csv",
+    "sha256": "800841ee91cf20d106bf4fcfc0b489e5d6ee55531424471a1fcb8abfc97f7967"
+  },
+  {
+    "country": "Ghana",
+    "path": "countries/Ghana/gm_frozen.csv",
+    "sha256": "ca0a55e5937325b305c5d99f062cb80b294c03f59194a94a52b4a004cc3160c2"
+  },
+  {
+    "country": "Greece",
+    "path": "countries/Greece/gm_frozen.csv",
+    "sha256": "a17f1e2e7d57ad3df6107b0291d0726a846b1110d1f31f4bf753cb96c6630619"
+  },
+  {
+    "country": "Guatemala",
+    "path": "countries/Guatemala/gm_frozen.csv",
+    "sha256": "87033dbffa513d029b74f38d2dc3df8eadb12685cc6ad8c786db165abcc2a093"
+  },
+  {
+    "country": "Guinea",
+    "path": "countries/Guinea/gm_frozen.csv",
+    "sha256": "39acc60bedb07b9b47861e26162ecc6a974eb6464af8760d82a417495b7b1c9a"
+  },
+  {
+    "country": "Honduras",
+    "path": "countries/Honduras/gm_frozen.csv",
+    "sha256": "a5c2df0d3af1b0d83ca8d6f421a9cd58758e9c85c5561119080f327c3ec90f7b"
+  },
+  {
+    "country": "Hungary",
+    "path": "countries/Hungary/gm_frozen.csv",
+    "sha256": "e31d1a92741b393929520fbc28358e090858b0bb8b3d73008f11111f9954942e"
+  },
+  {
+    "country": "India",
+    "path": "countries/India/gm_frozen.csv",
+    "sha256": "9369cc1b8a421bea11e2678ae1e79db7ec3fc9c7981518282f0cfe061c23a045"
+  },
+  {
+    "country": "Indonesia",
+    "path": "countries/Indonesia/gm_frozen.csv",
+    "sha256": "b26911ba387d1d5f0b7c98b506538b279bf7a678bd7f0b44eb899f90f9befa5e"
+  },
+  {
+    "country": "Iran",
+    "path": "countries/Iran/gm_frozen.csv",
+    "sha256": "c9e0a1c2b5078aeabb16a2a8e023b24e8d9d799ad4a90931e545037414842897"
+  },
+  {
+    "country": "Italy",
+    "path": "countries/Italy/gm_frozen.csv",
+    "sha256": "950c9779dce456a5594830f0ba814f431ab1f9cb45e3b245293a6cbfee19d930"
+  },
+  {
+    "country": "Japan",
+    "path": "countries/Japan/gm_frozen.csv",
+    "sha256": "fa175984a7a84348d550e1c385b65674cf27fe2e77d97a355cb6aba2ab28e6f3"
+  },
+  {
+    "country": "Kenya",
+    "path": "countries/Kenya/gm_frozen.csv",
+    "sha256": "8e2ee9f3cd51f19b73d4216af52986b21bb2f386b55e117b3fbd0746259dfa28"
+  },
+  {
+    "country": "Kosovo",
+    "path": "countries/Kosovo/gm_frozen.csv",
+    "sha256": "d751d74c025bd291a91f45562cf5393436d3298df35cb26edcb6882547245dab"
+  },
+  {
+    "country": "Laos",
+    "path": "countries/Laos/gm_frozen.csv",
+    "sha256": "b60ba211fc244a1e72fac9bacabfa862691842f9c2fc72b47d205a1be44a9b37"
+  },
+  {
+    "country": "Liberia",
+    "path": "countries/Liberia/gm_frozen.csv",
+    "sha256": "9e9c30a0a9282792c405fc9308a659a45f3d5a0f43afe5cc0314db4fd0e5a302"
+  },
+  {
+    "country": "Macedonia",
+    "path": "countries/Macedonia/gm_frozen.csv",
+    "sha256": "40160a2e62ec092811bec4be71df47467a8ebd0630c94946d875b94e750694ad"
+  },
+  {
+    "country": "Madagascar",
+    "path": "countries/Madagascar/gm_frozen.csv",
+    "sha256": "eb08d6e63c33e12a990f5389bf61f30d8520c079f5c9b5ce95f468933303f826"
+  },
+  {
+    "country": "Malawi",
+    "path": "countries/Malawi/gm_frozen.csv",
+    "sha256": "3a6f893ae086936df8d08de7b0bad2e0ce946e8d7b8f35e2ef8562ce4a763d9f"
+  },
+  {
+    "country": "Mali",
+    "path": "countries/Mali/gm_frozen.csv",
+    "sha256": "54fa6e7c85aef934228faf4797c732b2eb2b655cb4cdbf3fe9d7e90e6caf1345"
+  },
+  {
+    "country": "Mexico",
+    "path": "countries/Mexico/gm_frozen.csv",
+    "sha256": "002b1b897539d94b6480af51816068ff221296ca30382a14147f35e02cab7756"
+  },
+  {
+    "country": "Moldova",
+    "path": "countries/Moldova/gm_frozen.csv",
+    "sha256": "e2ac953b83d13caf4464458196a64326851c01b88d9b0a43f34443377d8069d8"
+  },
+  {
+    "country": "Morocco",
+    "path": "countries/Morocco/gm_frozen.csv",
+    "sha256": "c89fee337ee2c9ca0a3f3fe5c0ec3575d2a42db0a87a6d35679017b4016b6c00"
+  },
+  {
+    "country": "Mozambique",
+    "path": "countries/Mozambique/gm_frozen.csv",
+    "sha256": "077a830a69d7eeeb543e08e27c838b48a70fe9512fd3d3f9db6e0f8d690b6c2b"
+  },
+  {
+    "country": "Myanmar",
+    "path": "countries/Myanmar/gm_frozen.csv",
+    "sha256": "bce2334601e731d733029dc679a7eb0e3bc73ec8e17fbe5340656ad5d84ac00d"
+  },
+  {
+    "country": "Nepal",
+    "path": "countries/Nepal/gm_frozen.csv",
+    "sha256": "17cb93cea5e8b5f15ec4534f3901c21b83abceb97edf5dc6a1ff4d686075e36a"
+  },
+  {
+    "country": "Nicaragua",
+    "path": "countries/Nicaragua/gm_frozen.csv",
+    "sha256": "3ccb03de2affee33fe16813b7f29071ea5274c6a9ce1d3cdd529664665832a3e"
+  },
+  {
+    "country": "Niger",
+    "path": "countries/Niger/gm_frozen.csv",
+    "sha256": "98ee4de3fee281eba390f5a9049e237441657748f664b7283e9c04fedd419bfa"
+  },
+  {
+    "country": "Nigeria",
+    "path": "countries/Nigeria/gm_frozen.csv",
+    "sha256": "90b58d8a380589024bd95e1d046ad914cb430624fdc27ce71106d4ca45a45870"
+  },
+  {
+    "country": "North Korea",
+    "path": "countries/North_Korea/gm_frozen.csv",
+    "sha256": "3569ffdda809e351d18caf9bf42f6ce039a74d45c39898ebe8daadbc100be196"
+  },
+  {
+    "country": "Panama",
+    "path": "countries/Panama/gm_frozen.csv",
+    "sha256": "994dfb30e1ada20d0492eeb0106f074c31673b99fb45cf463a0f0972013219b9"
+  },
+  {
+    "country": "Paraguay",
+    "path": "countries/Paraguay/gm_frozen.csv",
+    "sha256": "ab9c4542641f4791ea4e388fcc257be81b8e725af1041b0340c569ebe7c43e21"
+  },
+  {
+    "country": "Peru",
+    "path": "countries/Peru/gm_frozen.csv",
+    "sha256": "05de3d1c2edb7d0e80c8bf623824a39d81c06dafadc78f9e286ff2c5096dab1c"
+  },
+  {
+    "country": "Philippines",
+    "path": "countries/Philippines/gm_frozen.csv",
+    "sha256": "96d9e21217ca8cc1ae311bda76dfb12c6ebad5db88f1ce7101f7a0438f7aa541"
+  },
+  {
+    "country": "Poland",
+    "path": "countries/Poland/gm_frozen.csv",
+    "sha256": "820ac1858756b73dad89cf89bc5a3edba96106c524cd53befc174d21b51af259"
+  },
+  {
+    "country": "Portugal",
+    "path": "countries/Portugal/gm_frozen.csv",
+    "sha256": "8877c4d8a5339d3d21ab93847598fd12dad9937c961da8ea53e09962c4a8357b"
+  },
+  {
+    "country": "Romania",
+    "path": "countries/Romania/gm_frozen.csv",
+    "sha256": "d68b674d167e93b0e14b7dcaffbadbd82a3a80c8b09dd8f1c61fab206ee39f33"
+  },
+  {
+    "country": "Russia",
+    "path": "countries/Russia/gm_frozen.csv",
+    "sha256": "e4fa8922ff8350ec1d4ee443725d696839bd341ce0a957126ce42261761c91a1"
+  },
+  {
+    "country": "Rwanda",
+    "path": "countries/Rwanda/gm_frozen.csv",
+    "sha256": "eaad58e8dfa5ed49a0298d46c771e0eea49aa3cb2594568ac9d1c6ac5556c706"
+  },
+  {
+    "country": "Serbia",
+    "path": "countries/Serbia/gm_frozen.csv",
+    "sha256": "52381d5102fa6c5c0ee947add70bfe1c5294c366d090c2bd5a5ab6aaac870419"
+  },
+  {
+    "country": "Slovenia",
+    "path": "countries/Slovenia/gm_frozen.csv",
+    "sha256": "64c0068a1c2087d0b4bda6e5e3dbb080c0fa198e59c1562c2be5d44483704d32"
+  },
+  {
+    "country": "South Africa",
+    "path": "countries/South_Africa/gm_frozen.csv",
+    "sha256": "ac018bb484ce6f198878a25cc288b7f7e700c2ec0827ebb81b95c6e98280b071"
+  },
+  {
+    "country": "South Korea",
+    "path": "countries/South_Korea/gm_frozen.csv",
+    "sha256": "0870ecc908f82e9477417ed3ae62ba38df0f36d801fd99340a558ae4d8d6b28e"
+  },
+  {
+    "country": "Spain",
+    "path": "countries/Spain/gm_frozen.csv",
+    "sha256": "59a4ebe0ec7f4ea977e2b365f02e6a4e90eef2038204967aa9023940f4fa6ddc"
+  },
+  {
+    "country": "Sri Lanka",
+    "path": "countries/Sri_Lanka/gm_frozen.csv",
+    "sha256": "4ff89e728e5d14c4937a8139e65498f906cd2c9fe95f30da9ce5c87335dbe95a"
+  },
+  {
+    "country": "Sudan",
+    "path": "countries/Sudan/gm_frozen.csv",
+    "sha256": "169cbe12e3417e815d96cec2081d9a1e6f9c284c6c31be910d7b617b96d5a4dc"
+  },
+  {
+    "country": "Suriname",
+    "path": "countries/Suriname/gm_frozen.csv",
+    "sha256": "bb76f7455015c0b44d3ffe61b296621038331c54e0b94cb93091b96b29d73c27"
+  },
+  {
+    "country": "Swaziland",
+    "path": "countries/Swaziland/gm_frozen.csv",
+    "sha256": "19d70f35ade9e3b8f18f2a7ecaf7929164c5e4b7687dd93564132879e28553e4"
+  },
+  {
+    "country": "Switzerland",
+    "path": "countries/Switzerland/gm_frozen.csv",
+    "sha256": "9991ec05b1b7a5a0f2249f9d548edf4b3c8c5018b80297daea9c801b476ecb4d"
+  },
+  {
+    "country": "Syria",
+    "path": "countries/Syria/gm_frozen.csv",
+    "sha256": "60f4faae76f7d691e89d66b8d9d13107c4e830cbde0c95c16fac6e91aa5b5422"
+  },
+  {
+    "country": "Taiwan",
+    "path": "countries/Taiwan/gm_frozen.csv",
+    "sha256": "d42be87f923d43895c3c02c125745d830e733259e77374dfcf5974145f11c566"
+  },
+  {
+    "country": "Tajikistan",
+    "path": "countries/Tajikistan/gm_frozen.csv",
+    "sha256": "7ccc4960c7ca600eb55ba1221f4efcaac7f4e029a6fb08887817d1bf1f24a959"
+  },
+  {
+    "country": "Tanzania",
+    "path": "countries/Tanzania/gm_frozen.csv",
+    "sha256": "b761087561a86fe9eea17aacaae9757a8007038d59e798e4fb1e5977802ef6db"
+  },
+  {
+    "country": "Thailand",
+    "path": "countries/Thailand/gm_frozen.csv",
+    "sha256": "5c6c684b7455dc46ddc131c3f6e48ebd1430790076179617fe06ae0f62e1be47"
+  },
+  {
+    "country": "Timor Leste",
+    "path": "countries/Timor_Leste/gm_frozen.csv",
+    "sha256": "d62ada4ea409171d06a0bb1678e39891740620c38113ce0700d77688d38af99e"
+  },
+  {
+    "country": "Togo",
+    "path": "countries/Togo/gm_frozen.csv",
+    "sha256": "8e434947e9e18b2b3ffcd7f1e62c9315cd470a954260ddbcfc2b5f7ea2a41f4e"
+  },
+  {
+    "country": "Uganda",
+    "path": "countries/Uganda/gm_frozen.csv",
+    "sha256": "9a716ae44a823843b5f82dc14b298803582f59b6742cddb1ee1bd06618339449"
+  },
+  {
+    "country": "Ukraine",
+    "path": "countries/Ukraine/gm_frozen.csv",
+    "sha256": "1bf6bdaa64ee77229f39828bb9f5ef712c723c0b8e84a982908a7a93bf72e5e6"
+  },
+  {
+    "country": "United States",
+    "path": "countries/United_States/gm_frozen.csv",
+    "sha256": "0244b2f6fd1016a1abdd5835ba210706e5a7c5e22e76a3e0cf73bb17f212d966"
+  },
+  {
+    "country": "Uruguay",
+    "path": "countries/Uruguay/gm_frozen.csv",
+    "sha256": "14f7a18606a7add1645d0182c3e33c087e09c9b28ccc66adfa9dbc34e4a10348"
+  },
+  {
+    "country": "Uzbekistan",
+    "path": "countries/Uzbekistan/gm_frozen.csv",
+    "sha256": "a97d0ee609ed4d4f075692bd06ec2eb2af7d8f7185ab7dfbca07cb80e4ca9c4c"
+  },
+  {
+    "country": "Venezuela",
+    "path": "countries/Venezuela/gm_frozen.csv",
+    "sha256": "66aac9c6e7fac74dce5aed968c50fd797dcdfaddd7b715c8d4e2892c44c947d1"
+  },
+  {
+    "country": "Vietnam",
+    "path": "countries/Vietnam/gm_frozen.csv",
+    "sha256": "123619074263b866904901a965063804011dc9fc57b287be17e2ad4d53428357"
+  },
+  {
+    "country": "Zambia",
+    "path": "countries/Zambia/gm_frozen.csv",
+    "sha256": "89e497f6775b1066b4e83354c2cc44c04b0be547b3e9b30d06de91634edeabf9"
+  },
+  {
+    "country": "Zimbabwe",
+    "path": "countries/Zimbabwe/gm_frozen.csv",
+    "sha256": "5e95129f2b9e92ce73aae0c09d6c9fe42926d4150de68606f3165011385df6f7"
+  }
+]

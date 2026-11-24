@@ -1,0 +1,39 @@
+{
+  "version": "br_bo_gm_north10s_partial_20261117_v2",
+  "source_state": "/blue/wpavan/gustavo.luca/SBrust_world/generated/world/global_disease_only_20261022_v1/state.json",
+  "source_state_sha256": "e6f82aada93dd3f0b60c3f9a778d803025eb8e04e47b422a54216feaf494fd63",
+  "assignments_sha256": "370f283071d830d27a1df60792d27f42ba1e49f4b6547cb04e0bd15979054677",
+  "catalog_sha256": "107455fafc75b802a91b31833059a590f3ed15ded6bd80ab5cc8402de6360677",
+  "countries": {
+    "Brazil": {
+      "key": "Brazil_07f62b02",
+      "old_master_sha256": "7699828b983f51da2aa7971964f1204ebaefcc37dc2036504a96814106266f83",
+      "original_paired_master_sha256": "17a6620fb3d96227398c296bb77be21c14607393745568a2f22c10f16b16671d",
+      "final_project_sha256": "679909c9ea6b4b17166ea464268318751ad4cad4d8591be4bc6d958e3b84e557",
+      "disease_input_sha256": "ca9644ce09336d39cc764c8cd7465442ff246e831963aa01a32e176616a850fb",
+      "parameter_set": "Brazil",
+      "score_sha256": "d92504ac43c70d53dc4b7a09a6138ac508585e39fb6eaa7ab35ddf6aadf4b994",
+      "expected_cells": 1666,
+      "changed_cells": 1017,
+      "score_file": "Brazil_gm_scores_all.csv.gz"
+    },
+    "Bolivia": {
+      "key": "Bolivia_9621c073",
+      "old_master_sha256": "75b1b1e5c164da863cf0040640e74d5ea10f2b908eb20478094881d99feff298",
+      "original_paired_master_sha256": "27638915835a19ebafa9628078a4fae707a9a0393495ae7734ef5720564342d3",
+      "final_project_sha256": "108b099325a4d40bafafe93ba4c3ecf7d5ee96b375d815d03fb85bf7dafe0db2",
+      "disease_input_sha256": "ca9644ce09336d39cc764c8cd7465442ff246e831963aa01a32e176616a850fb",
+      "parameter_set": "Brazil",
+      "score_sha256": "0d6c2f187d9e63e016163f10e176fcf20272895eaacd0102985a71e5cf8944f3",
+      "expected_cells": 169,
+      "changed_cells": 107,
+      "score_file": "Bolivia_gm_scores_all.csv.gz"
+    }
+  },
+  "expected_configurations_per_country": 920,
+  "expected_rows_per_cell": 4600,
+  "policy": {
+    "Brazil": "No GM 10; GM 9 only north of 10 S; prefer GM 8 within 3 days of GM 9; prefer GM 7 within 2 days of GM 8 at or south of 15 S",
+    "Bolivia": "Maximum GM 8; prefer GM 7 within 2 days of GM 8"
+  }
+}

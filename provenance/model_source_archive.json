@@ -1,0 +1,16 @@
+{
+  "archive": "dismo_source_20261022.tar.gz",
+  "bytes": 11596981,
+  "sha256": "7cbbdf210fddb1afef7ecb239d71aa518b9e7d7005a8885b73887e5ee6c476ad",
+  "origin": "Frozen source captured for the 22 October regional model package",
+  "members": {
+    "Plant/Generic-Pest/DISMO.for": "f6ed3caada84e5b627e00baf2cde94d6d7d49bd1d1ca9ab0926bd11700b8483c",
+    "CMakeLists.txt": "9de9ee70cdbcac380b71f3599929f39c8564d53031d686cb1b00e925157e2bee",
+    "license.txt": "f0fd3f4cd983f2415523e46bb4502fb6e1ddbb4c2c659c8c20e50720e967c895",
+    "NOTICE.md": "08430967283dee0ff8bb73226a09a836a8c0a07f68e2a45b4d45b8ab2c848d2e"
+  },
+  "production_commit": null,
+  "production_executable_sha256": "811a53c4d85d2f47ecf7815d9c46bc75fbc5fe5dbd2dd26aae3fce606f2ba41e",
+  "note": "Frozen model source included in the repository. Exact production build/commit mapping still requires recovery.",
+  "repository_path": "model/source/dismo_source_20261022.tar.gz"
+}

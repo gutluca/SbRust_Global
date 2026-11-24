@@ -1,0 +1,17 @@
+{
+  "filename": "dscsm048",
+  "platform": "Linux",
+  "architecture": "x86_64",
+  "format": "ELF64 little-endian",
+  "repository_path": "model/bin/dscsm048",
+  "sha256": "811a53c4d85d2f47ecf7815d9c46bc75fbc5fe5dbd2dd26aae3fce606f2ba41e",
+  "bytes": 15415456,
+  "status": "included_and_verified_against_production_manifest",
+  "shared_libraries": [],
+  "source_campaign": "co2_future_global_20261119_v2",
+  "source_path": "/blue/wpavan/gustavo.luca/SBrust_world/apps/dssat-dismo-4.8/dscsm048",
+  "retrieved_date": "2026-11-24",
+  "build_commit": null,
+  "elf_interpreter": null,
+  "has_dynamic_program_header": false
+}

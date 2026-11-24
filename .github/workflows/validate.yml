@@ -1,0 +1,22 @@
+name: Validate research workflow
+on: [push, pull_request]
+jobs:
+  integrity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify study population and frozen input checksums
+        run: python3 workflow/verify_repository.py
+      - name: Check Python syntax
+        run: python3 -m compileall -q workflow
+      - name: Install pinned numerical packages
+        run: python3 -m pip install -r requirements.txt
+      - name: Process complete real-data example
+        run: python3 workflow/analysis/run_analysis.py --data-root examples/data --countries Albania --output results/example --workers 1
+      - name: Check audited counts and yield-loss identities
+        run: python3 workflow/analysis/check_example.py --output results/example

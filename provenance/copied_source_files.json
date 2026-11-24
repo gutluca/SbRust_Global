@@ -1,0 +1,477 @@
+[
+  {
+    "path": "data/spatial/excluded_country_cells.csv",
+    "source": "generated/global_gm_qc_20261027_v2/excluded_points.csv",
+    "sha256": "7bec4bf3aef344a5e68c003f3dd960ea0007a2246ffc006a3a4b8fa11e1bd30c"
+  },
+  {
+    "path": "data/calibration/Brazil/disease_parameters.txt",
+    "source": "config/regional_inputs_20261022/Brazil/disease_parameters.txt",
+    "sha256": "ca9644ce09336d39cc764c8cd7465442ff246e831963aa01a32e176616a850fb"
+  },
+  {
+    "path": "data/calibration/UnitedStates/disease_parameters.txt",
+    "source": "config/regional_inputs_20261022/UnitedStates/disease_parameters.txt",
+    "sha256": "c014972493a26e07d7d3421c538acf566bb9985fd4be8480224a2fa15bffcbd4"
+  },
+  {
+    "path": "data/calibration/Brazil_candidate_scores.csv.gz",
+    "source": "partial_gm_rerun_brazil_20261117_v3/inputs/Brazil_gm_scores_all.csv.gz",
+    "sha256": "d92504ac43c70d53dc4b7a09a6138ac508585e39fb6eaa7ab35ddf6aadf4b994"
+  },
+  {
+    "path": "provenance/gm_policy_Brazil.json",
+    "source": "partial_gm_rerun_brazil_20261117_v3/inputs/source_lock.json",
+    "sha256": "0cf14988c1c9af6739726f11147ef74bafb5734b92ede4ebdc06a7d61d5be89b"
+  },
+  {
+    "path": "workflow/maturity/final_revisions/Brazil/prepare_partial_country.py",
+    "source": "partial_gm_rerun_brazil_20261117_v3/scripts/prepare_partial_country.py",
+    "sha256": "3016aa1ba755e5df13fa4db6d47e8733e2440c73fb279c8ec5e5b6b2071f748c"
+  },
+  {
+    "path": "workflow/maturity/final_revisions/Brazil/merge_partial_master.py",
+    "source": "partial_gm_rerun_brazil_20261117_v3/scripts/merge_partial_master.py",
+    "sha256": "8af9808a70cacab0d2c60c3c6425acc448ef43f08c3ee879dbff7006038aac26"
+  },
+  {
+    "path": "data/calibration/Bolivia_candidate_scores.csv.gz",
+    "source": "partial_gm_rerun_20261117_v2/inputs/Bolivia_gm_scores_all.csv.gz",
+    "sha256": "0d6c2f187d9e63e016163f10e176fcf20272895eaacd0102985a71e5cf8944f3"
+  },
+  {
+    "path": "provenance/gm_policy_Bolivia.json",
+    "source": "partial_gm_rerun_20261117_v2/inputs/source_lock.json",
+    "sha256": "aebd316a310081687a4d2ec80cccf96ff646664895e19f9d3920016efbe799c6"
+  },
+  {
+    "path": "workflow/maturity/final_revisions/Bolivia/prepare_partial_country.py",
+    "source": "partial_gm_rerun_20261117_v2/scripts/prepare_partial_country.py",
+    "sha256": "dbeed56bcb09cbca38d719f0dfb0d7c54a0eb87712c95968ef87b2887506fd8b"
+  },
+  {
+    "path": "workflow/maturity/final_revisions/Bolivia/merge_partial_master.py",
+    "source": "partial_gm_rerun_20261117_v2/scripts/merge_partial_master.py",
+    "sha256": "8af9808a70cacab0d2c60c3c6425acc448ef43f08c3ee879dbff7006038aac26"
+  },
+  {
+    "path": "data/calibration/generic_maturity_candidates.json",
+    "source": "config/generic_maturity_candidates.json",
+    "sha256": "107455fafc75b802a91b31833059a590f3ed15ded6bd80ab5cc8402de6360677"
+  },
+  {
+    "path": "data/calibration/maturity_extreme_policy.json",
+    "source": "config/maturity_soft_extremes_20261027_v1.json",
+    "sha256": "e59d6369daca357adea1dcae7d0b2c7827739884bc289a8eb2771d85e588a8e6"
+  },
+  {
+    "path": "data/calibration/disease_validation_per_curve.csv",
+    "source": "dismo_validation_source_20260909.csv",
+    "sha256": "8354c6bdfb55196464e1f6f9ef77d6c156819ba14a594a491030a79d1e893cb2"
+  },
+  {
+    "path": "data/calibration/disease_validation_audit.csv",
+    "source": "dismo_validation_audit_20261118.csv",
+    "sha256": "6fabd0452fd614fd7f271546004211ba2c138e2d3e41df37f024431d3d83aa0f"
+  },
+  {
+    "path": "data/co2/annual_co2_ppm.csv",
+    "source": "co2_future_global_20261119_v2/inputs/co2/annual_co2_ppm.csv",
+    "sha256": "2d08706e470bb9c48877f19897a2c3a50de73d59191855e50730cdb400de1b66"
+  },
+  {
+    "path": "data/co2/provenance.json",
+    "source": "co2_future_global_20261119_v2/inputs/co2/provenance.json",
+    "sha256": "9b98fcfb48fe0ce48131924428a9dab6b48f55e04240912e046d621c8b4c3194"
+  },
+  {
+    "path": "data/co2/ssp126/CO2048.WDA",
+    "source": "co2_future_global_20261119_v2/inputs/co2/ssp126/CO2048.WDA",
+    "sha256": "bec2369ba10ca6af7380b1ab66d8b8baf8a715b5f06427596990c8f0f6f75f7f"
+  },
+  {
+    "path": "data/co2/ssp370/CO2048.WDA",
+    "source": "co2_future_global_20261119_v2/inputs/co2/ssp370/CO2048.WDA",
+    "sha256": "eb54a655fb902b0fc8db08c44acacfcaa8c218b0c3742cd2731e6cf2d4bfe295"
+  },
+  {
+    "path": "data/co2/ssp585/CO2048.WDA",
+    "source": "co2_future_global_20261119_v2/inputs/co2/ssp585/CO2048.WDA",
+    "sha256": "6d7034c0bdd0773372015ed16a0dbd9d31f874f5aba47b4123dc8ddc6750fc5f"
+  },
+  {
+    "path": "provenance/numerical_report_validation_20261123.json",
+    "source": "output/global_numerical_report_co2_20261123_v1/validation.json",
+    "sha256": "c1e5a59f2d2ddbea8d50b34cef7dfb708fecafc74d0bfa707414d3aa1cd8a9ee"
+  },
+  {
+    "path": "workflow/production_reference/prepare_disease_input.py",
+    "source": "scripts/prepare_disease_input.py",
+    "sha256": "8d887ac2df926276eb84562ee252939eed2eaa39b25e0f34b205c394c79873cb"
+  },
+  {
+    "path": "workflow/production_reference/assign_all_country_inputs.py",
+    "source": "scripts/assign_all_country_inputs.py",
+    "sha256": "b0240b3ed8c61bd085bc048bb399cd3ed3c16a7706ab1a7204822aadb3288e77"
+  },
+  {
+    "path": "workflow/production_reference/assign_country_input.py",
+    "source": "scripts/assign_country_input.py",
+    "sha256": "bf247d8d5a4eb55a119872d60954f64cc44e1b18500f219ec10a31641de36a87"
+  },
+  {
+    "path": "workflow/production_reference/validate_final_summaries.py",
+    "source": "scripts/validate_final_summaries.py",
+    "sha256": "d4375ce37528e01f3798060fa788ecd659b1143409958ba837870f76685ef3d9"
+  },
+  {
+    "path": "workflow/production_reference/export_analysis_table.py",
+    "source": "scripts/export_analysis_table.py",
+    "sha256": "58924886717de888f448c20a6bf83bc565c4bf3e802a9482e41d0a46938eb4af"
+  },
+  {
+    "path": "workflow/production_reference/merge_country_shards.py",
+    "source": "scripts/merge_country_shards.py",
+    "sha256": "652a24cf63cc792301dc8a59640ecf66ced45f2b5937b14f915d9ca4db6774aa"
+  },
+  {
+    "path": "workflow/production_reference/coverage_policy.py",
+    "source": "scripts/coverage_policy.py",
+    "sha256": "02835ffc8015de5823306f927666d0f1bc7c601671ea864a7b367ffd31daf82b"
+  },
+  {
+    "path": "workflow/production_reference/country_coverage_exception.py",
+    "source": "scripts/country_coverage_exception.py",
+    "sha256": "41cca5ffb0a35552ca48f990045808bcd09246f6154a035f7f761766b396d44b"
+  },
+  {
+    "path": "workflow/production_reference/collate_annual_task.py",
+    "source": "scripts/collate_annual_task.py",
+    "sha256": "91f4b9c5e94c167eefe57106ffd9db2646de7a37e2b16c16d602b8f598ad8797"
+  },
+  {
+    "path": "workflow/production_reference/collate_summary.py",
+    "source": "scripts/collate_summary.py",
+    "sha256": "b8a9bbc59df4782f1de60dfb882381077f18e2b6825142081f7adaac99c063b6"
+  },
+  {
+    "path": "workflow/production_reference/prepare_scratch_config.py",
+    "source": "scripts/prepare_scratch_config.py",
+    "sha256": "dfaeb577253f0b19598a7d7e2ebb5f13dc1da403da51ff3370815c29f62028ca"
+  },
+  {
+    "path": "workflow/production_reference/prepare_ggcmi_calendar.py",
+    "source": "scripts/prepare_ggcmi_calendar.py",
+    "sha256": "af66fdd762637214b49031344f923cbcc582ea8438cec96757caf69ebbb63fb2"
+  },
+  {
+    "path": "workflow/production_reference/generate_configs.py",
+    "source": "scripts/generate_configs.py",
+    "sha256": "d0bdba90f73d8274d9752ea583431969e1d94d83be2ca14bdf49ca2cc782f0a9"
+  },
+  {
+    "path": "workflow/production_reference/gm_production_qc.py",
+    "source": "scripts/gm_production_qc.py",
+    "sha256": "190c9d2d9c42b74d71f94d1cec9c61f5cd9ee83edc40fa48a093015e539283af"
+  },
+  {
+    "path": "workflow/production_reference/merge_maturity_sites.py",
+    "source": "scripts/merge_maturity_sites.py",
+    "sha256": "b79ed8954b2d2c7ced732abbfd0ecd111b1f75d360e9fae84a3d39c64704ecf0"
+  },
+  {
+    "path": "workflow/production_reference/split_maturity_sites.py",
+    "source": "scripts/split_maturity_sites.py",
+    "sha256": "d9265663d14bc79305ffb0799f940324fa30cbd9f703889c754c2c6386875249"
+  },
+  {
+    "path": "workflow/production_reference/maturity_extreme_policy.py",
+    "source": "scripts/maturity_extreme_policy.py",
+    "sha256": "5d1ca8c16c16ba1d8342d25ab062ac4db614e23a43a7407660349bcda9dabd0c"
+  },
+  {
+    "path": "workflow/production_reference/select_maturity_ensemble.py",
+    "source": "scripts/select_maturity_ensemble.py",
+    "sha256": "62183346597653304c225e14781226dbd5c6fa1389e668b06616d6458e1dfa5f"
+  },
+  {
+    "path": "workflow/production_reference/collate_maturity_ensemble_member.py",
+    "source": "scripts/collate_maturity_ensemble_member.py",
+    "sha256": "8f8512a6dbedd49d635965c94af8be315aae53df34c8f135cb7a4ac059509f73"
+  },
+  {
+    "path": "workflow/production_reference/select_maturity_group.py",
+    "source": "scripts/select_maturity_group.py",
+    "sha256": "179db6db4ea6979ed030412dd8cb58fde7f41293870ba04e5e090b8d9e7635ed"
+  },
+  {
+    "path": "workflow/production_reference/generate_maturity_ensemble.py",
+    "source": "scripts/generate_maturity_ensemble.py",
+    "sha256": "f5b6901cede122d8171caf453f6fb54482eedb22de6967ecffb9c17a46a3e519"
+  },
+  {
+    "path": "workflow/production_reference/prepare_country_calendars.py",
+    "source": "scripts/prepare_country_calendars.py",
+    "sha256": "606868314b2d69d0605056879f8fdc5e29458c360655a97753ec8a0d04f32b51"
+  },
+  {
+    "path": "workflow/production_reference/index_weather.py",
+    "source": "scripts/index_weather.py",
+    "sha256": "3036b3f50e7802a2cf5435f7bb9dd6373aa41abac7b366706b77895c15d4a5c6"
+  },
+  {
+    "path": "workflow/production_reference/build_sites.py",
+    "source": "scripts/build_sites.py",
+    "sha256": "e86ae98ecbe0ab2222a4153ce8f846532112ba72bedf5fec15dea2410f8e496d"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/build_co2_inputs.py",
+    "source": "co2_future_global_20261119_v2/build_co2_inputs.py",
+    "sha256": "f36b4f66f56dd2e6c963961681c7a6d662443fef09396b58d21f19a7999ef066"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/bootstrap.py",
+    "source": "co2_future_global_20261119_v2/scripts/bootstrap.py",
+    "sha256": "60179dced382d654f38c257aceb79e715b88f99eca38eba31baaff17351cc46a"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/co2_runtime.py",
+    "source": "co2_future_global_20261119_v2/scripts/co2_runtime.py",
+    "sha256": "8e1b6a67cada426d2d398329f755333d9fc190613f3e1d5a8c84352cc28449dd"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/common.py",
+    "source": "co2_future_global_20261119_v2/scripts/common.py",
+    "sha256": "6947b98c0c97a65282f6a174adaf3b7c10308d64280ea55fcf4454b771ce26a8"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/contracts.py",
+    "source": "co2_future_global_20261119_v2/scripts/contracts.py",
+    "sha256": "6098b2f44972373a89749ade53339b31e2320b483ba63ed8ef199e3680219679"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/controller.py",
+    "source": "co2_future_global_20261119_v2/scripts/controller.py",
+    "sha256": "3f82aa7c7c01e698842c6f3671269f4ede081d2f549be7ddf89a7d58255e0ec8"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/gate.py",
+    "source": "co2_future_global_20261119_v2/scripts/gate.py",
+    "sha256": "25b5474116f23d6df0b5f4a9955b1052265e19edd4ce30d642477fb28ff235a4"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/launch.py",
+    "source": "co2_future_global_20261119_v2/scripts/launch.py",
+    "sha256": "4fdb4835a89aa3b887a5b6bba6406641731773ec086dc80008aec29072dcf827"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/merge.py",
+    "source": "co2_future_global_20261119_v2/scripts/merge.py",
+    "sha256": "5495f299c6e77bb4c35a8d712806da31f6370ba73b2603b25dc3175af82e412a"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/native_finalize.py",
+    "source": "co2_future_global_20261119_v2/scripts/native_finalize.py",
+    "sha256": "e0fee39bda9511ed322cc59e1358782b2658776cf688ce76e631bc39a55c094c"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/prepare.py",
+    "source": "co2_future_global_20261119_v2/scripts/prepare.py",
+    "sha256": "0cb38ddcebe189278e003ef0c0f9e9c68ba387d99d79d8a0db59a5b5f588fc1c"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/replay.py",
+    "source": "co2_future_global_20261119_v2/scripts/replay.py",
+    "sha256": "85802b0df85934ef1748251b8a5275c66f101097fd06f99238b0b1bfe945cee0"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/status.py",
+    "source": "co2_future_global_20261119_v2/scripts/status.py",
+    "sha256": "058bdbe652c2de5483919190516ed75f95b5363dada95467024e4ffdab457748"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/scripts/worker.py",
+    "source": "co2_future_global_20261119_v2/scripts/worker.py",
+    "sha256": "fd9855a039ae3f51ce4bdade99ce3ee8f1d0b4e6c4cb0d6a67afd92950c7b18e"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/slurm/bootstrap.slurm",
+    "source": "co2_future_global_20261119_v2/slurm/bootstrap.slurm",
+    "sha256": "a6083ae831928dd5b42f23a68316810a04bde6b1d06666b06eb3db16f669d9ed"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/slurm/controller.slurm",
+    "source": "co2_future_global_20261119_v2/slurm/controller.slurm",
+    "sha256": "d6e8f89108a4005bd96b3597ab543d30e69ed15bfa2ba784cf193339f53f0df8"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/slurm/gate.slurm",
+    "source": "co2_future_global_20261119_v2/slurm/gate.slurm",
+    "sha256": "7a961cca7496da5958bc57a78047064c336474ada003824d42f41ae426c66509"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/slurm/merge.slurm",
+    "source": "co2_future_global_20261119_v2/slurm/merge.slurm",
+    "sha256": "ed68b1c121a14de7798c76f13d557f2d93efa0af7913ad689058a025028370ba"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/slurm/pilot.slurm",
+    "source": "co2_future_global_20261119_v2/slurm/pilot.slurm",
+    "sha256": "2d76264c23e3bb45e5d61fc571dec21d7b0aac27d541bb16fc7552ca444e174a"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/slurm/preflight.slurm",
+    "source": "co2_future_global_20261119_v2/slurm/preflight.slurm",
+    "sha256": "a23a5eed403ac0cf85588c5a6455e6afbae31b69865ce2ee9f1c7647c653e797"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/slurm/prepare.slurm",
+    "source": "co2_future_global_20261119_v2/slurm/prepare.slurm",
+    "sha256": "14284fe62b5ebec651040e6a6c5df2183a8e2dc125123ed0905c09ec53ad1c7e"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/slurm/worker.slurm",
+    "source": "co2_future_global_20261119_v2/slurm/worker.slurm",
+    "sha256": "c85874ad866b3656076f43336ed240025fe123c4686dca1f6e99cc0686dfc228"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/tests/test_contracts.py",
+    "source": "co2_future_global_20261119_v2/tests/test_contracts.py",
+    "sha256": "29e7629b38675287bd7a5ff91d526ded1d20657bc4173fd052589980887d8920"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/tests/test_native_flow.py",
+    "source": "co2_future_global_20261119_v2/tests/test_native_flow.py",
+    "sha256": "7985ae3b4c0d85259eba103d1d959dc81104dcc78fbe0e5f62749ef00ed426bd"
+  },
+  {
+    "path": "workflow/campaigns/co2_future/tests/test_safeguards.py",
+    "source": "co2_future_global_20261119_v2/tests/test_safeguards.py",
+    "sha256": "0ab25ffad9f82c89774147ca2a2273379a49d1713faa581b3cd0ff0aa91ce787"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/analyze_beruski_trends.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/analyze_beruski_trends.py",
+    "sha256": "9e67b9eea4bb13c2d586c7639561d1a07d4720e9753e948e493c50a2d50e6bb4"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/analyze_world_onset.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/analyze_world_onset.py",
+    "sha256": "c6268eb0c7a6f42562ec92a8df05b0a6848372747dfddc8c32834abb552a47ce"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/backup_critical_hpg.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/backup_critical_hpg.py",
+    "sha256": "af38459f5a95f6421b773e23b6ba35886071047224371887ca7499e5a81a3866"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/beruski_worker_support.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/beruski_worker_support.py",
+    "sha256": "a56747ece21851138657013944041b82d60d129674bc9e718f790d780583356c"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/campaign.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/campaign.py",
+    "sha256": "935775801d8636367d056c8ea7c3bc017b8993f99864d04cd347fd59808a6ab4"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/co2_runtime.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/co2_runtime.py",
+    "sha256": "8e1b6a67cada426d2d398329f755333d9fc190613f3e1d5a8c84352cc28449dd"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/common.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/common.py",
+    "sha256": "3921f35f0778434fdf5836ed999c5c69f1030b49dbe9a3ed1bab5b1466f9739f"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/control_index.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/control_index.py",
+    "sha256": "30d8b6046b68384a8fe15411bb55488912c8ff01d4ea1cd23172bddb0406db15"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/dsv50_warning_pilot.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/dsv50_warning_pilot.py",
+    "sha256": "08dd9e30fc29a4772f3ec380782ddcd0b64edffd29342e7a8cf0214510907f6c"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/ensemble3_global.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/ensemble3_global.py",
+    "sha256": "608b685f4e814df1e6c11cdbada77b3a6a8099809ff881c89e028134f1655706"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/launch.sh",
+    "source": "onset_dsv_co2_20261123_v1/scripts/launch.sh",
+    "sha256": "6ab16daca04acfb5333c5a09ed8a0d8e9e07baabd6e2902124669103e77760ac"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/legacy_dispatcher.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/legacy_dispatcher.py",
+    "sha256": "4595c5591a48c186625081a075c4d5b01b56b13b53dbf82d110584f74e3ecd31"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/merge.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/merge.py",
+    "sha256": "b005e9274652ac0c2378015d2b406b12810405f8e96bee921f6189b526688fcf"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/onset_dsv.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/onset_dsv.py",
+    "sha256": "c913ea90e9a253d307deef295c2a217b0ca83c379cea56d3bf1b65cf38bcc852"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/prepare.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/prepare.py",
+    "sha256": "6562311dcfb06c3b6c1f5113a3dc3fab7f788785c9aa8f2647efd862e9b68838"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/replay_dsv50_dssat_outputs.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/replay_dsv50_dssat_outputs.py",
+    "sha256": "6b20860b4dcc17d37f073dec0561867060ff26f5b3d58b07b76c0f2cbf5b2c33"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/scheduler_recovery.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/scheduler_recovery.py",
+    "sha256": "2d028d4eb6b6b1155364aa9b6eb3004895ae27ab3c34375a7b9ca7e79182519e"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/status.sh",
+    "source": "onset_dsv_co2_20261123_v1/scripts/status.sh",
+    "sha256": "de2ba2a13f6b655e4f3809ff556e0398ee0fc0e52511a7af7c3036bcdfda3c53"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/worker.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/worker.py",
+    "sha256": "75f259fb64baa8e820b342d2670d5b487f30bf0cf5070240506b26aa45a3b9e3"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/scripts/world_onset_runtime.py",
+    "source": "onset_dsv_co2_20261123_v1/scripts/world_onset_runtime.py",
+    "sha256": "4cffcb967d3a3e6760ac36533bf9462754aa9419f0ed9698ed584339734243e5"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/slurm/controller.slurm",
+    "source": "onset_dsv_co2_20261123_v1/slurm/controller.slurm",
+    "sha256": "d079a6dc1fd98bf3a91233f6927ca35632a3657bf4148168b0b8c7a8d463aeb9"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/slurm/job.slurm",
+    "source": "onset_dsv_co2_20261123_v1/slurm/job.slurm",
+    "sha256": "cac869b2e1bbc13df119836b8be1037d0107a5571e5473a6604144029c4ab6af"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/tests/test_campaign.py",
+    "source": "onset_dsv_co2_20261123_v1/tests/test_campaign.py",
+    "sha256": "5d5dd9b62c15b7c448cfb9c9f34f5ad7547b52595fdd27cc53b71b91bb9e0927"
+  },
+  {
+    "path": "workflow/campaigns/onset_dsv/tests/test_previous_analysis.py",
+    "source": "onset_dsv_co2_20261123_v1/tests/test_previous_analysis.py",
+    "sha256": "50c99e7fd62932ac83c6c67c0f1c152d3ed5a5edf1f76943c11068d7659934f6"
+  },
+  {
+    "path": "workflow/analysis/reference/analyze_20261123.py",
+    "source": "output/global_numerical_report_co2_20261123_v1/analyze.py",
+    "sha256": "da5ac57f50ad03fe1692423d261c1e1c74f9b98fe9dde9510d9efcf89cfa282d"
+  }
+]

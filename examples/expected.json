@@ -1,0 +1,9 @@
+{
+  "country": "Albania",
+  "country_cells": 17,
+  "raw_records": 78200,
+  "retained_records": 78005,
+  "excluded_records": 195,
+  "source_sha256": "29a59e7d8c9423643d781889419252d641644250207821fd6cb1c9add4bf58ba",
+  "raw_file": "examples/data/countries/Albania/summary_master_Albania.csv.gz"
+}

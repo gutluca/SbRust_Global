@@ -1,0 +1,52 @@
+{
+  "snapshot_date": "2026-11-24",
+  "crop_campaign": "co2_future_global_20261119_v2",
+  "applications_campaign": "onset_dsv_co2_20261123_v1",
+  "applications_status": "in_progress",
+  "countries": 103,
+  "country_cell_fragments": 16612,
+  "unique_coordinates": 15765,
+  "harvested_area_ha": 117850234.91072217,
+  "raw_paired_rows": 76415200,
+  "yield_analysis_retained_rows": 74542108,
+  "yield_analysis_removed_rows": 1873092,
+  "historical_period": [
+    1981,
+    2014
+  ],
+  "future_periods": [
+    [
+      2020,
+      2039
+    ],
+    [
+      2040,
+      2069
+    ]
+  ],
+  "scenarios": [
+    "ssp126",
+    "ssp370",
+    "ssp585"
+  ],
+  "gcms": [
+    "GFDL-ESM4",
+    "IPSL-CM6A-LR",
+    "MPI-ESM1-2-HR",
+    "MRI-ESM2-0",
+    "UKESM1-0-LL"
+  ],
+  "sowing_offsets_days": {
+    "P01": -30,
+    "P02": -15,
+    "P03": 0,
+    "P04": 15,
+    "P05": 30
+  },
+  "raw_rows_per_country_cell": 4600,
+  "master_compressed_bytes": 2073032430,
+  "exact_executable_sha256": "811a53c4d85d2f47ecf7815d9c46bc75fbc5fe5dbd2dd26aae3fce606f2ba41e",
+  "exact_executable_local_status": "included_and_sha256_verified",
+  "data_doi": null,
+  "code_doi": null
+}

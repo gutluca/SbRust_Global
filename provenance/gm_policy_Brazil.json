@@ -1,0 +1,27 @@
+{
+  "version": "br_gm_cap20s_partial_20261117_v3",
+  "source_state": "/blue/wpavan/gustavo.luca/SBrust_world/generated/world/global_disease_only_20261022_v1/state.json",
+  "source_state_sha256": "e6f82aada93dd3f0b60c3f9a778d803025eb8e04e47b422a54216feaf494fd63",
+  "assignments_sha256": "99fc721d6be305217522bef04256f480006fd34d6edcd1b71258c2c06e1c1243",
+  "catalog_sha256": "107455fafc75b802a91b31833059a590f3ed15ded6bd80ab5cc8402de6360677",
+  "countries": {
+    "Brazil": {
+      "key": "Brazil_07f62b02",
+      "old_master_sha256": "7699828b983f51da2aa7971964f1204ebaefcc37dc2036504a96814106266f83",
+      "original_paired_master_sha256": "17a6620fb3d96227398c296bb77be21c14607393745568a2f22c10f16b16671d",
+      "final_project_sha256": "679909c9ea6b4b17166ea464268318751ad4cad4d8591be4bc6d958e3b84e557",
+      "disease_input_sha256": "ca9644ce09336d39cc764c8cd7465442ff246e831963aa01a32e176616a850fb",
+      "parameter_set": "Brazil",
+      "score_sha256": "d92504ac43c70d53dc4b7a09a6138ac508585e39fb6eaa7ab35ddf6aadf4b994",
+      "expected_cells": 1666,
+      "changed_cells": 1082,
+      "score_file": "Brazil_gm_scores_all.csv.gz"
+    }
+  },
+  "expected_configurations_per_country": 920,
+  "expected_rows_per_cell": 4600,
+  "policy": {
+    "Brazil": "No GM 10; GM 9 only north of 10 S; prefer GM 8 within 3 days of GM 9; prefer GM 7 within 2 days of GM 8 at or south of 15 S; at or south of 20 S the maximum is GM 7"
+  },
+  "assignment_source_v2_sha256": "370f283071d830d27a1df60792d27f42ba1e49f4b6547cb04e0bd15979054677"
+}

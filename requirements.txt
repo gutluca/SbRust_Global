@@ -1,0 +1,3 @@
+# Versions used for numerical verification; Python 3.12.
+numpy==2.3.5
+pandas==3.0.1

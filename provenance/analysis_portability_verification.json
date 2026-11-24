@@ -1,0 +1,183 @@
+{
+  "status": "passed",
+  "date": "2026-11-24",
+  "scope": "Numerical portability; no DSSAT rerun",
+  "raw_rows_checked": 8519200,
+  "countries": [
+    {
+      "country": "Albania",
+      "raw_rows": 78200,
+      "retained_rows": 78005,
+      "excluded_rows": 195
+    },
+    {
+      "country": "Bolivia",
+      "raw_rows": 777400,
+      "retained_rows": 773038,
+      "excluded_rows": 4362
+    },
+    {
+      "country": "Brazil",
+      "raw_rows": 7663600,
+      "retained_rows": 7628739,
+      "excluded_rows": 34861
+    }
+  ],
+  "checks": [
+    {
+      "country": "Albania",
+      "table": "member_means.csv.gz",
+      "rows": 2975,
+      "columns": 36,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Albania",
+      "table": "gcm_comparisons.csv.gz",
+      "rows": 510,
+      "columns": 29,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Albania",
+      "table": "planting_summary.csv",
+      "rows": 300,
+      "columns": 8,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Albania",
+      "table": "annual.csv.gz",
+      "rows": 4600,
+      "columns": 37,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Albania",
+      "table": "exclusion_counts.csv.gz",
+      "rows": 2975,
+      "columns": 16,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Albania",
+      "table": "excluded_simulations.csv.gz",
+      "rows": 195,
+      "columns": 17,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Bolivia",
+      "table": "member_means.csv.gz",
+      "rows": 29575,
+      "columns": 36,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Bolivia",
+      "table": "gcm_comparisons.csv.gz",
+      "rows": 5070,
+      "columns": 29,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Bolivia",
+      "table": "planting_summary.csv",
+      "rows": 300,
+      "columns": 8,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Bolivia",
+      "table": "annual.csv.gz",
+      "rows": 4600,
+      "columns": 37,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Bolivia",
+      "table": "exclusion_counts.csv.gz",
+      "rows": 29575,
+      "columns": 16,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Bolivia",
+      "table": "excluded_simulations.csv.gz",
+      "rows": 4362,
+      "columns": 17,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "table": "country_global_comparisons.csv",
+      "rows": 120,
+      "columns": 34,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "table": "country_global_gcm.csv",
+      "rows": 600,
+      "columns": 10,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Brazil",
+      "table": "member_means.csv.gz",
+      "rows": 291550,
+      "columns": 36,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Brazil",
+      "table": "gcm_comparisons.csv.gz",
+      "rows": 49980,
+      "columns": 29,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Brazil",
+      "table": "planting_summary.csv",
+      "rows": 300,
+      "columns": 8,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Brazil",
+      "table": "annual.csv.gz",
+      "rows": 4600,
+      "columns": 37,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Brazil",
+      "table": "exclusion_counts.csv.gz",
+      "rows": 291550,
+      "columns": 16,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "country": "Brazil",
+      "table": "excluded_simulations.csv.gz",
+      "rows": 34861,
+      "columns": 17,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "table": "country_global_comparisons.csv",
+      "rows": 60,
+      "columns": 34,
+      "max_abs_numeric_difference": 0.0
+    },
+    {
+      "table": "country_global_gcm.csv",
+      "rows": 300,
+      "columns": 10,
+      "max_abs_numeric_difference": 0.0
+    }
+  ],
+  "tolerance": {
+    "relative": 1e-12,
+    "absolute": 1e-08
+  },
+  "note": "Three real countries including both executed GM revisions. This verifies raw-output processing, not the pending application campaign or a full model rebuild."
+}

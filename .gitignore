@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+results/
+downloads/
+deposit/
+data/raw/
+.rebuild/
+*.partial
+mpl_config/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "removed": 1873092,
+  "retained": 74542108,
+  "members": 2907100,
+  "historical_count": 13838869,
+  "extra_loss_only": 0,
+  "previous_report_inputs_unchanged": true,
+  "all_removed_flags_independently_recomputed": true,
+  "historical_member_sums_counts_means_unchanged": true,
+  "summary_rows": 6240,
+  "location_metric_rows": 996720,
+  "countries": 103,
+  "yield_loss_identity_and_spatial_support": true,
+  "source_hashes_checked": 103,
+  "global_country_weighted_closure_max_error": 2.2737367544323206e-12,
+  "html_country_sections": 103,
+  "html_tables_checked": 2186,
+  "master_hashes_rechecked_after_analysis": 103
+}

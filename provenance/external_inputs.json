@@ -1,0 +1,76 @@
+{
+  "snapshot": "2026-11-24",
+  "scope": "Inputs required to rerun the crop/disease simulations; not needed for reanalysis of the country masters",
+  "weather": {
+    "provider": "ISIMIP CMIP6 bias-adjustment framework",
+    "provider_url": "https://data.isimip.org/",
+    "study_storage_root": "/orange/hoogenboom/weather",
+    "directory_templates": {
+      "historical": "{weather_root}/historical/{gcm}/{gcm}_hist_WTH",
+      "ssp126": "{weather_root}/ssp126/{gcm}/{gcm}_ssp126_WTH",
+      "ssp370": "{weather_root}/ssp370/{gcm}/{gcm}_ssp370_WTH",
+      "ssp585": "{weather_root}/ssp585/{gcm}/{gcm}_ssp585_WTH"
+    },
+    "gcms": [
+      "GFDL-ESM4",
+      "IPSL-CM6A-LR",
+      "MPI-ESM1-2-HR",
+      "MRI-ESM2-0",
+      "UKESM1-0-LL"
+    ],
+    "processed_format": "DSSAT WTH",
+    "processed_weather_version": null,
+    "original_dataset_identifier": null,
+    "checksums": null,
+    "status": "processed_weather_catalogue_and_conversion_provenance_to_export"
+  },
+  "calendars": {
+    "provider_url": "https://www.isimip.org/gettingstarted/input-data-bias-adjustment/details/115/",
+    "repository_url": "https://data.isimip.org/search/tree/ISIMIP3b/InputData/socioeconomic/crop_calendar/",
+    "study_files": {
+      "historical": {
+        "filename": "ggcmi-crop-calendar_gfdl-esm4_histsoc_soy-noirr_annual_1991_2014.nc",
+        "sha256": null
+      },
+      "ssp126": {
+        "filename": "ggcmi-crop-calendar_ipsl-cm6a-lr_ssp126_soy-noirr_annual_2015_2100.nc",
+        "sha256": null
+      },
+      "ssp370": {
+        "filename": "ggcmi-crop-calendar_ipsl-cm6a-lr_ssp370_soy-noirr_annual_2015_2100.nc",
+        "sha256": null
+      },
+      "ssp585": {
+        "filename": "ggcmi-crop-calendar_ipsl-cm6a-lr_ssp585_soy-noirr_annual_2015_2100.nc",
+        "sha256": null
+      }
+    },
+    "historical_reference": {
+      "mode": "climatological_reference",
+      "source": "/blue/wpavan/gustavo.luca/SBrust_world/data/spatial/ggcmi-crop-calendar_gfdl-esm4_histsoc_soy-noirr_annual_1991_2014.nc",
+      "reference_gcm": "GFDL-ESM4",
+      "start_year": 1991,
+      "end_year": 2014,
+      "stat": "median"
+    },
+    "status": "exact_original_file_hashes_to_export"
+  },
+  "soils": {
+    "source_doi": "10.7910/DVN/1PEEY0",
+    "study_storage_root": "/blue/wpavan/gustavo.luca/SBrust_world/data/spatial/eGHR",
+    "study_raster_filename": "eGHR_soils_raster.tif",
+    "executed_profile_mapping": null,
+    "sha256": null,
+    "status": "country_SOL_files_and_executed_site_profile_mapping_to_export"
+  },
+  "soybean_area": {
+    "source_doi": "10.7910/DVN/SWPENT",
+    "study_raster_filename": "spam2020_V2r2_global_H_SOYB_R.tif",
+    "derived_study_mask": "data/spatial/soybean_study_mask.csv",
+    "original_raster_sha256": null
+  },
+  "co2": {
+    "source_doi": "10.5194/gmd-13-3571-2020",
+    "included_input_provenance": "data/co2/provenance.json"
+  }
+}

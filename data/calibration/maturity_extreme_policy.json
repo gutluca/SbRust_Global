@@ -1,0 +1,8 @@
+{
+  "version": "soft_extremes_20261027_v1",
+  "maximum_mae_increase_days": {"10": 3.0, "000": 2.0},
+  "excluded_alternatives": ["000", "10"],
+  "require_same_failed_cases": true,
+  "scope": "global; no geographic exclusions or area quotas",
+  "threshold_status": "Project-specific methodological choices, not literature-validated agronomic constants"
+}

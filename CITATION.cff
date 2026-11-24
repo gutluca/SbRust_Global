@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the model references when reusing the workflow or data."
+title: "SbRust_Global: global soybean rust simulation workflow and source data"
+type: software
+authors:
+  - family-names: Luca
+    given-names: Gustavo
+repository-code: "https://github.com/gutluca/SbRust_Global"
+version: "0.1.0"
+date-released: "2026-11-24"
+license: BSD-3-Clause

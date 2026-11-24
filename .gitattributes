@@ -1,0 +1,5 @@
+# Preserve exact file bytes so the public SHA-256 inventory survives Git clones.
+* -text
+*.gz binary
+*.tiff binary
+*.png binary
