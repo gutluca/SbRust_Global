@@ -36,7 +36,7 @@ def main():
         for entry in files:
             archive.add(args.data_root/entry['path'],arcname=entry['path'],recursive=False)
         archive.add(repo/'provenance/master_files.json',arcname='master_files.json',recursive=False)
-        archive.add(repo/'docs/data_dictionary.md',arcname='data_dictionary.md',recursive=False)
+        archive.add(repo/'data/master_columns.csv',arcname='master_columns.csv',recursive=False)
     partial.rename(args.output)
     receipt=dict(file=args.output.name,sha256=sha(args.output),bytes=args.output.stat().st_size,
                  countries=len(files),paired_rows=sum(a['rows'] for a in files),format='tar of unchanged gzip CSVs')

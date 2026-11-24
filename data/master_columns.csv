@@ -1,0 +1,24 @@
+column,description
+SIMULATION_ID,Compound experiment identifier
+COUNTRY,Country–cell fragment key
+CELL_ID,Country–cell fragment key
+WEATHER_SOURCE_CELL_ID,Actual weather-series identifier
+WEATHER_BORROWED,Borrowed-weather indicator (0/1)
+WEATHER_DISTANCE_KM,Weather-donor distance (km)
+LATITUDE,Spatial support and fixed area
+LONGITUDE,Spatial support and fixed area
+HARVEST_AREA_HA,Spatial support and fixed area
+MATURITY_GROUP,Executed generic group; read as string
+PERIOD,"1981-2014, 2020-2039 or 2040-2069"
+SIM_YEAR,Experiment's sowing year
+SCENARIO,"historical, ssp126, ssp370 or ssp585"
+GCM,Climate-model name
+PLANTING_LABEL,P01/P02/P03/P04/P05 = −30/−15/0/+15/+30 days
+PLANT_DATE,Recorded crop dates
+MATURITY_DATE,Recorded crop dates
+YIELD_WITH_DISEASE_KG_HA,Disease-affected yield (kg ha⁻¹)
+YIELD_NO_DISEASE_KG_HA,Disease-free yield (kg ha⁻¹)
+LOSS_KG_HA,Difference between matched yields (kg ha⁻¹)
+LOSS_PCT,Loss relative to disease-free yield (%)
+TOTAL_SPRAYS,Spray counter recorded in the paired yield simulations; DSV50/DSV80 demand is calculated separately by the application workflow
+DISEASE_ONSET_DAE,Reported disease onset in days after emergence; nonfinite/negative values are treated as unreported in the yield analysis

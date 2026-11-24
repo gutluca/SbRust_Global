@@ -1,0 +1,517 @@
+{
+  "Albania": {
+    "sha256": "29a59e7d8c9423643d781889419252d641644250207821fd6cb1c9add4bf58ba",
+    "points": 17,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Albania_1af00b87/summary_master_Albania.csv.gz"
+  },
+  "Algeria": {
+    "sha256": "7a77dfe78e9e68456beeeb475a28f2cf69d05e6a4fed83d21d97d33c3d68b3eb",
+    "points": 2,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Algeria_30e23022/summary_master_Algeria.csv.gz"
+  },
+  "Andorra": {
+    "sha256": "7082ff4e03295655a590d4024c8fc7f1b9e766843be13730a0431e568d8fe9e7",
+    "points": 1,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Andorra_3e340be4/summary_master_Andorra.csv.gz"
+  },
+  "Angola": {
+    "sha256": "851f2c6f467d25588eae5c2be651a4dacd73e4aac074262dd3b0d06052b9a1e8",
+    "points": 221,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Angola_22b96532/summary_master_Angola.csv.gz"
+  },
+  "Argentina": {
+    "sha256": "7ea65cfc00fb4f5ba52afb10251837d02d3eb53937dc027ca9f32beceed07e50",
+    "points": 555,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Argentina_ea0b937e/summary_master_Argentina.csv.gz"
+  },
+  "Australia": {
+    "sha256": "dd5e6ce60e87cba83795bd477adaf6914d34a752f0e0b3226adf325860e88285",
+    "points": 110,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Australia_c1ef40ce/summary_master_Australia.csv.gz"
+  },
+  "Austria": {
+    "sha256": "049720a3c747409a446924cb21b352058e5a331cc3a00280b8a6048f52099de0",
+    "points": 34,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Austria_c9cab023/summary_master_Austria.csv.gz"
+  },
+  "Azerbaijan": {
+    "sha256": "f7e0f7089ab70ac6f03c0aa22e1be705f68944799a56ff14ecba13062a092f71",
+    "points": 44,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Azerbaijan_efa9150a/summary_master_Azerbaijan.csv.gz"
+  },
+  "Bangladesh": {
+    "sha256": "56e6ee564ea766eae3eaeaeb07dc5de321adf11707bdc2816932337357804828",
+    "points": 36,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Bangladesh_2f1d47eb/summary_master_Bangladesh.csv.gz"
+  },
+  "Belarus": {
+    "sha256": "0c05dc55713324db10f2c9916d3e231f2b0d17e2dd08007ac2969f3785e71490",
+    "points": 9,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Belarus_4bef16df/summary_master_Belarus.csv.gz"
+  },
+  "Belize": {
+    "sha256": "1a2ceb3a9f9f8e7b668d15d8eade98cc31cfd6247172bd95ecb27a2afbb80305",
+    "points": 9,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Belize_71dc81f1/summary_master_Belize.csv.gz"
+  },
+  "Benin": {
+    "sha256": "f546b30a87899f20003ab402ddaf15d23e5d94a459a310366824ee93a1efe833",
+    "points": 54,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Benin_69d0a7b8/summary_master_Benin.csv.gz"
+  },
+  "Bolivia": {
+    "sha256": "c5ad984e51ab72b569b9dcf016cece838b5fc70ce2a77cd21ed0e0a409523dcb",
+    "points": 169,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Bolivia_9621c073/summary_master_Bolivia.csv.gz"
+  },
+  "Bosnia & Herzegovina": {
+    "sha256": "c68f6669bd77fe187562af1c494ca4d523f1216bcbb15e293053004f1a9eae47",
+    "points": 29,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Bosnia_Herzegovina_045a650e/summary_master_Bosnia_Herzegovina.csv.gz"
+  },
+  "Botswana": {
+    "sha256": "9ec8982fb1e379a9aaa94ae8d299e20e64809ddd48ccaea60caa2de27b6cdb02",
+    "points": 2,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Botswana_1672f60c/summary_master_Botswana.csv.gz"
+  },
+  "Brazil": {
+    "sha256": "f6cf71420df8315c36e6d2000c59db3ead7b984c0246e3d5eb4f7eb04de7351e",
+    "points": 1666,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Brazil_07f62b02/summary_master_Brazil.csv.gz"
+  },
+  "Bulgaria": {
+    "sha256": "e4b7f853606af360f9dd6a6bfc9ac48a146c7cb329c88330dd873cbd6269651f",
+    "points": 67,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Bulgaria_66b86bf0/summary_master_Bulgaria.csv.gz"
+  },
+  "Burkina Faso": {
+    "sha256": "4042b6ba2f59b302ac79ae3b113dc6ef3964793306ea80b756f23e4c4f78bd0c",
+    "points": 107,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Burkina_Faso_a564371a/summary_master_Burkina_Faso.csv.gz"
+  },
+  "Burundi": {
+    "sha256": "ef498505b9f125e5890e8323e9b4e434af39c6a9ed1c82dae327b9d7a7ab82d5",
+    "points": 16,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Burundi_c835bd1c/summary_master_Burundi.csv.gz"
+  },
+  "Cambodia": {
+    "sha256": "ac1d4f526625851a4dd734be6cc08c5a66447887490963bd9f248aabdcbb3e67",
+    "points": 64,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Cambodia_0c2cb01a/summary_master_Cambodia.csv.gz"
+  },
+  "Cameroon": {
+    "sha256": "b8894e69b494a360089557e6ec15282806a160e2764214810f8a981010da2923",
+    "points": 138,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Cameroon_085807f2/summary_master_Cameroon.csv.gz"
+  },
+  "Canada": {
+    "sha256": "d8a0cc5c087879cf8450c4be8b18f628335c313005cd70f0980996837d07ca5c",
+    "points": 285,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Canada_be55ef3f/summary_master_Canada.csv.gz"
+  },
+  "Central African Republic": {
+    "sha256": "e7502ddba747d8f28cfd0566240353ba4ebb1bb22e62f50caad151f51b2c9ede",
+    "points": 1,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Central_African_Republic_e509cda4/summary_master_Central_African_Republic.csv.gz"
+  },
+  "Chad": {
+    "sha256": "74cfea77fb85f204d23c2dbd4f9b909a9ea265e8cb63254c8e5ed6f668236500",
+    "points": 7,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Chad_4256e512/summary_master_Chad.csv.gz"
+  },
+  "China": {
+    "sha256": "926a618a56cc19017f7f539a56111125e7fa0632b09c91c83bcfc5d8a483acc7",
+    "points": 2008,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/China_10436829/summary_master_China.csv.gz"
+  },
+  "Colombia": {
+    "sha256": "a3ec72e32afe549cbd6d6267e7a04c75541b1078e42dfef3ba7a90fa345a5098",
+    "points": 48,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Colombia_6b615adb/summary_master_Colombia.csv.gz"
+  },
+  "Congo": {
+    "sha256": "dd77307bd0a27ef6d6ffedcf7b921d01b0fabcf0df462181ddfa3528ed79f0f5",
+    "points": 4,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Congo_0bbfeb15/summary_master_Congo.csv.gz"
+  },
+  "Congo, DRC": {
+    "sha256": "55f5830625c98f6298aeb324f6c0fe0be5baf0831ed0703aff0bb7041b7523bd",
+    "points": 537,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Congo_DRC_042c1afd/summary_master_Congo_DRC.csv.gz"
+  },
+  "Cote d'Ivoire": {
+    "sha256": "da414520c10c69e56860b6932beec73d3c10d9c37b0eb086f2998312da359039",
+    "points": 128,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Cote_d_Ivoire_c8e47018/summary_master_Cote_d_Ivoire.csv.gz"
+  },
+  "Croatia": {
+    "sha256": "dad116cb849342afd3f96c677e1385df127aa5258dc06763e0d2bb454e93ecf9",
+    "points": 44,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Croatia_7328d3f8/summary_master_Croatia.csv.gz"
+  },
+  "Cuba": {
+    "sha256": "1f5716d5fc45812b863c11e79332834e7dfcc079d47344a7c8ee343638904d73",
+    "points": 62,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Cuba_0d0b4e41/summary_master_Cuba.csv.gz"
+  },
+  "Czech Republic": {
+    "sha256": "949a50bf38c75b7d864ca1b40880dd97b6c15414a1a71349ed482decb6467814",
+    "points": 51,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Czech_Republic_1c769ecb/summary_master_Czech_Republic.csv.gz"
+  },
+  "Ecuador": {
+    "sha256": "bca3a745725db95717c3b24abdce4125f255e674059c6165ab1380a97d41a707",
+    "points": 76,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Ecuador_2ca26c60/summary_master_Ecuador.csv.gz"
+  },
+  "El Salvador": {
+    "sha256": "8d982d895bc98a4fbd30d4103445f190f41eb1072ef90a4c16de7e3bf12592a2",
+    "points": 13,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/El_Salvador_c408d26c/summary_master_El_Salvador.csv.gz"
+  },
+  "Ethiopia": {
+    "sha256": "584dafa4b74b52c89df20c58720e16305d094fd5315fb353538031886f980fa2",
+    "points": 151,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Ethiopia_7d94977e/summary_master_Ethiopia.csv.gz"
+  },
+  "France": {
+    "sha256": "009843f28eb0f1f37cffb48d84e13ef0caacfe61c93efd0ada6ad186d522111b",
+    "points": 257,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/France_7a1ca4ef/summary_master_France.csv.gz"
+  },
+  "Gabon": {
+    "sha256": "d03f61da5c6c064dff3336581c46d39f57268d57e5953a86f12f6bd5cb19f298",
+    "points": 91,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Gabon_7e222a78/summary_master_Gabon.csv.gz"
+  },
+  "Georgia": {
+    "sha256": "3f812543f2fb83646c6f6a6715ae8f1d84416b6efc19827fae1e9bd0bae0b5c2",
+    "points": 28,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Georgia_46914921/summary_master_Georgia.csv.gz"
+  },
+  "Germany": {
+    "sha256": "f17c2148b2ce83378d889e6a24e03479b8aa19d283796d881438335b303bc267",
+    "points": 194,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Germany_80db4ccd/summary_master_Germany.csv.gz"
+  },
+  "Ghana": {
+    "sha256": "0d10445391f8a4aae5a207b89242a2d8d835df40dd88835b9dd3478647b64c39",
+    "points": 59,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Ghana_583201c1/summary_master_Ghana.csv.gz"
+  },
+  "Greece": {
+    "sha256": "023411fe617ad2346fca6a62731ee492e8cc0f0bd753be56962bf07e119d770f",
+    "points": 44,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Greece_9c93ad43/summary_master_Greece.csv.gz"
+  },
+  "Guatemala": {
+    "sha256": "8d00daeb5bc7cf041d88d7cc37ed6cb73d2f93de3323e35f2b4830994a7d5b73",
+    "points": 48,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Guatemala_45a15a24/summary_master_Guatemala.csv.gz"
+  },
+  "Guinea": {
+    "sha256": "1e1c6944ce977253d98ba119842c80b8b6f37c00c1767f4704fa54a772a0b087",
+    "points": 4,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Guinea_dd591d77/summary_master_Guinea.csv.gz"
+  },
+  "Honduras": {
+    "sha256": "bba1efc79942c3bfa7926409deb734147710efbc2cbec0022679efbcda939470",
+    "points": 52,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Honduras_b79b5f97/summary_master_Honduras.csv.gz"
+  },
+  "Hungary": {
+    "sha256": "22b35fab49ec31ca6758e425655f54f137f3ab4465128bbf5c36d2536c735994",
+    "points": 58,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Hungary_504be308/summary_master_Hungary.csv.gz"
+  },
+  "India": {
+    "sha256": "c8753f540843b779360ad331131004458c2aac4869723f4743254570759f960e",
+    "points": 784,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/India_abd14921/summary_master_India.csv.gz"
+  },
+  "Indonesia": {
+    "sha256": "449691232c10544e15b239bb9591010aee93b9d71f99ddeb74f3685c2c7e217f",
+    "points": 624,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Indonesia_dbc74a36/summary_master_Indonesia.csv.gz"
+  },
+  "Iran": {
+    "sha256": "01b9d67545802452039ed2380154389e5546b0b8b485f59f7a0c5c2cb381f399",
+    "points": 76,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Iran_18d4e170/summary_master_Iran.csv.gz"
+  },
+  "Italy": {
+    "sha256": "c50eb18151aebfe46246af917c419d36004b4affbeeee5beef6a4e38b943c1ab",
+    "points": 106,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Italy_5a9cf672/summary_master_Italy.csv.gz"
+  },
+  "Japan": {
+    "sha256": "9144518e4933d546a826d81182dd518e9513633d5fb085b05eec2093ff4728b6",
+    "points": 190,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Japan_64729438/summary_master_Japan.csv.gz"
+  },
+  "Kenya": {
+    "sha256": "03fc914a191164ffa144fe451129e99a25093661b655860efbe45e9171d05ae6",
+    "points": 80,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Kenya_74e1891d/summary_master_Kenya.csv.gz"
+  },
+  "Kosovo": {
+    "sha256": "1f9f7736bb249467b1be66d0b3d4cfa271c30826b20c1ac5f50be44c77f46dfb",
+    "points": 2,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Kosovo_4a867424/summary_master_Kosovo.csv.gz"
+  },
+  "Laos": {
+    "sha256": "00abfea0786ee1871b32bdff80f205cc16e51c6c9f587e1bce7efc44bc9deb3e",
+    "points": 105,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Laos_98e18f46/summary_master_Laos.csv.gz"
+  },
+  "Liberia": {
+    "sha256": "d07b8080f70001ca772fda05cccf8ab7af05438f1e66ebbb97e923095a425cd0",
+    "points": 47,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Liberia_c9d2604d/summary_master_Liberia.csv.gz"
+  },
+  "Macedonia": {
+    "sha256": "118acc17382a2d997f475607a82de31053d2850144000dfb28539042735e36e2",
+    "points": 18,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Macedonia_78732883/summary_master_Macedonia.csv.gz"
+  },
+  "Madagascar": {
+    "sha256": "4922b2b833631d1e65502e71815ae6289359be1f10663fe08697ef763bed3fad",
+    "points": 41,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Madagascar_d6804464/summary_master_Madagascar.csv.gz"
+  },
+  "Malawi": {
+    "sha256": "a710fa8349c2c88f398bd14bcd7b4a240579e64eef6fa214b0c5fe2f6cf12622",
+    "points": 56,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Malawi_611025cd/summary_master_Malawi.csv.gz"
+  },
+  "Mali": {
+    "sha256": "25bdb0829e2bb45526eec8a0df632428e683499a935ecac7d7aa447eea695aaf",
+    "points": 177,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Mali_ee5721a5/summary_master_Mali.csv.gz"
+  },
+  "Mexico": {
+    "sha256": "da9a503688049cc04965b109b3cf9422e6b07aadb2d492bafd4fa38184d42445",
+    "points": 101,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Mexico_a7d355b2/summary_master_Mexico.csv.gz"
+  },
+  "Moldova": {
+    "sha256": "82280c4642852391280bdd88726570e0249145c85549521750e4f23216dd47ed",
+    "points": 25,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Moldova_14ad63a1/summary_master_Moldova.csv.gz"
+  },
+  "Morocco": {
+    "sha256": "511af1f3147ce108e5314e5d127453e66991892f3539c1e3474285ebe460dcd3",
+    "points": 57,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Morocco_b675f5df/summary_master_Morocco.csv.gz"
+  },
+  "Mozambique": {
+    "sha256": "c05efea459098359ceb5efba1ce86d6617ad29b76267ce3153a464c1ff890f27",
+    "points": 176,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Mozambique_c9054826/summary_master_Mozambique.csv.gz"
+  },
+  "Myanmar": {
+    "sha256": "1d4e2fc20c851acb0a4d57e433ade19810e8f8393b787732b5750dcb291cfbf8",
+    "points": 240,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Myanmar_ba2039a4/summary_master_Myanmar.csv.gz"
+  },
+  "Nepal": {
+    "sha256": "db9ed9f67e573adb0117e9214835574b30446049b1419d4198165ce1fba02be9",
+    "points": 46,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Nepal_e15a18aa/summary_master_Nepal.csv.gz"
+  },
+  "Nicaragua": {
+    "sha256": "32707da8041c71655e2b93b01963847a333aa5d2f5dcdf1fdffd2c0bfb78e9f6",
+    "points": 35,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Nicaragua_94e6bd57/summary_master_Nicaragua.csv.gz"
+  },
+  "Niger": {
+    "sha256": "ca9aea6f33959e37909026022457b4cb886406adb8e74f6afa552aa87fd39304",
+    "points": 4,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Niger_2cbebc54/summary_master_Niger.csv.gz"
+  },
+  "Nigeria": {
+    "sha256": "1292d1f8c83f67a4eecc44a2e99da7bce6935ed8a7052ef115261be3b8c91a6a",
+    "points": 310,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Nigeria_04952a0f/summary_master_Nigeria.csv.gz"
+  },
+  "North Korea": {
+    "sha256": "42a33ec0fc9b78e5868cb1ab82ec924a7354fc061bf2a151d9c82673738700a7",
+    "points": 67,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/North_Korea_ae6175f1/summary_master_North_Korea.csv.gz"
+  },
+  "Panama": {
+    "sha256": "1a2a83d636c0f6c35ba0debc15a55eecba5fa15c4bf3b7192a16c14b1d9240d1",
+    "points": 33,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Panama_c3668f58/summary_master_Panama.csv.gz"
+  },
+  "Paraguay": {
+    "sha256": "6af2cd4c3e11552391b179b668d21e0399adbd60487955fca358f31af6967482",
+    "points": 172,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Paraguay_7fb4d179/summary_master_Paraguay.csv.gz"
+  },
+  "Peru": {
+    "sha256": "04ce0c49c4bd99360f66627165565bc9d168bf6310ae6d0b2466d299e0b39781",
+    "points": 76,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Peru_508731a3/summary_master_Peru.csv.gz"
+  },
+  "Philippines": {
+    "sha256": "98103ef932d77c53b053ff3962f80b3e0fc303a78a07786a625c04d56c52da75",
+    "points": 58,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Philippines_c3782c86/summary_master_Philippines.csv.gz"
+  },
+  "Poland": {
+    "sha256": "de342dfa9729d73a7005a1ec03e967ecaf22eafa980c80e0c7973fc97b9b7b97",
+    "points": 176,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Poland_7f69649a/summary_master_Poland.csv.gz"
+  },
+  "Portugal": {
+    "sha256": "24f0401ac194838f5e11b15b180c7c964c0f70c255b9f038ad4f4caa3558b43b",
+    "points": 3,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Portugal_4c7de2c3/summary_master_Portugal.csv.gz"
+  },
+  "Romania": {
+    "sha256": "23d1b8f2802057a8bf09db5441950b0834cb6b01449811b0f1ed0a85628cd2b3",
+    "points": 81,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Romania_ea23726d/summary_master_Romania.csv.gz"
+  },
+  "Russia": {
+    "sha256": "430b235d93c5c61dbef698d5d3bf839a1bb645fdb548ae46be26deb3f0641ac8",
+    "points": 1153,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Russia_33a3d8ed/summary_master_Russia.csv.gz"
+  },
+  "Rwanda": {
+    "sha256": "c7e6ddb8791bbd898b25822502a67878e2ca97edf3d3d5278952195b641cb583",
+    "points": 15,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Rwanda_12c8f8f4/summary_master_Rwanda.csv.gz"
+  },
+  "Serbia": {
+    "sha256": "5975fce68d346506af24ba6a9fb271d171a09efe6ec250df7160fe9483c18110",
+    "points": 51,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Serbia_e8739c83/summary_master_Serbia.csv.gz"
+  },
+  "Slovenia": {
+    "sha256": "78c3d2deda7d4ddd95e6b9fb6a16f2dc7b396ddde22673e92d115f995d2e6df8",
+    "points": 16,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Slovenia_56059e7f/summary_master_Slovenia.csv.gz"
+  },
+  "South Africa": {
+    "sha256": "53829a1e0967c9365cfca5b9731310e459ab6ee9a9518ba4a8d69c01c81b7363",
+    "points": 217,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/South_Africa_3e049d78/summary_master_South_Africa.csv.gz"
+  },
+  "South Korea": {
+    "sha256": "0b5f39125dba03d0f15700c9e5c05993fdea9109fce6602be7ed3f8fad128fe8",
+    "points": 54,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/South_Korea_c85329e3/summary_master_South_Korea.csv.gz"
+  },
+  "Spain": {
+    "sha256": "b999c5c91d813eb59a517b72ca5d44f28c5c672fc94c5c9078e4f5e917a96231",
+    "points": 144,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Spain_8ef41e6f/summary_master_Spain.csv.gz"
+  },
+  "Sri Lanka": {
+    "sha256": "e61bf634b0e8e3b683f51a1409a9453635f1af70f6d6c5b119d239b34281c025",
+    "points": 25,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Sri_Lanka_07f8d114/summary_master_Sri_Lanka.csv.gz"
+  },
+  "Sudan": {
+    "sha256": "2e0514ba77d3110fcce2f7eb5c06d32ddc542244d4b2461f8ca92471f3cc3804",
+    "points": 1,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Sudan_ed68d4de/summary_master_Sudan.csv.gz"
+  },
+  "Suriname": {
+    "sha256": "59270c9925eeb5e1017eb2223a867d8eca0e6985f414a548cde8f690194a649a",
+    "points": 6,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Suriname_b1cb8eac/summary_master_Suriname.csv.gz"
+  },
+  "Swaziland": {
+    "sha256": "e7d9e66aba79e02b2f87172f58b4f96bba7bda09fc172495e92112eb428f43a2",
+    "points": 1,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Swaziland_18810558/summary_master_Swaziland.csv.gz"
+  },
+  "Switzerland": {
+    "sha256": "a5a2bb364eac304ca813e42ae98d88b87efe0fa71b8c8b9e2662019c6c985ee5",
+    "points": 13,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Switzerland_22755831/summary_master_Switzerland.csv.gz"
+  },
+  "Syria": {
+    "sha256": "a87af119565eddd4e17eff1840343094e7fcc15b3616733b2171206cb47ff2ba",
+    "points": 19,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Syria_cf6ac29b/summary_master_Syria.csv.gz"
+  },
+  "Taiwan": {
+    "sha256": "7c69cdac6f0257b306f9c4f9759b99eff1d1a8679bcfe659b606669ace11bbec",
+    "points": 21,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Taiwan_dd76af19/summary_master_Taiwan.csv.gz"
+  },
+  "Tajikistan": {
+    "sha256": "b9a080e22bedf8baa9d589b08e750febd959f200f6baa855109192fdfd48eb67",
+    "points": 24,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Tajikistan_066b0213/summary_master_Tajikistan.csv.gz"
+  },
+  "Tanzania": {
+    "sha256": "ba753bde3a94401653a78a593a2f1001ae0725b72651c01c7cd68b8db4a9cc12",
+    "points": 204,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Tanzania_9555664f/summary_master_Tanzania.csv.gz"
+  },
+  "Thailand": {
+    "sha256": "a5eacedf7ecd642de5f416951488a70a34f4b34f9f6ef48b28184d163198652a",
+    "points": 81,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Thailand_6e49e650/summary_master_Thailand.csv.gz"
+  },
+  "Timor Leste": {
+    "sha256": "af32df9ae1338de5db5f137a3ba33a2ee41978d63c4ecfc134b50e38acb7dade",
+    "points": 12,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Timor_Leste_f16a03fe/summary_master_Timor_Leste.csv.gz"
+  },
+  "Togo": {
+    "sha256": "88603859fd41e19ab013ef116e1833907d0ed91c6065fdf5fdd358216c3da0bd",
+    "points": 31,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Togo_4080343e/summary_master_Togo.csv.gz"
+  },
+  "Uganda": {
+    "sha256": "ac355ee59d316969d5a171a53048e99175c14194e3661d46b01531fc1251beb7",
+    "points": 75,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Uganda_893d5385/summary_master_Uganda.csv.gz"
+  },
+  "Ukraine": {
+    "sha256": "c61b74721373af178fbd564b3b58b2559faf9d631d9770bbc75a6363a142d88d",
+    "points": 335,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Ukraine_580eedc6/summary_master_Ukraine.csv.gz"
+  },
+  "United States": {
+    "sha256": "fed6d7ba7f32b1a494e9d62100c313a22a89db2745bdd86176686b2fd1c58ed2",
+    "points": 1865,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/United_States_49dca65f/summary_master_United_States.csv.gz"
+  },
+  "Uruguay": {
+    "sha256": "b8203aed0b30d04b5b95e23ca1eb4a51408f09b4c753f32b7771f1ea2f218876",
+    "points": 70,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Uruguay_fe2403f2/summary_master_Uruguay.csv.gz"
+  },
+  "Uzbekistan": {
+    "sha256": "800316ad3244bda8c88df572c7e3a399ec6d28f34c4dbf73eddff1bb1fbf9e2f",
+    "points": 20,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Uzbekistan_4bc2f1c2/summary_master_Uzbekistan.csv.gz"
+  },
+  "Venezuela": {
+    "sha256": "b9566aad2175f8d9d8861d874b64da4a176b5a98bbe446dd54ce981dd89b544b",
+    "points": 40,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Venezuela_020e438b/summary_master_Venezuela.csv.gz"
+  },
+  "Vietnam": {
+    "sha256": "a896a08698b28b05f3715c182945672c2167fec113a20de04eeae99d80522301",
+    "points": 152,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Vietnam_2e5e8106/summary_master_Vietnam.csv.gz"
+  },
+  "Zambia": {
+    "sha256": "7ba8f3f14847f3b88e4f8bf684560d52f9a87bf10036e17544accb885c61dc04",
+    "points": 258,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Zambia_b5f9221a/summary_master_Zambia.csv.gz"
+  },
+  "Zimbabwe": {
+    "sha256": "1bf5115a7549d9428c43bdd4205b01039af0b6a9e4bb9de0844262ce1bd8a784",
+    "points": 143,
+    "hpg_master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/co2_future_global_20261119_v2/Zimbabwe_c72199a8/summary_master_Zimbabwe.csv.gz"
+  }
+}

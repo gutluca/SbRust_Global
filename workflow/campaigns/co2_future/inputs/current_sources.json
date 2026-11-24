@@ -1,0 +1,723 @@
+{
+  "Albania": {
+    "country": "Albania",
+    "sha256": "b499b27028dc6ab45c82f2dd8993901d24facb007319deaf327e72d19e72664e",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Albania\\summary_master_Albania.csv.gz",
+    "points": 17,
+    "area_ha": 176.29999919235706
+  },
+  "Algeria": {
+    "country": "Algeria",
+    "sha256": "ef4afca587528429785b74ccd42332448df720b4a5150ef7f20c0fb73301d69a",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Algeria\\summary_master_Algeria.csv.gz",
+    "points": 2,
+    "area_ha": 0.2000000029802322
+  },
+  "Andorra": {
+    "country": "Andorra",
+    "sha256": "cab5fe6fda4f0ff2377bef703670ecd6e9046d07ff678b126b99b1afc579bb23",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Andorra\\summary_master_Andorra.csv.gz",
+    "points": 1,
+    "area_ha": 0.4000000059604645
+  },
+  "Angola": {
+    "country": "Angola",
+    "sha256": "d2c8a4c2e3947a0a29825e338f83dd4c24de08d64bc46795be357705102f4c18",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Angola\\summary_master_Angola.csv.gz",
+    "points": 221,
+    "area_ha": 36068.599936537445
+  },
+  "Argentina": {
+    "country": "Argentina",
+    "sha256": "e70d24def1d6b7f122b1d459eba5538dd7a0822a38ce47641379c61a67469bc8",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Argentina\\summary_master_Argentina.csv.gz",
+    "points": 555,
+    "area_ha": 16385662.914755754
+  },
+  "Australia": {
+    "country": "Australia",
+    "sha256": "970bc6e8e922525445730e8cb607daf8547658ee6bed2267ffdbe7fcb6e90b9d",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Australia\\summary_master_Australia.csv.gz",
+    "points": 110,
+    "area_ha": 6322.099997103214
+  },
+  "Austria": {
+    "country": "Austria",
+    "sha256": "ab3fe7bace1450fc8867bd133be8835cba74084f6643785827c45a1903647ad9",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Austria\\summary_master_Austria.csv.gz",
+    "points": 34,
+    "area_ha": 67696.09990596771
+  },
+  "Azerbaijan": {
+    "country": "Azerbaijan",
+    "sha256": "34d1103e39b2c03b432eb418f81bba53adfdcb3ff3970691e67618a9722e6086",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Azerbaijan\\summary_master_Azerbaijan.csv.gz",
+    "points": 44,
+    "area_ha": 56.4000004902482
+  },
+  "Bangladesh": {
+    "country": "Bangladesh",
+    "sha256": "de0398b3ebcf1dae097960137cecb513362fa1c57ec988137f8485e7d44cd305",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Bangladesh\\summary_master_Bangladesh.csv.gz",
+    "points": 36,
+    "area_ha": 45303.89995779097
+  },
+  "Belarus": {
+    "country": "Belarus",
+    "sha256": "69ee3b00bd65d7d3b131eb6a37b23039881759ebef572fc0bff1b2e12e1e3aeb",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Belarus\\summary_master_Belarus.csv.gz",
+    "points": 9,
+    "area_ha": 211.19999919831753
+  },
+  "Belize": {
+    "country": "Belize",
+    "sha256": "98dc47bc2fc5dbb02a6c5b91b8e79f15e2e76ac51d8dace2d24948622d0259be",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Belize\\summary_master_Belize.csv.gz",
+    "points": 9,
+    "area_ha": 9817.80000463128
+  },
+  "Benin": {
+    "country": "Benin",
+    "sha256": "9027923376788e57bc0cba35d18cac61ab2a7b8a2e97efaaf4a86646d4841216",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Benin\\summary_master_Benin.csv.gz",
+    "points": 54,
+    "area_ha": 208289.20015718043
+  },
+  "Bolivia": {
+    "country": "Bolivia",
+    "sha256": "8f156709752f62897dd4069740e1c2228329fb5a8728a148c89d983732cc3a71",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Documentos\\SBrust_world\\summary_master_Bolivia_v2_20261117.csv.gz",
+    "points": 169,
+    "area_ha": 1366672.599008657
+  },
+  "Bosnia & Herzegovina": {
+    "country": "Bosnia & Herzegovina",
+    "sha256": "f5535daa05750e495d6350a09b30f992d2f708d50b2866c728cbb24f967b9fe1",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Bosnia_Herzegovina\\summary_master_Bosnia_Herzegovina.csv.gz",
+    "points": 29,
+    "area_ha": 12859.900007247925
+  },
+  "Botswana": {
+    "country": "Botswana",
+    "sha256": "7cc194808674eb0db8105bf2faf875fa4bda2c2ffb74ce23d074d7579d09f7c5",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Botswana\\summary_master_Botswana.csv.gz",
+    "points": 2,
+    "area_ha": 21.699999809265137
+  },
+  "Brazil": {
+    "country": "Brazil",
+    "sha256": "bf2200edbf42842414944079e29e66fbfd7a4217abd9118ac60e50ce4da7567e",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Documentos\\SBrust_world\\summary_master_Brazil_v3_20261117.csv.gz",
+    "points": 1666,
+    "area_ha": 36174956.304940686
+  },
+  "Bulgaria": {
+    "country": "Bulgaria",
+    "sha256": "d258272a0d683d8629e93f3c161a2b2de4c3531d7c157a0a6315df33ab994272",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Bulgaria\\summary_master_Bulgaria.csv.gz",
+    "points": 67,
+    "area_ha": 3212.700001910329
+  },
+  "Burkina Faso": {
+    "country": "Burkina Faso",
+    "sha256": "8077b630a141a72eb76c4aff143c487ec7b3b39bbff71dfffc46762d78b53a44",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Burkina_Faso\\summary_master_Burkina_Faso.csv.gz",
+    "points": 107,
+    "area_ha": 57927.10000894219
+  },
+  "Burundi": {
+    "country": "Burundi",
+    "sha256": "f9ab41ede0d1c1607b952a0165a690874682dad6e9c5539e6ecbcffb94144abb",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Burundi\\summary_master_Burundi.csv.gz",
+    "points": 16,
+    "area_ha": 4724.500000469387
+  },
+  "Cambodia": {
+    "country": "Cambodia",
+    "sha256": "d38440b07e655b782645fe3ff5a53d9f247e309d900d1a81309e669c95f2845f",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Cambodia\\summary_master_Cambodia.csv.gz",
+    "points": 64,
+    "area_ha": 107571.79997680336
+  },
+  "Cameroon": {
+    "country": "Cameroon",
+    "sha256": "3ba26ae04361b7e741c3aed435e1bb924056203e582cf9051f529af316000082",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Cameroon\\summary_master_Cameroon.csv.gz",
+    "points": 138,
+    "area_ha": 15698.900033026934
+  },
+  "Canada": {
+    "country": "Canada",
+    "sha256": "23c9dfebe6549a4aaa8672f064202fb9114698187b745f97fa097bb1340aaaba",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Canada\\summary_master_Canada.csv.gz",
+    "points": 285,
+    "area_ha": 2068501.6908728704
+  },
+  "Central African Republic": {
+    "country": "Central African Republic",
+    "sha256": "bee099fc5fbcdc30f5d1801408ae7413090afbd956f83fe0a0c209dc3316ed1c",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Central_African_Republic\\summary_master_Central_African_Republic.csv.gz",
+    "points": 1,
+    "area_ha": 24.20000028610229
+  },
+  "Chad": {
+    "country": "Chad",
+    "sha256": "68dd233c640af2bdc8639d22b39dcbb0a4da068cce3dd723c057dbbfc9526653",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Chad\\summary_master_Chad.csv.gz",
+    "points": 7,
+    "area_ha": 155.29999828338623
+  },
+  "China": {
+    "country": "China",
+    "sha256": "9dbc636f4738cd2ad2da8fbb94a9210daf8e7c86cf7f1dbc8eba335f8c25bf71",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\China\\summary_master_China.csv.gz",
+    "points": 2008,
+    "area_ha": 7812803.997798577
+  },
+  "Colombia": {
+    "country": "Colombia",
+    "sha256": "0b58de59517416cf0c70ae1cc87ab92a1241ca60d518552d3132e5f8cb5422a3",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Colombia\\summary_master_Colombia.csv.gz",
+    "points": 48,
+    "area_ha": 37496.09994357079
+  },
+  "Congo": {
+    "country": "Congo",
+    "sha256": "b960cf7eafb6751421631acb41fe480049c9d8272a5f50b6d20525040864aca4",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Congo\\summary_master_Congo.csv.gz",
+    "points": 4,
+    "area_ha": 73.20000049471855
+  },
+  "Congo, DRC": {
+    "country": "Congo, DRC",
+    "sha256": "0b30525822ffb6a68bce49dd2df01b7f87d71e9608670222c5908e322b45254f",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Congo_DRC\\summary_master_Congo_DRC.csv.gz",
+    "points": 537,
+    "area_ha": 49985.100086182356
+  },
+  "Cote d'Ivoire": {
+    "country": "Cote d'Ivoire",
+    "sha256": "ab504aa007a6acc3d0a3c477a62360551e8c8a67e3bc35edac7cefa718e87237",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Cote_d_Ivoire\\summary_master_Cote_d_Ivoire.csv.gz",
+    "points": 128,
+    "area_ha": 417.48441323395673
+  },
+  "Croatia": {
+    "country": "Croatia",
+    "sha256": "35765a23b51640e5b4300288fbbbb24acf70dd523d895cbb2cec7adf79f6a0d0",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Croatia\\summary_master_Croatia.csv.gz",
+    "points": 44,
+    "area_ha": 82641.40005652606
+  },
+  "Cuba": {
+    "country": "Cuba",
+    "sha256": "9f0b7b89bc45ddaa3e4f14d7cee3130cf5d7d66815639b330f95556ee52b7d5e",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Cuba\\summary_master_Cuba.csv.gz",
+    "points": 62,
+    "area_ha": 398.20000648498535
+  },
+  "Czech Republic": {
+    "country": "Czech Republic",
+    "sha256": "9c806131e4ec2d4921b8b30c1a43b204489f203224f0da8a6a8f3117b2667964",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Czech_Republic\\summary_master_Czech_Republic.csv.gz",
+    "points": 51,
+    "area_ha": 15371.400012217462
+  },
+  "Ecuador": {
+    "country": "Ecuador",
+    "sha256": "f4b815f6388c9e3ccd337ac765928f28fb251f7dc6f07b6b87028074be80d8e9",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Ecuador\\summary_master_Ecuador.csv.gz",
+    "points": 76,
+    "area_ha": 21788.399979956448
+  },
+  "El Salvador": {
+    "country": "El Salvador",
+    "sha256": "975cf202ef9400ba69559adae465d36fc61f2173c067338ce4521b33ca411017",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\El_Salvador\\summary_master_El_Salvador.csv.gz",
+    "points": 13,
+    "area_ha": 2758.7000014409423
+  },
+  "Ethiopia": {
+    "country": "Ethiopia",
+    "sha256": "4a62227836549e2745c46100609ea5d2b151156d5d5d3c53db546e1e4fa4d60f",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Ethiopia\\summary_master_Ethiopia.csv.gz",
+    "points": 151,
+    "area_ha": 67662.49993140996
+  },
+  "France": {
+    "country": "France",
+    "sha256": "00b03b8019423f4a1373ab129b45e4334b38b7aed24a3fee2e661f4e6e07d9ea",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\France\\summary_master_France.csv.gz",
+    "points": 257,
+    "area_ha": 161001.99988856912
+  },
+  "Gabon": {
+    "country": "Gabon",
+    "sha256": "d492bb830212d4cceab89b048ee9aea1559807a567d34790e6c28fdadb6c6e36",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Gabon\\summary_master_Gabon.csv.gz",
+    "points": 91,
+    "area_ha": 4658.600004643202
+  },
+  "Georgia": {
+    "country": "Georgia",
+    "sha256": "35cda9d2a55194e913cb533f975b9633a771d53d6d6d1abac27f6a570d7e0c32",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Georgia\\summary_master_Georgia.csv.gz",
+    "points": 28,
+    "area_ha": 968.6000003367662
+  },
+  "Germany": {
+    "country": "Germany",
+    "sha256": "9390c9eefe0854d02809fc12ac142dd4996b607b6978bfac88b5038a032b9789",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Germany\\summary_master_Germany.csv.gz",
+    "points": 194,
+    "area_ha": 32273.0000134632
+  },
+  "Ghana": {
+    "country": "Ghana",
+    "sha256": "d60ba14999d8043c09bafd69ebaa8b93f302cbe721d319c70c2a2e08ce2908e2",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Ghana\\summary_master_Ghana.csv.gz",
+    "points": 59,
+    "area_ha": 109258.62601146728
+  },
+  "Greece": {
+    "country": "Greece",
+    "sha256": "58eac5836dc54c8eb91b297c1823f3311a4c7f80a374bfdbddf2d03a322a5e99",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Greece\\summary_master_Greece.csv.gz",
+    "points": 44,
+    "area_ha": 943.8000029921532
+  },
+  "Guatemala": {
+    "country": "Guatemala",
+    "sha256": "2f2d9fa13c42f4adb2ffa00a40d6322a758f4e89c3d6b293d57df601ccbe6402",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Guatemala\\summary_master_Guatemala.csv.gz",
+    "points": 48,
+    "area_ha": 15631.499969437718
+  },
+  "Guinea": {
+    "country": "Guinea",
+    "sha256": "3223aab3eed78dc11874d5004351ddb57efca6659a356c5bd7cbec84dd1cad65",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Guinea\\summary_master_Guinea.csv.gz",
+    "points": 4,
+    "area_ha": 8.199999786913395
+  },
+  "Honduras": {
+    "country": "Honduras",
+    "sha256": "5556e8ac91ca4d3c149aace0d924f2d512f4b545cf9cfdbb006eb63e538afcfc",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Honduras\\summary_master_Honduras.csv.gz",
+    "points": 52,
+    "area_ha": 861.1000047251582
+  },
+  "Hungary": {
+    "country": "Hungary",
+    "sha256": "e5aa6f46ad4c0d8e94e017366f8dcb9d358d132ee04b716d4f5256b5df586388",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Hungary\\summary_master_Hungary.csv.gz",
+    "points": 58,
+    "area_ha": 59982.30004931986
+  },
+  "India": {
+    "country": "India",
+    "sha256": "f094757e22f4b4fbab074bfa53cf3fa334ab5962dbdbdfc83dd137843ac3fec4",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\India\\summary_master_India.csv.gz",
+    "points": 784,
+    "area_ha": 11538339.1005169
+  },
+  "Indonesia": {
+    "country": "Indonesia",
+    "sha256": "8facee733bc8750aa7e7e67ecb2fe000ff19efd7ebedc794ddae8f97bf0f9f31",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Indonesia\\summary_master_Indonesia.csv.gz",
+    "points": 624,
+    "area_ha": 182047.00006321073
+  },
+  "Iran": {
+    "country": "Iran",
+    "sha256": "028f764ca36716b69c344fdfe6fec940c366ba2ccc7f1ccc1ae1c1a20064f990",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Iran\\summary_master_Iran.csv.gz",
+    "points": 76,
+    "area_ha": 13919.600005030632
+  },
+  "Italy": {
+    "country": "Italy",
+    "sha256": "e693ec1b07d5355d09bb1b7f484cf1279e18ae6a6c76f8c682c0b87dafe87208",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Italy\\summary_master_Italy.csv.gz",
+    "points": 106,
+    "area_ha": 270653.7000914812
+  },
+  "Japan": {
+    "country": "Japan",
+    "sha256": "8c09c81882f0201d1ad58bfef3711adb31b8fde89d2be3885c7f7c9a377594a3",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Japan\\summary_master_Japan.csv.gz",
+    "points": 190,
+    "area_ha": 138708.70030392706
+  },
+  "Kenya": {
+    "country": "Kenya",
+    "sha256": "79d251e577e7fb987f223614fa42f922e48cdfaaa2a91e18c700b4775d71209e",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Kenya\\summary_master_Kenya.csv.gz",
+    "points": 80,
+    "area_ha": 2383.400013230741
+  },
+  "Kosovo": {
+    "country": "Kosovo",
+    "sha256": "5463548367a621349765ad165fd1260388d2a100ce8e858e97547d7d1b6a2d0d",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Kosovo\\summary_master_Kosovo.csv.gz",
+    "points": 2,
+    "area_ha": 2.7999998927116394
+  },
+  "Laos": {
+    "country": "Laos",
+    "sha256": "8706d001b6bca21faae9d1f4ddb1ed081fb6ff8b3a4c422281fce175c5a8487d",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Laos\\summary_master_Laos.csv.gz",
+    "points": 105,
+    "area_ha": 7437.70001526922
+  },
+  "Liberia": {
+    "country": "Liberia",
+    "sha256": "113c23299d50759f392e13dba5937cb415fd32673aa7ecc6ae43710e54f48815",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Liberia\\summary_master_Liberia.csv.gz",
+    "points": 47,
+    "area_ha": 7709.199982054532
+  },
+  "Macedonia": {
+    "country": "Macedonia",
+    "sha256": "c5974d255306a5771ab93da1ed0c4888543c2c48f6b0cd09490dc6dd4c713c0a",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Macedonia\\summary_master_Macedonia.csv.gz",
+    "points": 18,
+    "area_ha": 68.50000086426735
+  },
+  "Madagascar": {
+    "country": "Madagascar",
+    "sha256": "0e082c3d276491c6928d43420e0194f7eadeaaf23fe6a409afd830c3638f6294",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Madagascar\\summary_master_Madagascar.csv.gz",
+    "points": 41,
+    "area_ha": 12.90000019222498
+  },
+  "Malawi": {
+    "country": "Malawi",
+    "sha256": "193af5b5cc745abc219a0d589ad196932574f4760833a9eafb4339f05d888f43",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Malawi\\summary_master_Malawi.csv.gz",
+    "points": 56,
+    "area_ha": 206427.59969819337
+  },
+  "Mali": {
+    "country": "Mali",
+    "sha256": "61ff02d507957d05aa49aff7b70478ad855ec27f6e37d1026ce079a94945db8d",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Mali\\summary_master_Mali.csv.gz",
+    "points": 177,
+    "area_ha": 20605.978532008827
+  },
+  "Mexico": {
+    "country": "Mexico",
+    "sha256": "8c6ec7100ca85004fd8a9e6ff4a99e9c1282b318f456d295e1b6f7ed5d88df3b",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Mexico\\summary_master_Mexico.csv.gz",
+    "points": 101,
+    "area_ha": 138860.11180808395
+  },
+  "Moldova": {
+    "country": "Moldova",
+    "sha256": "b68dba56c4801f50cf9d0891cc43c979ed449071f34741b55cc3ee085e2b3f4f",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Moldova\\summary_master_Moldova.csv.gz",
+    "points": 25,
+    "area_ha": 29095.599999427795
+  },
+  "Morocco": {
+    "country": "Morocco",
+    "sha256": "78893fcc8b2873483400bcd2c648c6873a2c5384897354487052f9543a86a953",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Morocco\\summary_master_Morocco.csv.gz",
+    "points": 57,
+    "area_ha": 176.2000026255846
+  },
+  "Mozambique": {
+    "country": "Mozambique",
+    "sha256": "d2ccb567122c8e8f4ab1b6dd8c60c0a61fd8c278dc3a110fc25fc86d581ffa98",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Mozambique\\summary_master_Mozambique.csv.gz",
+    "points": 176,
+    "area_ha": 45761.00009119511
+  },
+  "Myanmar": {
+    "country": "Myanmar",
+    "sha256": "c85b7887423a0748a707ff35803d416ecc1b63a68e4918ba6f19072db6210ca8",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Myanmar\\summary_master_Myanmar.csv.gz",
+    "points": 240,
+    "area_ha": 130823.300041385
+  },
+  "Nepal": {
+    "country": "Nepal",
+    "sha256": "74d921a73f58be7486ddb0559c4ab24bd380d8d64bf2e74c3ec6a47344e2acf2",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Nepal\\summary_master_Nepal.csv.gz",
+    "points": 46,
+    "area_ha": 23493.899995692074
+  },
+  "Nicaragua": {
+    "country": "Nicaragua",
+    "sha256": "81690dc215c43dd3b108aa1e7d98de5a361bb3cffcd713382ae965eaf1fc3a67",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Nicaragua\\summary_master_Nicaragua.csv.gz",
+    "points": 35,
+    "area_ha": 3990.4000063687563
+  },
+  "Niger": {
+    "country": "Niger",
+    "sha256": "1f949dce20b00b1fdb415fe0cedd05ab1cbbd8d6e50ba933b02dc8198d30c11d",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Niger\\summary_master_Niger.csv.gz",
+    "points": 4,
+    "area_ha": 279.20000610500574
+  },
+  "Nigeria": {
+    "country": "Nigeria",
+    "sha256": "16488abf34913fabdcf3273d00a14edb37bbae996b8833af850b27bd65b9a3b8",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Nigeria\\summary_master_Nigeria.csv.gz",
+    "points": 310,
+    "area_ha": 921642.0996837392
+  },
+  "North Korea": {
+    "country": "North Korea",
+    "sha256": "3e40f51a8a83d72ff79dd04a12cb7f711fd866db08f64dbb66b45a003c665977",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\North_Korea\\summary_master_North_Korea.csv.gz",
+    "points": 67,
+    "area_ha": 105569.99999792874
+  },
+  "Panama": {
+    "country": "Panama",
+    "sha256": "a29d52d01d5da89bfa6a3fd43a88aec1d113548de9bb20a7a027808d27e4d07b",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Panama\\summary_master_Panama.csv.gz",
+    "points": 33,
+    "area_ha": 269.60000187158585
+  },
+  "Paraguay": {
+    "country": "Paraguay",
+    "sha256": "ca0350059893d32b98721fad9deb2b9310d9c1c09fc39fc954f0122254367570",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Paraguay\\summary_master_Paraguay.csv.gz",
+    "points": 172,
+    "area_ha": 3611518.2028051317
+  },
+  "Peru": {
+    "country": "Peru",
+    "sha256": "1c2f34229a520624357486f3b153ded3dd09732319106d417283d26c2cd7f95a",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Peru\\summary_master_Peru.csv.gz",
+    "points": 76,
+    "area_ha": 725.7000063583255
+  },
+  "Philippines": {
+    "country": "Philippines",
+    "sha256": "25b5fbd2b94d157ea24f63e61732f2c1549a977321ab68e09c050df5ce325aed",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Philippines\\summary_master_Philippines.csv.gz",
+    "points": 58,
+    "area_ha": 382.5000043287873
+  },
+  "Poland": {
+    "country": "Poland",
+    "sha256": "4646fea5690e15a082e86f528051cc6518b8e066d43e9666800c61290789b16c",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Poland\\summary_master_Poland.csv.gz",
+    "points": 176,
+    "area_ha": 8080.800005532801
+  },
+  "Portugal": {
+    "country": "Portugal",
+    "sha256": "a1e28f05317194ccb0fba3f2e8a7a7b20c5c9a772cb37bb3795b088dd412b090",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Portugal\\summary_master_Portugal.csv.gz",
+    "points": 3,
+    "area_ha": 2.100000061094761
+  },
+  "Romania": {
+    "country": "Romania",
+    "sha256": "428355b155698bf8ee2d300750987cd671ccccff199417c1ddf0c50efb5bb2d2",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Romania\\summary_master_Romania.csv.gz",
+    "points": 81,
+    "area_ha": 70228.49992264807
+  },
+  "Russia": {
+    "country": "Russia",
+    "sha256": "533f549e9d789f37839183a7731534ebd0dedcdd264f9e44358b8e3aa2bfafdf",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Russia\\summary_master_Russia.csv.gz",
+    "points": 1153,
+    "area_ha": 2250671.899395451
+  },
+  "Rwanda": {
+    "country": "Rwanda",
+    "sha256": "5875e930c8d21ac9afe963ea1634098911671855860199fa370d8987c9c475a8",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Rwanda\\summary_master_Rwanda.csv.gz",
+    "points": 15,
+    "area_ha": 49580.499916255474
+  },
+  "Serbia": {
+    "country": "Serbia",
+    "sha256": "34fe0a7a0c6980608ae8c3772edda949ce05aa42fd40a2ca9802188ee61a484c",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Serbia\\summary_master_Serbia.csv.gz",
+    "points": 51,
+    "area_ha": 231951.80004187673
+  },
+  "Slovenia": {
+    "country": "Slovenia",
+    "sha256": "5a9f1837bf41ed1472c419338f8a3f59956e39eb578f0c5a46c574e929384304",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Slovenia\\summary_master_Slovenia.csv.gz",
+    "points": 16,
+    "area_ha": 1937.7999990731478
+  },
+  "South Africa": {
+    "country": "South Africa",
+    "sha256": "39d978e4ed35084b6b1043069a63512615ac76289f808bfd0caae52fed6693a8",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\South_Africa\\summary_master_South_Africa.csv.gz",
+    "points": 217,
+    "area_ha": 656224.2001253739
+  },
+  "South Korea": {
+    "country": "South Korea",
+    "sha256": "bab1df8fe5ae6772c6d6b092358a0c0e8dc7e1cef48842c42b7489c1f7d84255",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\South_Korea\\summary_master_South_Korea.csv.gz",
+    "points": 54,
+    "area_ha": 54953.400054462254
+  },
+  "Spain": {
+    "country": "Spain",
+    "sha256": "fc52b1f6984e5f61638f52c7c7f9c743f21cdfaa134c906710e6818f9196e9f1",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Spain\\summary_master_Spain.csv.gz",
+    "points": 144,
+    "area_ha": 1541.8000072315335
+  },
+  "Sri Lanka": {
+    "country": "Sri Lanka",
+    "sha256": "21d75aaff81cc82d3871829f65b7399d9d06ce7f1adf43596e67488f16b70b9e",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Sri_Lanka\\summary_master_Sri_Lanka.csv.gz",
+    "points": 25,
+    "area_ha": 2121.7000081315637
+  },
+  "Sudan": {
+    "country": "Sudan",
+    "sha256": "0eea60ffe458e9c8599e7bc437186aa930f092fc9742599f97f6e1da197be7f9",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Sudan\\summary_master_Sudan.csv.gz",
+    "points": 1,
+    "area_ha": 17.700000002980232
+  },
+  "Suriname": {
+    "country": "Suriname",
+    "sha256": "aa0534bda974ee8d006d94f25ddc4e28d9ac3000579485a30b980fbc7648c81c",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Suriname\\summary_master_Suriname.csv.gz",
+    "points": 6,
+    "area_ha": 6.700000166893005
+  },
+  "Swaziland": {
+    "country": "Swaziland",
+    "sha256": "71cc50edc0864cb864117371ccad6ff7de41ef7e699bb7130c7dcc9d39438687",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Swaziland\\summary_master_Swaziland.csv.gz",
+    "points": 1,
+    "area_ha": 239.39999771118164
+  },
+  "Switzerland": {
+    "country": "Switzerland",
+    "sha256": "1edd78dd1ce09229ace9997e09e7f3c35b0afa4c077c26d98982d0873749c477",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Switzerland\\summary_master_Switzerland.csv.gz",
+    "points": 13,
+    "area_ha": 1993.4000029563904
+  },
+  "Syria": {
+    "country": "Syria",
+    "sha256": "4f8f06066e88b99c17b41cab86bb47939f1338d6ac1fdd3ae57a8004013f5779",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Syria\\summary_master_Syria.csv.gz",
+    "points": 19,
+    "area_ha": 2112.6000099256635
+  },
+  "Taiwan": {
+    "country": "Taiwan",
+    "sha256": "d775120ccb9406a4524e35bd8712b27f9419b481595220f2ebfe00cfe422222e",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Taiwan\\summary_master_Taiwan.csv.gz",
+    "points": 21,
+    "area_ha": 3443.599999241531
+  },
+  "Tajikistan": {
+    "country": "Tajikistan",
+    "sha256": "829964f3ed6ef157d3e2a365aa62fa81f49498587aed4111ec62f53abc564465",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Tajikistan\\summary_master_Tajikistan.csv.gz",
+    "points": 24,
+    "area_ha": 180.00000511854887
+  },
+  "Tanzania": {
+    "country": "Tanzania",
+    "sha256": "2946d032d467e98b9a156165397ec38644838f9e4a1235791243d37ff0929cbc",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Tanzania\\summary_master_Tanzania.csv.gz",
+    "points": 204,
+    "area_ha": 17727.800066627562
+  },
+  "Thailand": {
+    "country": "Thailand",
+    "sha256": "8bd10fca572df0222049218873a1bc3f65f7a3d4e189a77c7427defd86b94795",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Thailand\\summary_master_Thailand.csv.gz",
+    "points": 81,
+    "area_ha": 19719.20000772178
+  },
+  "Timor Leste": {
+    "country": "Timor Leste",
+    "sha256": "fd22636378fe41b7de6f444214d7d3a5ce83a50364b636a439fe5f8b18ea57ee",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Timor_Leste\\summary_master_Timor_Leste.csv.gz",
+    "points": 12,
+    "area_ha": 739.4000029563904
+  },
+  "Togo": {
+    "country": "Togo",
+    "sha256": "79a699cd2cbc4f9b15c66b2d5de937308db6388f280efaa864e4ee7d584894c0",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Togo\\summary_master_Togo.csv.gz",
+    "points": 31,
+    "area_ha": 3818.600005351007
+  },
+  "Uganda": {
+    "country": "Uganda",
+    "sha256": "48e86404ee1cac4d3c0e4a5c1802d1b19ec637f61fd476de5bbed8d741ab9945",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Uganda\\summary_master_Uganda.csv.gz",
+    "points": 75,
+    "area_ha": 50661.09987164289
+  },
+  "Ukraine": {
+    "country": "Ukraine",
+    "sha256": "22faed3d94a1ae99986ae669c194302c8a43c9cd5f2c140f671539cc726ad232",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Ukraine\\summary_master_Ukraine.csv.gz",
+    "points": 335,
+    "area_ha": 1256134.6995546892
+  },
+  "United States": {
+    "country": "United States",
+    "sha256": "231a7b6486150b735a18136d9106c262d0dd5aa55b22963637ba2cfb0f93cbf6",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\United_States\\summary_master_United_States.csv.gz",
+    "points": 1865,
+    "area_ha": 29504765.3999662
+  },
+  "Uruguay": {
+    "country": "Uruguay",
+    "sha256": "e22d16a5f72f5d437e46e339547587beafaee748b395b6ef1261d33ed5dce1f8",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Uruguay\\summary_master_Uruguay.csv.gz",
+    "points": 70,
+    "area_ha": 906056.6001338959
+  },
+  "Uzbekistan": {
+    "country": "Uzbekistan",
+    "sha256": "8fb4730faaecbbcfe3dd88cfc2a7a6d64dadffc6a5a8b2836ee429c1dae1f71a",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Uzbekistan\\summary_master_Uzbekistan.csv.gz",
+    "points": 20,
+    "area_ha": 5797.299992650747
+  },
+  "Venezuela": {
+    "country": "Venezuela",
+    "sha256": "1b4db5eb675977b343a47cbd47ec9b0bf1f8acedbc70ed6a50afc140d5b8defa",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Venezuela\\summary_master_Venezuela.csv.gz",
+    "points": 40,
+    "area_ha": 4682.700022101402
+  },
+  "Vietnam": {
+    "country": "Vietnam",
+    "sha256": "6f9371b79237e9f56bf87760d8c12935662d3d99781fe31a06eccbb07b710e84",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Vietnam\\summary_master_Vietnam.csv.gz",
+    "points": 152,
+    "area_ha": 22834.600027382374
+  },
+  "Zambia": {
+    "country": "Zambia",
+    "sha256": "e1ac503e80894def1f7c34efc2fb28fbee262d97c7059b3b5606793179d83dd7",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Zambia\\summary_master_Zambia.csv.gz",
+    "points": 258,
+    "area_ha": 238638.40017850697
+  },
+  "Zimbabwe": {
+    "country": "Zimbabwe",
+    "sha256": "e2e1f971b2a3932848d005a0a44f8c4a26b9f32dc3f4853c0e2e30d22542a9d9",
+    "source": "C:\\Users\\gutlu\\OneDrive\\Mestrado\\paper_nature\\hipergator_bckp\\sbrust_world_final\\countries\\Zimbabwe\\summary_master_Zimbabwe.csv.gz",
+    "points": 143,
+    "area_ha": 33551.19999105483
+  }
+}

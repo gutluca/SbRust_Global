@@ -1,0 +1,76 @@
+{
+  "profiles": {
+    "hipergator": {
+      "dssat_executable": "/blue/wpavan/gustavo.luca/SBrust_world/apps/dssat-dismo-4.8/dscsm048",
+      "dssat_profile": "/blue/wpavan/gustavo.luca/SBrust_world/apps/dssat-dismo-4.8/DSSATPRO.L48",
+      "dssat_simulation_cde": "/blue/wpavan/gustavo.luca/SBrust_world/data/dssat48/StandardData/SIMULATION.CDE",
+      "disease_parameters": "/blue/wpavan/gustavo.luca/SBrust_world/inputs/disease/disease_parameters.txt",
+      "ghr_root": "/blue/wpavan/gustavo.luca/SBrust_world/data/spatial/eGHR",
+      "spam_raster": "/blue/wpavan/gustavo.luca/SBrust_world/data/spatial/raster/spam2020_V2r2_global_H_SOYB_R.tif",
+      "soil_raster": "/blue/wpavan/gustavo.luca/SBrust_world/data/spatial/raster/eGHR_soils_raster.tif",
+      "countries": "/blue/wpavan/gustavo.luca/SBrust_world/data/spatial/world_countries_updated/world_countries_updated.shp",
+      "weather_root": "/orange/hoogenboom/weather",
+      "weather_dir_templates": {
+        "historical": "{weather_root}/historical/{gcm}/{gcm}_hist_WTH",
+        "ssp126": "{weather_root}/ssp126/{gcm}/{gcm}_ssp126_WTH",
+        "ssp370": "{weather_root}/ssp370/{gcm}/{gcm}_ssp370_WTH",
+        "ssp585": "{weather_root}/ssp585/{gcm}/{gcm}_ssp585_WTH"
+      },
+      "work_root": "/blue/wpavan/gustavo.luca/SBrust_world/work"
+    }
+  },
+  "experiment": {
+    "country": "Brazil",
+    "resolution_degrees": 0.5,
+    "periods": [
+      {"name": "baseline", "scenarios": ["historical"], "start_year": 1981, "end_year": 2014},
+      {"name": "future_near", "scenarios": ["ssp126", "ssp370", "ssp585"], "start_year": 2020, "end_year": 2039},
+      {"name": "future_mid", "scenarios": ["ssp126", "ssp370", "ssp585"], "start_year": 2040, "end_year": 2069}
+    ],
+    "threads": 4,
+    "cores": 4,
+    "cultivar_source": "inverse_calibration",
+    "calendar": {
+      "enabled": true,
+      "mode": "annual_scenario_reference",
+      "notes": "Historical GGCMI calibrates one fixed GM per pixel. The 1981-2014 baseline uses one pixel-specific historical-climatological planting reference derived from 1991-2014, while future GGCMI supplies annual scenario-specific P03 and P01-P05 for every WTH/GCM in that SSP; WTH differences, not calendar identity, define the five-member climate ensemble.",
+      "historical_baseline": {
+        "mode": "climatological_reference",
+        "source": "/blue/wpavan/gustavo.luca/SBrust_world/data/spatial/ggcmi-crop-calendar_gfdl-esm4_histsoc_soy-noirr_annual_1991_2014.nc",
+        "reference_gcm": "GFDL-ESM4",
+        "start_year": 1991,
+        "end_year": 2014,
+        "stat": "median"
+      },
+      "sources": {
+        "historical": "/blue/wpavan/gustavo.luca/SBrust_world/data/spatial/ggcmi-crop-calendar_gfdl-esm4_histsoc_soy-noirr_annual_1991_2014.nc",
+        "ssp126": "/blue/wpavan/gustavo.luca/SBrust_world/data/spatial/ggcmi-crop-calendar_ipsl-cm6a-lr_ssp126_soy-noirr_annual_2015_2100.nc",
+        "ssp370": "/blue/wpavan/gustavo.luca/SBrust_world/data/spatial/ggcmi-crop-calendar_ipsl-cm6a-lr_ssp370_soy-noirr_annual_2015_2100.nc",
+        "ssp585": "/blue/wpavan/gustavo.luca/SBrust_world/data/spatial/ggcmi-crop-calendar_ipsl-cm6a-lr_ssp585_soy-noirr_annual_2015_2100.nc"
+      },
+      "reference_gcms": {
+        "historical": "GFDL-ESM4",
+        "ssp126": "IPSL-CM6A-LR",
+        "ssp370": "IPSL-CM6A-LR",
+        "ssp585": "IPSL-CM6A-LR"
+      },
+      "planting_offsets_days": [-30, -15, 0, 15, 30]
+    },
+    "management": {
+      "sdate": "2015-01-01",
+      "pfrst": "2015-10-01",
+      "plast": "2015-12-31",
+      "ph2ol": 40,
+      "icin": 10,
+      "icsw_percent": 25,
+      "icrt": 10,
+      "icres": 0,
+      "icren": 0.8,
+      "irrig": "N",
+      "ramt": 0,
+      "fen_tot": 0
+    },
+    "scenarios": ["historical", "ssp126", "ssp370", "ssp585"],
+    "gcms": ["GFDL-ESM4", "IPSL-CM6A-LR", "MPI-ESM1-2-HR", "MRI-ESM2-0", "UKESM1-0-LL"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "method": "dssat_generic_gm_v1",
+  "notes": "The complete, unmodified generic DSSAT soybean maturity-group library from SBGRO048.CUL. Inverse calibration may select only one of these discrete groups; it must not alter cultivar coefficients.",
+  "cultivars": [
+    {"gm": "000", "ingeno": "990011", "cname": "M GROUP 000"},
+    {"gm": "00", "ingeno": "990012", "cname": "M GROUP 00"},
+    {"gm": "0", "ingeno": "990013", "cname": "M GROUP 0"},
+    {"gm": "1", "ingeno": "990001", "cname": "M GROUP 1"},
+    {"gm": "2", "ingeno": "990002", "cname": "M GROUP 2"},
+    {"gm": "3", "ingeno": "990003", "cname": "M GROUP 3"},
+    {"gm": "4", "ingeno": "990004", "cname": "M GROUP 4"},
+    {"gm": "5", "ingeno": "990005", "cname": "M GROUP 5"},
+    {"gm": "6", "ingeno": "990006", "cname": "M GROUP 6"},
+    {"gm": "7", "ingeno": "990007", "cname": "M GROUP 7"},
+    {"gm": "8", "ingeno": "990008", "cname": "M GROUP 8"},
+    {"gm": "9", "ingeno": "990009", "cname": "M GROUP 9"},
+    {"gm": "10", "ingeno": "990010", "cname": "M GROUP 10"}
+  ]
+}

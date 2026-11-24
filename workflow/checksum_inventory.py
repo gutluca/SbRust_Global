@@ -34,10 +34,10 @@ def update_inventory(repo):
            for p in asset_paths(repo)]
     inventory=repo/'provenance/repository_files.json'
     inventory.parent.mkdir(parents=True,exist_ok=True)
-    inventory.write_text(json.dumps(items,indent=2)+'\n',encoding='utf-8')
+    inventory.write_text(json.dumps(items,indent=2)+'\n',encoding='utf-8',newline='\n')
     paths=asset_paths(repo)+[inventory]
     (repo/'SHA256SUMS.txt').write_text(''.join(sha(p)+'  '+p.relative_to(repo).as_posix()+'\n'
-                                             for p in sorted(paths)),encoding='utf-8')
+                                             for p in sorted(paths)),encoding='utf-8',newline='\n')
     return len(items)
 
 

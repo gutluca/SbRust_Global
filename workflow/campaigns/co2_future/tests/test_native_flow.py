@@ -18,8 +18,10 @@ import controller
 
 
 def engine_path():
+    if os.environ.get('SBRUST_ENGINE_ROOT'):
+        return Path(os.environ['SBRUST_ENGINE_ROOT']) / 'scripts'
     remote = c.BASE / 'releases/world_disease_only_20261022_v1/scripts'
-    return remote if remote.is_dir() else PACK.parent / 'scripts'
+    return remote if remote.is_dir() else PACK.parents[1] / 'production_reference'
 
 
 class NativeFlow(unittest.TestCase):

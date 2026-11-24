@@ -40,6 +40,15 @@ def main():
     assert binary.stat().st_size==executable['bytes'] and sha(binary)==executable['sha256']
     with binary.open('rb') as stream:
         assert stream.read(6)==b'\x7fELF\x02\x01', 'Expected the production Linux ELF64 executable'
+    candidates=json.loads((repo/'data/calibration/generic_maturity_candidates.json').read_text(encoding='utf-8'))['cultivars']
+    cultivar_lines=(repo/'model/runtime/Genotype/SBGRO048.CUL').read_text(encoding='utf-8').splitlines()
+    assert len(candidates)==13
+    assert all(sum(line.startswith(item['ingeno']+' ') for line in cultivar_lines)==1 for item in candidates), 'Missing/duplicate generic maturity candidate'
+    with (repo/'data/master_columns.csv').open(encoding='utf-8',newline='') as stream:
+        columns=list(csv.DictReader(stream))
+    import gzip
+    with gzip.open(repo/'examples/data/countries/Albania/summary_master_Albania.csv.gz','rt',encoding='utf-8',newline='') as stream:
+        assert [item['column'] for item in columns]==next(csv.reader(stream,delimiter=';')), 'Dictionary differs from raw master columns'
     verify_inventory(repo)
     print(f"PASS: 103 countries; {len(gm):,} country-cells; {design['raw_paired_rows']:,} paired rows; critical parameter/CO2 hashes verified.")
 

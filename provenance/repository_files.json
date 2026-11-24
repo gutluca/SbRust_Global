@@ -105,6 +105,11 @@
     "sha256": "6d7034c0bdd0773372015ed16a0dbd9d31f874f5aba47b4123dc8ddc6750fc5f"
   },
   {
+    "path": "data/master_columns.csv",
+    "bytes": 1277,
+    "sha256": "bf99c617e764e57dfdbc0a375aba9ce8c384a6290f4e30dd679e14f959af7a88"
+  },
+  {
     "path": "data/spatial/selected_maturity_groups.csv",
     "bytes": 1257591,
     "sha256": "007a0aca098f1e2a0f29a4a346ea6ab348cf408fe7a21dce5e9885e92e4caaa1"
@@ -133,6 +138,91 @@
     "path": "model/executable.json",
     "bytes": 634,
     "sha256": "78ffacecbe6e908ca92c964e14aec2c76172c2fb42231a9d68d7732f3c17141c"
+  },
+  {
+    "path": "model/runtime/DATA.CDE",
+    "bytes": 129860,
+    "sha256": "5b4c0835129f530b9eea81e84e5b00244f91c9a79c48b1ac792f0dc52b6a2e6c"
+  },
+  {
+    "path": "model/runtime/DETAIL.CDE",
+    "bytes": 54737,
+    "sha256": "6c2a896c237bbb17dd9ba75d7eed9395d3ddea3c542c49256df6116dd6e01a8b"
+  },
+  {
+    "path": "model/runtime/DSSATPRO.L48.in",
+    "bytes": 7034,
+    "sha256": "79b29a67bebcc70d1052a2f611b79407d9da51ba602fd8e1107ec1e72a4b8b08"
+  },
+  {
+    "path": "model/runtime/ECONOMIC.CDE",
+    "bytes": 2891,
+    "sha256": "db2abdc821f20ee401806edf6bfeed3b08c09011830f561b84c32a02929ccd8c"
+  },
+  {
+    "path": "model/runtime/GCOEFF.CDE",
+    "bytes": 3693,
+    "sha256": "94a8fb795a993e7d2db20ce03034f8988000b99b3794b0145a06e5b043965eb5"
+  },
+  {
+    "path": "model/runtime/Genotype/SBGRO048.CUL",
+    "bytes": 12552,
+    "sha256": "49d009d8741fd082efcda597de722fd47135a39345a1213e2fd3b1b848bf2423"
+  },
+  {
+    "path": "model/runtime/Genotype/SBGRO048.ECO",
+    "bytes": 8059,
+    "sha256": "46d5128c72ae2abd62adb10062c35f631381674db73da6ed50e78b6a7b2be48f"
+  },
+  {
+    "path": "model/runtime/Genotype/SBGRO048.SPE",
+    "bytes": 9909,
+    "sha256": "0db6d24eec09f7817780fc743211284696bb03c531b88738f0db02fab6be06e0"
+  },
+  {
+    "path": "model/runtime/GRSTAGE.CDE",
+    "bytes": 38657,
+    "sha256": "8a0aa69bf591a7b4f4c14766ad35594619c73372a141579232a3ad40f73db39b"
+  },
+  {
+    "path": "model/runtime/JDATE.CDE",
+    "bytes": 4090,
+    "sha256": "2e5d9902fa71575cbf16a537db704e12c7ca2fde229911fc52d63e24d72b4e22"
+  },
+  {
+    "path": "model/runtime/MODEL.ERR",
+    "bytes": 24883,
+    "sha256": "237f531027608095ef871c2552a52b73bac3c4eb89081e7511ab5b9746990c95"
+  },
+  {
+    "path": "model/runtime/OUTPUT.CDE",
+    "bytes": 6816,
+    "sha256": "00a57feff37a92db7212142251f5ff9dadf6384b7943b5c3f1921ba747ca7db1"
+  },
+  {
+    "path": "model/runtime/Pest/SBGRO048.PST",
+    "bytes": 2779,
+    "sha256": "b0ac92a2b90bdfd258d8e8f3fe2ac73782a47124fea6316f2896e52673e82055"
+  },
+  {
+    "path": "model/runtime/PEST.CDE",
+    "bytes": 731,
+    "sha256": "160d4c21c50942134a8a9c640638f86a38e936cf598cf2bdbb4650186d0dc3c6"
+  },
+  {
+    "path": "model/runtime/SIMULATION.CDE",
+    "bytes": 11040,
+    "sha256": "2e458023e1fa8dd020fa33b7484e59c2a461c744ed96173d7db98df68be7c790"
+  },
+  {
+    "path": "model/runtime/SOIL.CDE",
+    "bytes": 6396,
+    "sha256": "d4d2e9c039b49dd420a69c9979c32637d45b15cb2d6979c22992463d2632b388"
+  },
+  {
+    "path": "model/runtime/WEATHER.CDE",
+    "bytes": 10249,
+    "sha256": "c4739d8054e1c125282f3eb14344a388a9db98b8996d6ac82fa28b41414f4bfb"
   },
   {
     "path": "model/source/dismo_source_20261022.tar.gz",
@@ -218,5 +308,10 @@
     "path": "provenance/verification_environment.json",
     "bytes": 229,
     "sha256": "cc9ac4dd7214815934cded73d2b0ba6bebccf72d653eceb92aa475a8bab28543"
+  },
+  {
+    "path": "provenance/workflow_dependencies.json",
+    "bytes": 8633,
+    "sha256": "512b5a5f7aad3b117971280698673827d31f44970b03dd1ab75918103384483a"
   }
 ]

@@ -1,0 +1,67 @@
+*EXP.DETAILS: GLOBAL SOYBEAN / DISMO TEMPLATE
+
+*GENERAL
+@PEOPLE
+SBrust global simulation pipeline
+@ADDRESS
+University of Florida
+@SITE
+Global grid cell
+
+*TREATMENTS                        -------------FACTOR LEVELS------------
+@N R O C TNAME.................... CU FL SA IC MP MI MF MR MC MT ME MH SM
+ 1 1 1 0 {{ '%-25.25s'|format(run_label) }} 1  1  0  0  1  0  0  0  0  0  0  0  1
+
+*CULTIVARS
+@C CR INGENO CNAME
+ 1 SB {{ ingeno }} {{ cname }}
+
+*FIELDS
+@L ID_FIELD WSTA....  FLSA  FLOB  FLDT  FLDD  FLDS  FLST SLTX  SLDP  ID_SOIL    FLNAME
+ 1 GLOBAL   {{ wsta }}   -99   -99   -99   -99   -99   -99 -99    -99  {{ id_soil }} global soybean
+@L ...........XCRD ...........YCRD .....ELEV .............AREA .SLEN .FLWR .SLAS FLHST FHDUR
+ 1 {{ xcrd }} {{ ycrd }}       -99               -99   -99   -99   -99   -99   -99
+
+*INITIAL CONDITIONS
+@C   PCR ICDAT  ICRT  ICND  ICRN  ICRE  ICWD ICRES ICREN ICREP ICRIP ICRID ICNAME
+ 1    SB {{ sdate }}{{ icrt }}   -99     1     1   -99{{ icres }}{{ icren }}   -99   100     5 global
+@C  ICBL  SH2O  SNH4  SNO3
+{% for layer in ic_layers %}
+ 1{{ layer.icbl }}{{ layer.sh2o }}{{ layer.snh4 }}{{ layer.sno3 }}
+{% endfor %}
+
+*PLANTING DETAILS
+@P PDATE EDATE  PPOP  PPOE  PLME  PLDS  PLRS  PLRD  PLDP  PLWT  PAGE  PENV  PLPH  SPRL                        PLNAME
+ 1 {{ pdate|default(pfrst, true) }}   -99    30   -99     S     R    90     0     3   -99   -99   -99   -99   -99                        {{ planting_label }}
+
+*RESIDUES AND ORGANIC FERTILIZER
+@R RDATE  RCOD  RAMT  RESN  RESP  RESK  RINP  RDEP  RMET RENAME
+ 1     0 RE003{{ ramt }}   -99   -99   -99   -99   -99   -99 global
+
+*ENVIRONMENT MODIFICATIONS
+@E ODATE EDAY  ERAD  EMAX  EMIN  ERAIN ECO2  EDEW  EWIND ENVNAME
+ 1 {{ sdate }} A   0 A   0 A   0 A   0 A   0 A   0 A   0 A   0 global
+
+*SIMULATION CONTROLS
+@N GENERAL     NYERS NREPS START SDATE RSEED SNAME.................... SMODEL
+ 1 GE          {{ nyers }}     1     S {{ sdate }}  2150 GLOBAL SOYBEAN            CRGRO
+@N OPTIONS     WATER NITRO SYMBI PHOSP POTAS DISES  CHEM  TILL   CO2
+ 1 OP              Y     N     N     N     N     {{ dises }}     N     N     M
+@N METHODS     WTHER INCON LIGHT EVAPO INFIL PHOTO HYDRO NSWIT MESOM MESEV MESOL
+ 1 ME              M     M     E     R     S     L     R     1     G     R     2
+@N MANAGEMENT  PLANT IRRIG FERTI RESID HARVS
+ 1 MA              R {{ irrig }}     N     R     M
+@N OUTPUTS     FNAME OVVEW SUMRY FROPT GROUT CAOUT WAOUT NIOUT MIOUT DIOUT VBOSE CHOUT OPOUT FMOPT
+ 1 OU              N     Y     Y     1     Y     Y     Y     Y     Y     N     Y     N     Y     A
+
+@  AUTOMATIC MANAGEMENT
+@N PLANTING    PFRST PLAST PH2OL PH2OU PH2OD PSTMX PSTMN
+ 1 PL          {{ pfrst }} {{ plast }} {{ ph2ol }}   100    30    40    10
+@N IRRIGATION  IMDEP ITHRL ITHRU IROFF IMETH IRAMT IREFF
+ 1 IR             30    50   100 GS000 IR001    10     1
+@N NITROGEN    NMDEP NMTHR NAMNT NCODE NAOFF
+ 1 NI             30    50    25 FE001 GS000
+@N RESIDUES    RIPCN RTIME RIDEP
+ 1 RE            100     1    20
+@N HARVEST     HFRST HLAST HPCNP HPCNR
+ 1 HA              0 00001   100     0

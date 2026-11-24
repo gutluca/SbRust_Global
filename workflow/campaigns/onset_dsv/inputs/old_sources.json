@@ -1,0 +1,416 @@
+{
+  "Argentina": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Argentina_ea0b937e/annual/country_summaries/Argentina/summary_master_Argentina.csv.gz",
+    "sha256": "e70d24def1d6b7f122b1d459eba5538dd7a0822a38ce47641379c61a67469bc8"
+  },
+  "India": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/India_abd14921/annual/country_summaries/India/summary_master_India.csv.gz",
+    "sha256": "f094757e22f4b4fbab074bfa53cf3fa334ab5962dbdbdfc83dd137843ac3fec4"
+  },
+  "China": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/China_10436829/annual/country_summaries/China/summary_master_China.csv.gz",
+    "sha256": "9dbc636f4738cd2ad2da8fbb94a9210daf8e7c86cf7f1dbc8eba335f8c25bf71"
+  },
+  "Paraguay": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Paraguay_7fb4d179/annual/country_summaries/Paraguay/summary_master_Paraguay.csv.gz",
+    "sha256": "ca0350059893d32b98721fad9deb2b9310d9c1c09fc39fc954f0122254367570"
+  },
+  "Russia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Russia_33a3d8ed/annual/country_summaries/Russia/summary_master_Russia.csv.gz",
+    "sha256": "533f549e9d789f37839183a7731534ebd0dedcdd264f9e44358b8e3aa2bfafdf"
+  },
+  "Canada": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Canada_be55ef3f/annual/country_summaries/Canada/summary_master_Canada.csv.gz",
+    "sha256": "23c9dfebe6549a4aaa8672f064202fb9114698187b745f97fa097bb1340aaaba"
+  },
+  "Bolivia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Bolivia_9621c073/annual/country_summaries/Bolivia/summary_master_Bolivia.csv.gz",
+    "sha256": "75b1b1e5c164da863cf0040640e74d5ea10f2b908eb20478094881d99feff298"
+  },
+  "Ukraine": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Ukraine_580eedc6/annual/country_summaries/Ukraine/summary_master_Ukraine.csv.gz",
+    "sha256": "22faed3d94a1ae99986ae669c194302c8a43c9cd5f2c140f671539cc726ad232"
+  },
+  "Nigeria": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Nigeria_04952a0f/annual/country_summaries/Nigeria/summary_master_Nigeria.csv.gz",
+    "sha256": "16488abf34913fabdcf3273d00a14edb37bbae996b8833af850b27bd65b9a3b8"
+  },
+  "Uruguay": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Uruguay_fe2403f2/annual/country_summaries/Uruguay/summary_master_Uruguay.csv.gz",
+    "sha256": "e22d16a5f72f5d437e46e339547587beafaee748b395b6ef1261d33ed5dce1f8"
+  },
+  "South Africa": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/South_Africa_3e049d78/annual/country_summaries/South_Africa/summary_master_South_Africa.csv.gz",
+    "sha256": "39d978e4ed35084b6b1043069a63512615ac76289f808bfd0caae52fed6693a8"
+  },
+  "Italy": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Italy_5a9cf672/annual/country_summaries/Italy/summary_master_Italy.csv.gz",
+    "sha256": "e693ec1b07d5355d09bb1b7f484cf1279e18ae6a6c76f8c682c0b87dafe87208"
+  },
+  "Zambia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Zambia_b5f9221a/annual/country_summaries/Zambia/summary_master_Zambia.csv.gz",
+    "sha256": "e1ac503e80894def1f7c34efc2fb28fbee262d97c7059b3b5606793179d83dd7"
+  },
+  "Serbia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Serbia_e8739c83/annual/country_summaries/Serbia/summary_master_Serbia.csv.gz",
+    "sha256": "34fe0a7a0c6980608ae8c3772edda949ce05aa42fd40a2ca9802188ee61a484c"
+  },
+  "Benin": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Benin_69d0a7b8/annual/country_summaries/Benin/summary_master_Benin.csv.gz",
+    "sha256": "9027923376788e57bc0cba35d18cac61ab2a7b8a2e97efaaf4a86646d4841216"
+  },
+  "Malawi": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Malawi_611025cd/annual/country_summaries/Malawi/summary_master_Malawi.csv.gz",
+    "sha256": "193af5b5cc745abc219a0d589ad196932574f4760833a9eafb4339f05d888f43"
+  },
+  "Indonesia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Indonesia_dbc74a36/annual/country_summaries/Indonesia/summary_master_Indonesia.csv.gz",
+    "sha256": "8facee733bc8750aa7e7e67ecb2fe000ff19efd7ebedc794ddae8f97bf0f9f31"
+  },
+  "France": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/France_7a1ca4ef/annual/country_summaries/France/summary_master_France.csv.gz",
+    "sha256": "00b03b8019423f4a1373ab129b45e4334b38b7aed24a3fee2e661f4e6e07d9ea"
+  },
+  "Japan": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Japan_64729438/annual/country_summaries/Japan/summary_master_Japan.csv.gz",
+    "sha256": "8c09c81882f0201d1ad58bfef3711adb31b8fde89d2be3885c7f7c9a377594a3"
+  },
+  "Mexico": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Mexico_a7d355b2/annual/country_summaries/Mexico/summary_master_Mexico.csv.gz",
+    "sha256": "8c6ec7100ca85004fd8a9e6ff4a99e9c1282b318f456d295e1b6f7ed5d88df3b"
+  },
+  "Myanmar": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Myanmar_ba2039a4/annual/country_summaries/Myanmar/summary_master_Myanmar.csv.gz",
+    "sha256": "c85b7887423a0748a707ff35803d416ecc1b63a68e4918ba6f19072db6210ca8"
+  },
+  "Ghana": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Ghana_583201c1/annual/country_summaries/Ghana/summary_master_Ghana.csv.gz",
+    "sha256": "d60ba14999d8043c09bafd69ebaa8b93f302cbe721d319c70c2a2e08ce2908e2"
+  },
+  "Cambodia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Cambodia_0c2cb01a/annual/country_summaries/Cambodia/summary_master_Cambodia.csv.gz",
+    "sha256": "d38440b07e655b782645fe3ff5a53d9f247e309d900d1a81309e669c95f2845f"
+  },
+  "North Korea": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/North_Korea_ae6175f1/annual/country_summaries/North_Korea/summary_master_North_Korea.csv.gz",
+    "sha256": "3e40f51a8a83d72ff79dd04a12cb7f711fd866db08f64dbb66b45a003c665977"
+  },
+  "Croatia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Croatia_7328d3f8/annual/country_summaries/Croatia/summary_master_Croatia.csv.gz",
+    "sha256": "35765a23b51640e5b4300288fbbbb24acf70dd523d895cbb2cec7adf79f6a0d0"
+  },
+  "Romania": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Romania_ea23726d/annual/country_summaries/Romania/summary_master_Romania.csv.gz",
+    "sha256": "428355b155698bf8ee2d300750987cd671ccccff199417c1ddf0c50efb5bb2d2"
+  },
+  "Austria": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Austria_c9cab023/annual/country_summaries/Austria/summary_master_Austria.csv.gz",
+    "sha256": "ab3fe7bace1450fc8867bd133be8835cba74084f6643785827c45a1903647ad9"
+  },
+  "Ethiopia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Ethiopia_7d94977e/annual/country_summaries/Ethiopia/summary_master_Ethiopia.csv.gz",
+    "sha256": "4a62227836549e2745c46100609ea5d2b151156d5d5d3c53db546e1e4fa4d60f"
+  },
+  "Hungary": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Hungary_504be308/annual/country_summaries/Hungary/summary_master_Hungary.csv.gz",
+    "sha256": "e5aa6f46ad4c0d8e94e017366f8dcb9d358d132ee04b716d4f5256b5df586388"
+  },
+  "Burkina Faso": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Burkina_Faso_a564371a/annual/country_summaries/Burkina_Faso/summary_master_Burkina_Faso.csv.gz",
+    "sha256": "8077b630a141a72eb76c4aff143c487ec7b3b39bbff71dfffc46762d78b53a44"
+  },
+  "South Korea": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/South_Korea_c85329e3/annual/country_summaries/South_Korea/summary_master_South_Korea.csv.gz",
+    "sha256": "bab1df8fe5ae6772c6d6b092358a0c0e8dc7e1cef48842c42b7489c1f7d84255"
+  },
+  "Uganda": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Uganda_893d5385/annual/country_summaries/Uganda/summary_master_Uganda.csv.gz",
+    "sha256": "48e86404ee1cac4d3c0e4a5c1802d1b19ec637f61fd476de5bbed8d741ab9945"
+  },
+  "Congo, DRC": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Congo_DRC_042c1afd/annual/country_summaries/Congo_DRC/summary_master_Congo_DRC.csv.gz",
+    "sha256": "0b30525822ffb6a68bce49dd2df01b7f87d71e9608670222c5908e322b45254f"
+  },
+  "Rwanda": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Rwanda_12c8f8f4/annual/country_summaries/Rwanda/summary_master_Rwanda.csv.gz",
+    "sha256": "5875e930c8d21ac9afe963ea1634098911671855860199fa370d8987c9c475a8"
+  },
+  "Mozambique": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Mozambique_c9054826/annual/country_summaries/Mozambique/summary_master_Mozambique.csv.gz",
+    "sha256": "d2ccb567122c8e8f4ab1b6dd8c60c0a61fd8c278dc3a110fc25fc86d581ffa98"
+  },
+  "Bangladesh": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Bangladesh_2f1d47eb/annual/country_summaries/Bangladesh/summary_master_Bangladesh.csv.gz",
+    "sha256": "de0398b3ebcf1dae097960137cecb513362fa1c57ec988137f8485e7d44cd305"
+  },
+  "Colombia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Colombia_6b615adb/annual/country_summaries/Colombia/summary_master_Colombia.csv.gz",
+    "sha256": "0b58de59517416cf0c70ae1cc87ab92a1241ca60d518552d3132e5f8cb5422a3"
+  },
+  "Angola": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Angola_22b96532/annual/country_summaries/Angola/summary_master_Angola.csv.gz",
+    "sha256": "d2c8a4c2e3947a0a29825e338f83dd4c24de08d64bc46795be357705102f4c18"
+  },
+  "Zimbabwe": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Zimbabwe_c72199a8/annual/country_summaries/Zimbabwe/summary_master_Zimbabwe.csv.gz",
+    "sha256": "e2e1f971b2a3932848d005a0a44f8c4a26b9f32dc3f4853c0e2e30d22542a9d9"
+  },
+  "Germany": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Germany_80db4ccd/annual/country_summaries/Germany/summary_master_Germany.csv.gz",
+    "sha256": "9390c9eefe0854d02809fc12ac142dd4996b607b6978bfac88b5038a032b9789"
+  },
+  "Moldova": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Moldova_14ad63a1/annual/country_summaries/Moldova/summary_master_Moldova.csv.gz",
+    "sha256": "b68dba56c4801f50cf9d0891cc43c979ed449071f34741b55cc3ee085e2b3f4f"
+  },
+  "Nepal": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Nepal_e15a18aa/annual/country_summaries/Nepal/summary_master_Nepal.csv.gz",
+    "sha256": "74d921a73f58be7486ddb0559c4ab24bd380d8d64bf2e74c3ec6a47344e2acf2"
+  },
+  "Vietnam": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Vietnam_2e5e8106/annual/country_summaries/Vietnam/summary_master_Vietnam.csv.gz",
+    "sha256": "6f9371b79237e9f56bf87760d8c12935662d3d99781fe31a06eccbb07b710e84"
+  },
+  "Ecuador": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Ecuador_2ca26c60/annual/country_summaries/Ecuador/summary_master_Ecuador.csv.gz",
+    "sha256": "f4b815f6388c9e3ccd337ac765928f28fb251f7dc6f07b6b87028074be80d8e9"
+  },
+  "Mali": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Mali_ee5721a5/annual/country_summaries/Mali/summary_master_Mali.csv.gz",
+    "sha256": "61ff02d507957d05aa49aff7b70478ad855ec27f6e37d1026ce079a94945db8d"
+  },
+  "Thailand": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Thailand_6e49e650/annual/country_summaries/Thailand/summary_master_Thailand.csv.gz",
+    "sha256": "8bd10fca572df0222049218873a1bc3f65f7a3d4e189a77c7427defd86b94795"
+  },
+  "Tanzania": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Tanzania_9555664f/annual/country_summaries/Tanzania/summary_master_Tanzania.csv.gz",
+    "sha256": "2946d032d467e98b9a156165397ec38644838f9e4a1235791243d37ff0929cbc"
+  },
+  "Cameroon": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Cameroon_085807f2/annual/country_summaries/Cameroon/summary_master_Cameroon.csv.gz",
+    "sha256": "3ba26ae04361b7e741c3aed435e1bb924056203e582cf9051f529af316000082"
+  },
+  "Guatemala": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Guatemala_45a15a24/annual/country_summaries/Guatemala/summary_master_Guatemala.csv.gz",
+    "sha256": "2f2d9fa13c42f4adb2ffa00a40d6322a758f4e89c3d6b293d57df601ccbe6402"
+  },
+  "Australia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Australia_c1ef40ce/annual/country_summaries/Australia/summary_master_Australia.csv.gz",
+    "sha256": "970bc6e8e922525445730e8cb607daf8547658ee6bed2267ffdbe7fcb6e90b9d"
+  },
+  "Czech Republic": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Czech_Republic_1c769ecb/annual/country_summaries/Czech_Republic/summary_master_Czech_Republic.csv.gz",
+    "sha256": "9c806131e4ec2d4921b8b30c1a43b204489f203224f0da8a6a8f3117b2667964"
+  },
+  "Iran": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Iran_18d4e170/annual/country_summaries/Iran/summary_master_Iran.csv.gz",
+    "sha256": "028f764ca36716b69c344fdfe6fec940c366ba2ccc7f1ccc1ae1c1a20064f990"
+  },
+  "Bosnia & Herzegovina": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Bosnia_Herzegovina_045a650e/annual/country_summaries/Bosnia_Herzegovina/summary_master_Bosnia_Herzegovina.csv.gz",
+    "sha256": "f5535daa05750e495d6350a09b30f992d2f708d50b2866c728cbb24f967b9fe1"
+  },
+  "Belize": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Belize_71dc81f1/annual/country_summaries/Belize/summary_master_Belize.csv.gz",
+    "sha256": "98dc47bc2fc5dbb02a6c5b91b8e79f15e2e76ac51d8dace2d24948622d0259be"
+  },
+  "Poland": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Poland_7f69649a/annual/country_summaries/Poland/summary_master_Poland.csv.gz",
+    "sha256": "4646fea5690e15a082e86f528051cc6518b8e066d43e9666800c61290789b16c"
+  },
+  "Liberia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Liberia_c9d2604d/annual/country_summaries/Liberia/summary_master_Liberia.csv.gz",
+    "sha256": "113c23299d50759f392e13dba5937cb415fd32673aa7ecc6ae43710e54f48815"
+  },
+  "Laos": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Laos_98e18f46/annual/country_summaries/Laos/summary_master_Laos.csv.gz",
+    "sha256": "8706d001b6bca21faae9d1f4ddb1ed081fb6ff8b3a4c422281fce175c5a8487d"
+  },
+  "Uzbekistan": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Uzbekistan_4bc2f1c2/annual/country_summaries/Uzbekistan/summary_master_Uzbekistan.csv.gz",
+    "sha256": "8fb4730faaecbbcfe3dd88cfc2a7a6d64dadffc6a5a8b2836ee429c1dae1f71a"
+  },
+  "Burundi": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Burundi_c835bd1c/annual/country_summaries/Burundi/summary_master_Burundi.csv.gz",
+    "sha256": "f9ab41ede0d1c1607b952a0165a690874682dad6e9c5539e6ecbcffb94144abb"
+  },
+  "Venezuela": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Venezuela_020e438b/annual/country_summaries/Venezuela/summary_master_Venezuela.csv.gz",
+    "sha256": "1b4db5eb675977b343a47cbd47ec9b0bf1f8acedbc70ed6a50afc140d5b8defa"
+  },
+  "Gabon": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Gabon_7e222a78/annual/country_summaries/Gabon/summary_master_Gabon.csv.gz",
+    "sha256": "d492bb830212d4cceab89b048ee9aea1559807a567d34790e6c28fdadb6c6e36"
+  },
+  "Nicaragua": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Nicaragua_94e6bd57/annual/country_summaries/Nicaragua/summary_master_Nicaragua.csv.gz",
+    "sha256": "81690dc215c43dd3b108aa1e7d98de5a361bb3cffcd713382ae965eaf1fc3a67"
+  },
+  "Togo": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Togo_4080343e/annual/country_summaries/Togo/summary_master_Togo.csv.gz",
+    "sha256": "79a699cd2cbc4f9b15c66b2d5de937308db6388f280efaa864e4ee7d584894c0"
+  },
+  "Taiwan": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Taiwan_dd76af19/annual/country_summaries/Taiwan/summary_master_Taiwan.csv.gz",
+    "sha256": "d775120ccb9406a4524e35bd8712b27f9419b481595220f2ebfe00cfe422222e"
+  },
+  "Bulgaria": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Bulgaria_66b86bf0/annual/country_summaries/Bulgaria/summary_master_Bulgaria.csv.gz",
+    "sha256": "d258272a0d683d8629e93f3c161a2b2de4c3531d7c157a0a6315df33ab994272"
+  },
+  "El Salvador": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/El_Salvador_c408d26c/annual/country_summaries/El_Salvador/summary_master_El_Salvador.csv.gz",
+    "sha256": "975cf202ef9400ba69559adae465d36fc61f2173c067338ce4521b33ca411017"
+  },
+  "Kenya": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Kenya_74e1891d/annual/country_summaries/Kenya/summary_master_Kenya.csv.gz",
+    "sha256": "79d251e577e7fb987f223614fa42f922e48cdfaaa2a91e18c700b4775d71209e"
+  },
+  "Syria": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Syria_cf6ac29b/annual/country_summaries/Syria/summary_master_Syria.csv.gz",
+    "sha256": "4f8f06066e88b99c17b41cab86bb47939f1338d6ac1fdd3ae57a8004013f5779"
+  },
+  "Sri Lanka": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Sri_Lanka_07f8d114/annual/country_summaries/Sri_Lanka/summary_master_Sri_Lanka.csv.gz",
+    "sha256": "21d75aaff81cc82d3871829f65b7399d9d06ce7f1adf43596e67488f16b70b9e"
+  },
+  "Switzerland": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Switzerland_22755831/annual/country_summaries/Switzerland/summary_master_Switzerland.csv.gz",
+    "sha256": "1edd78dd1ce09229ace9997e09e7f3c35b0afa4c077c26d98982d0873749c477"
+  },
+  "Slovenia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Slovenia_56059e7f/annual/country_summaries/Slovenia/summary_master_Slovenia.csv.gz",
+    "sha256": "5a9f1837bf41ed1472c419338f8a3f59956e39eb578f0c5a46c574e929384304"
+  },
+  "Spain": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Spain_8ef41e6f/annual/country_summaries/Spain/summary_master_Spain.csv.gz",
+    "sha256": "fc52b1f6984e5f61638f52c7c7f9c743f21cdfaa134c906710e6818f9196e9f1"
+  },
+  "Georgia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Georgia_46914921/annual/country_summaries/Georgia/summary_master_Georgia.csv.gz",
+    "sha256": "35cda9d2a55194e913cb533f975b9633a771d53d6d6d1abac27f6a570d7e0c32"
+  },
+  "Greece": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Greece_9c93ad43/annual/country_summaries/Greece/summary_master_Greece.csv.gz",
+    "sha256": "58eac5836dc54c8eb91b297c1823f3311a4c7f80a374bfdbddf2d03a322a5e99"
+  },
+  "Morocco": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Morocco_b675f5df/annual/country_summaries/Morocco/summary_master_Morocco.csv.gz",
+    "sha256": "78893fcc8b2873483400bcd2c648c6873a2c5384897354487052f9543a86a953"
+  },
+  "Honduras": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Honduras_b79b5f97/annual/country_summaries/Honduras/summary_master_Honduras.csv.gz",
+    "sha256": "5556e8ac91ca4d3c149aace0d924f2d512f4b545cf9cfdbb006eb63e538afcfc"
+  },
+  "Timor Leste": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Timor_Leste_f16a03fe/annual/country_summaries/Timor_Leste/summary_master_Timor_Leste.csv.gz",
+    "sha256": "fd22636378fe41b7de6f444214d7d3a5ce83a50364b636a439fe5f8b18ea57ee"
+  },
+  "Peru": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Peru_508731a3/annual/country_summaries/Peru/summary_master_Peru.csv.gz",
+    "sha256": "1c2f34229a520624357486f3b153ded3dd09732319106d417283d26c2cd7f95a"
+  },
+  "Cote d'Ivoire": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Cote_d_Ivoire_c8e47018/annual/country_summaries/Cote_d_Ivoire/summary_master_Cote_d_Ivoire.csv.gz",
+    "sha256": "ab504aa007a6acc3d0a3c477a62360551e8c8a67e3bc35edac7cefa718e87237"
+  },
+  "Cuba": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Cuba_0d0b4e41/annual/country_summaries/Cuba/summary_master_Cuba.csv.gz",
+    "sha256": "9f0b7b89bc45ddaa3e4f14d7cee3130cf5d7d66815639b330f95556ee52b7d5e"
+  },
+  "Philippines": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Philippines_c3782c86/annual/country_summaries/Philippines/summary_master_Philippines.csv.gz",
+    "sha256": "25b5fbd2b94d157ea24f63e61732f2c1549a977321ab68e09c050df5ce325aed"
+  },
+  "Niger": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Niger_2cbebc54/annual/country_summaries/Niger/summary_master_Niger.csv.gz",
+    "sha256": "1f949dce20b00b1fdb415fe0cedd05ab1cbbd8d6e50ba933b02dc8198d30c11d"
+  },
+  "Panama": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Panama_c3668f58/annual/country_summaries/Panama/summary_master_Panama.csv.gz",
+    "sha256": "a29d52d01d5da89bfa6a3fd43a88aec1d113548de9bb20a7a027808d27e4d07b"
+  },
+  "Swaziland": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Swaziland_18810558/annual/country_summaries/Swaziland/summary_master_Swaziland.csv.gz",
+    "sha256": "71cc50edc0864cb864117371ccad6ff7de41ef7e699bb7130c7dcc9d39438687"
+  },
+  "Belarus": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Belarus_4bef16df/annual/country_summaries/Belarus/summary_master_Belarus.csv.gz",
+    "sha256": "69ee3b00bd65d7d3b131eb6a37b23039881759ebef572fc0bff1b2e12e1e3aeb"
+  },
+  "Tajikistan": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Tajikistan_066b0213/annual/country_summaries/Tajikistan/summary_master_Tajikistan.csv.gz",
+    "sha256": "829964f3ed6ef157d3e2a365aa62fa81f49498587aed4111ec62f53abc564465"
+  },
+  "Albania": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Albania_1af00b87/annual/country_summaries/Albania/summary_master_Albania.csv.gz",
+    "sha256": "b499b27028dc6ab45c82f2dd8993901d24facb007319deaf327e72d19e72664e"
+  },
+  "Chad": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Chad_4256e512/annual/country_summaries/Chad/summary_master_Chad.csv.gz",
+    "sha256": "68dd233c640af2bdc8639d22b39dcbb0a4da068cce3dd723c057dbbfc9526653"
+  },
+  "Congo": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Congo_0bbfeb15/annual/country_summaries/Congo/summary_master_Congo.csv.gz",
+    "sha256": "b960cf7eafb6751421631acb41fe480049c9d8272a5f50b6d20525040864aca4"
+  },
+  "Macedonia": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Macedonia_78732883/annual/country_summaries/Macedonia/summary_master_Macedonia.csv.gz",
+    "sha256": "c5974d255306a5771ab93da1ed0c4888543c2c48f6b0cd09490dc6dd4c713c0a"
+  },
+  "Azerbaijan": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Azerbaijan_efa9150a/annual/country_summaries/Azerbaijan/summary_master_Azerbaijan.csv.gz",
+    "sha256": "34d1103e39b2c03b432eb418f81bba53adfdcb3ff3970691e67618a9722e6086"
+  },
+  "Central African Republic": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Central_African_Republic_e509cda4/annual/country_summaries/Central_African_Republic/summary_master_Central_African_Republic.csv.gz",
+    "sha256": "bee099fc5fbcdc30f5d1801408ae7413090afbd956f83fe0a0c209dc3316ed1c"
+  },
+  "Botswana": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Botswana_1672f60c/annual/country_summaries/Botswana/summary_master_Botswana.csv.gz",
+    "sha256": "7cc194808674eb0db8105bf2faf875fa4bda2c2ffb74ce23d074d7579d09f7c5"
+  },
+  "Sudan": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Sudan_ed68d4de/annual/country_summaries/Sudan/summary_master_Sudan.csv.gz",
+    "sha256": "0eea60ffe458e9c8599e7bc437186aa930f092fc9742599f97f6e1da197be7f9"
+  },
+  "Madagascar": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Madagascar_d6804464/annual/country_summaries/Madagascar/summary_master_Madagascar.csv.gz",
+    "sha256": "0e082c3d276491c6928d43420e0194f7eadeaaf23fe6a409afd830c3638f6294"
+  },
+  "Guinea": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Guinea_dd591d77/annual/country_summaries/Guinea/summary_master_Guinea.csv.gz",
+    "sha256": "3223aab3eed78dc11874d5004351ddb57efca6659a356c5bd7cbec84dd1cad65"
+  },
+  "Suriname": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Suriname_b1cb8eac/annual/country_summaries/Suriname/summary_master_Suriname.csv.gz",
+    "sha256": "aa0534bda974ee8d006d94f25ddc4e28d9ac3000579485a30b980fbc7648c81c"
+  },
+  "Kosovo": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Kosovo_4a867424/annual/country_summaries/Kosovo/summary_master_Kosovo.csv.gz",
+    "sha256": "5463548367a621349765ad165fd1260388d2a100ce8e858e97547d7d1b6a2d0d"
+  },
+  "Portugal": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Portugal_4c7de2c3/annual/country_summaries/Portugal/summary_master_Portugal.csv.gz",
+    "sha256": "a1e28f05317194ccb0fba3f2e8a7a7b20c5c9a772cb37bb3795b088dd412b090"
+  },
+  "Andorra": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Andorra_3e340be4/annual/country_summaries/Andorra/summary_master_Andorra.csv.gz",
+    "sha256": "cab5fe6fda4f0ff2377bef703670ecd6e9046d07ff678b126b99b1afc579bb23"
+  },
+  "Algeria": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Algeria_30e23022/annual/country_summaries/Algeria/summary_master_Algeria.csv.gz",
+    "sha256": "ef4afca587528429785b74ccd42332448df720b4a5150ef7f20c0fb73301d69a"
+  },
+  "Brazil": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/Brazil_07f62b02/annual/country_summaries/Brazil/summary_master_Brazil.csv.gz",
+    "sha256": "7699828b983f51da2aa7971964f1204ebaefcc37dc2036504a96814106266f83",
+    "original_onset_export_sha256": "7699828b983f51da2aa7971964f1204ebaefcc37dc2036504a96814106266f83"
+  },
+  "United States": {
+    "master": "/blue/wpavan/gustavo.luca/SBrust_world/results/world/global_disease_only_20261022_v1/United_States_49dca65f/annual/country_summaries/United_States/summary_master_United_States.csv.gz",
+    "sha256": "231a7b6486150b735a18136d9106c262d0dd5aa55b22963637ba2cfb0f93cbf6",
+    "original_onset_export_sha256": "d08b8312926061da57b5325b1857513708fa9fe5096cccbc55c5f87e5fb81c6f"
+  }
+}

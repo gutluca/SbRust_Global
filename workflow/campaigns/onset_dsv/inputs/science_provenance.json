@@ -1,0 +1,62 @@
+{
+  "analyze_beruski_trends.py": {
+    "source": "scripts\\analyze_beruski_trends.py",
+    "source_sha256": "9e67b9eea4bb13c2d586c7639561d1a07d4720e9753e948e493c50a2d50e6bb4",
+    "normalized_copy_sha256": "9e67b9eea4bb13c2d586c7639561d1a07d4720e9753e948e493c50a2d50e6bb4"
+  },
+  "ensemble3_global.py": {
+    "source": "scripts\\ensemble3_global.py",
+    "source_sha256": "608b685f4e814df1e6c11cdbada77b3a6a8099809ff881c89e028134f1655706",
+    "normalized_copy_sha256": "608b685f4e814df1e6c11cdbada77b3a6a8099809ff881c89e028134f1655706"
+  },
+  "onset_dsv.py": {
+    "source": "scripts\\onset_dsv.py",
+    "source_sha256": "c913ea90e9a253d307deef295c2a217b0ca83c379cea56d3bf1b65cf38bcc852",
+    "normalized_copy_sha256": "c913ea90e9a253d307deef295c2a217b0ca83c379cea56d3bf1b65cf38bcc852"
+  },
+  "world_onset_runtime.py": {
+    "source": "scripts\\world_onset_runtime.py",
+    "source_sha256": "4cffcb967d3a3e6760ac36533bf9462754aa9419f0ed9698ed584339734243e5",
+    "normalized_copy_sha256": "4cffcb967d3a3e6760ac36533bf9462754aa9419f0ed9698ed584339734243e5"
+  },
+  "beruski_worker_support.py": {
+    "source": "scripts\\beruski_worker_support.py",
+    "source_sha256": "a56747ece21851138657013944041b82d60d129674bc9e718f790d780583356c",
+    "normalized_copy_sha256": "a56747ece21851138657013944041b82d60d129674bc9e718f790d780583356c"
+  },
+  "replay_dsv50_dssat_outputs.py": {
+    "source": "scripts\\replay_dsv50_dssat_outputs.py",
+    "source_sha256": "6b20860b4dcc17d37f073dec0561867060ff26f5b3d58b07b76c0f2cbf5b2c33",
+    "normalized_copy_sha256": "6b20860b4dcc17d37f073dec0561867060ff26f5b3d58b07b76c0f2cbf5b2c33"
+  },
+  "dsv50_warning_pilot.py": {
+    "source": "scripts\\dsv50_warning_pilot.py",
+    "source_sha256": "08dd9e30fc29a4772f3ec380782ddcd0b64edffd29342e7a8cf0214510907f6c",
+    "normalized_copy_sha256": "08dd9e30fc29a4772f3ec380782ddcd0b64edffd29342e7a8cf0214510907f6c"
+  },
+  "analyze_world_onset.py": {
+    "source": "scripts\\analyze_world_onset.py",
+    "source_sha256": "c6268eb0c7a6f42562ec92a8df05b0a6848372747dfddc8c32834abb552a47ce",
+    "normalized_copy_sha256": "c6268eb0c7a6f42562ec92a8df05b0a6848372747dfddc8c32834abb552a47ce"
+  },
+  "backup_critical_hpg.py": {
+    "source": "scripts\\backup_critical_hpg.py",
+    "source_sha256": "af38459f5a95f6421b773e23b6ba35886071047224371887ca7499e5a81a3866",
+    "normalized_copy_sha256": "af38459f5a95f6421b773e23b6ba35886071047224371887ca7499e5a81a3866"
+  },
+  "co2_runtime.py": {
+    "source": "co2_future_global_20261119_v2\\scripts\\co2_runtime.py",
+    "source_sha256": "8e1b6a67cada426d2d398329f755333d9fc190613f3e1d5a8c84352cc28449dd",
+    "normalized_copy_sha256": "8e1b6a67cada426d2d398329f755333d9fc190613f3e1d5a8c84352cc28449dd"
+  },
+  "legacy_dispatcher.py": {
+    "source": "scripts\\world_campaign.py",
+    "source_sha256": "4595c5591a48c186625081a075c4d5b01b56b13b53dbf82d110584f74e3ecd31",
+    "normalized_copy_sha256": "4595c5591a48c186625081a075c4d5b01b56b13b53dbf82d110584f74e3ecd31"
+  },
+  "scheduler_recovery.py": {
+    "source": "multiaccount_co2_controller_20261120_v1.py",
+    "source_sha256": "2d028d4eb6b6b1155364aa9b6eb3004895ae27ab3c34375a7b9ca7e79182519e",
+    "normalized_copy_sha256": "2d028d4eb6b6b1155364aa9b6eb3004895ae27ab3c34375a7b9ca7e79182519e"
+  }
+}
