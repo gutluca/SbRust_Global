@@ -108,7 +108,7 @@ Years are averaged within each country–cell, period, SSP, GCM and sowing alter
 | Component | Reference |
 | --- | --- |
 | DISMO integration | [gutluca/dssat-csm-os, dismo-integration](https://github.com/gutluca/dssat-csm-os/tree/dismo-integration) |
-| DSSAT upstream | [DSSAT/dssat-csm-os](https://github.com/DSSAT/dssat-csm-os), with [recommended model references](https://dssat.net/about/references/) |
+| DSSAT code | [DSSAT/dssat-csm-os](https://github.com/DSSAT/dssat-csm-os) |
 | SPAM 2020 V2r2 rainfed soybean area | [Source dataset](https://doi.org/10.7910/DVN/SWPENT) |
 | GGCMI/ISIMIP calendars | [Calendar documentation and references](https://www.isimip.org/gettingstarted/input-data-bias-adjustment/details/115/) |
 | Climate forcing | [ISIMIP data catalogue](https://data.isimip.org/); GFDL-ESM4, IPSL-CM6A-LR, MPI-ESM1-2-HR, MRI-ESM2-0 and UKESM1-0-LL |
