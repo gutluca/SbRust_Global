@@ -2,7 +2,7 @@
 
 ## Read the raw outputs
 
-Extract `SbRust_Global_paired_masters_20261123.tar` into a data directory. It contains `countries/<country>/summary_master_<country>.csv.gz`, the raw-file manifest and a data dictionary. The CSV separator is `;`. Read maturity-group labels as strings to preserve `000`, `00` and `0`. Keep the original compressed files unchanged: their hashes identify the exact simulation outputs.
+Run `python3 workflow/download_data.py --output data/raw` to retrieve the original files as `data/raw/countries/<country>/summary_master_<country>.csv.gz`. Add `--countries Albania` to retrieve a subset. Each country is verified against the original compressed-file SHA-256. The CSV separator is `;`. Read maturity-group labels as strings to preserve `000`, `00` and `0`. Keep the original compressed files unchanged: their hashes identify the exact simulation outputs.
 
 ## Process the paired outputs
 

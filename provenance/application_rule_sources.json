@@ -1,0 +1,24 @@
+{
+  "added_dependencies": [
+    {
+      "path": "workflow/campaigns/onset_dsv/scripts/beruski_rules.py",
+      "sha256": "121b5b15a57304ac2658d5c43de8a2243f304f81c0ddb9baf851e313d0a0c9fd",
+      "source_archive": "sbrust_onset_dsv_br_us_20261109_v1.tar.gz",
+      "source_member": "scripts/beruski_rules.py"
+    }
+  ],
+  "rules_source_archive": "sbrust_onset_dsv_br_us_20261109_v1.tar.gz",
+  "rules_sha256": "121b5b15a57304ac2658d5c43de8a2243f304f81c0ddb9baf851e313d0a0c9fd",
+  "test_source": "Existing RulesTests class from tests/test_beruski.py",
+  "scope": "Original scientific warning rules; no campaign results regenerated.",
+  "verification_scope": "Seven original scientific warning-rule tests; cluster controller/partition tests are outside this verification scope.",
+  "selected_test_methods": [
+    "test_published_equation_peak_and_extremes",
+    "test_humidity_matches_fortran_expression",
+    "test_dsv50_14_matches_previous_algorithm_for_random_daily_series",
+    "test_residual_windows_and_four_integer_rules",
+    "test_rain_threshold_and_continuous_rolling_dvip",
+    "test_readonly_weather_cache_and_recount",
+    "test_legacy_dates_match_previous_replay_above_cap"
+  ]
+}

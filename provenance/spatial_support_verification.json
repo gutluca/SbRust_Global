@@ -1,0 +1,7 @@
+{
+  "date": "2026-11-24",
+  "country_cells": 16612,
+  "stored_coordinates_at_half_degree_grid_centres": 16612,
+  "weather_source_id_differs_from_cell_id": 0,
+  "scope": "Stored mask/GM metadata and included site builder; intermediate soil queries require the executed input bundle."
+}

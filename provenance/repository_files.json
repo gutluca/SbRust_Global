@@ -6,8 +6,8 @@
   },
   {
     "path": ".github/workflows/validate.yml",
-    "bytes": 902,
-    "sha256": "1530c75acde5705aa3863d7bef354c9a5c79b07e84adeb2b2f820df237db9118"
+    "bytes": 1008,
+    "sha256": "6152df6f5d698488211cc8af2fb236ea279a0b42a561c7e539e3b75f8a9664fc"
   },
   {
     "path": ".gitignore",
@@ -17,7 +17,7 @@
   {
     "path": "CITATION.cff",
     "bytes": 408,
-    "sha256": "cd1517234a4477e8611173d8f6787a4d513c6e42949ec30492b956b9d8fb876c"
+    "sha256": "cd159990157b308618a695993679f5e4c4c6c33c2271eddcbef0234db006e252"
   },
   {
     "path": "data/calibration/Bolivia_candidate_scores.csv.gz",
@@ -126,23 +126,23 @@
   },
   {
     "path": "docs/external_inputs.md",
-    "bytes": 3869,
-    "sha256": "b693fa4a6b6838031d7facc1611f97d6b9ed529b3dd733556ec107cdecd031eb"
+    "bytes": 3935,
+    "sha256": "fca6a95434315d3e466a8efde5d79f34cc79eeb11912ea0cbb9ac8d6c9e1e51c"
   },
   {
     "path": "docs/methods.md",
-    "bytes": 6457,
-    "sha256": "0c92851c1b08561c001334674c145dc7afae567d3b98267edda0e496778b9bac"
+    "bytes": 7101,
+    "sha256": "279b7ba9286167181e66fef454114a6d5c1b7e6a244410950b6b9f65e8dc3c41"
   },
   {
     "path": "docs/release_status.md",
-    "bytes": 1841,
-    "sha256": "b47bc7e251bb5f6b5aa976082ae37c411f9fd2e53af4c695f82d34b5f796afe1"
+    "bytes": 1859,
+    "sha256": "3574706df0111844555505135bb6ba6212e5a603d174f9429a74fcfbed6a79e1"
   },
   {
     "path": "docs/reproduction.md",
-    "bytes": 3250,
-    "sha256": "f455a5c777f6f3a78454527dd353f59d509c38f58c7f67cd9371dd636a520427"
+    "bytes": 3338,
+    "sha256": "bbe721f52fe48ed745a41c0ccd0de8576db81a47b9325fd2c928d936e0528d1f"
   },
   {
     "path": "docs/sources_and_licensing.md",
@@ -196,8 +196,8 @@
   },
   {
     "path": "model/README.md",
-    "bytes": 2593,
-    "sha256": "b721e39d072b14224925aad0d9cdcb96d24440676ea39e0bf270c86095a3c2d1"
+    "bytes": 2707,
+    "sha256": "e60974d2e164f6089c7ba29185328ff7e14b7076691480485e761c4119af7d36"
   },
   {
     "path": "model/source/dismo_source_20261022.tar.gz",
@@ -210,9 +210,19 @@
     "sha256": "dd19eb443811e4408e567e19c1fe5d28ed3f3e9e0a50973797474d7bf2825519"
   },
   {
+    "path": "provenance/application_rule_sources.json",
+    "bytes": 1214,
+    "sha256": "fbbe5a1c4349159e4f17b7c49fb30d76398b7c1cadd5415320c84683cf8bb0cc"
+  },
+  {
     "path": "provenance/copied_source_files.json",
     "bytes": 21496,
     "sha256": "d03ec36ba9c4654a43608799ceffa0ddd52494355684f5099d8c75607103c0e1"
+  },
+  {
+    "path": "provenance/exporter_verification.json",
+    "bytes": 553,
+    "sha256": "17e002f5924d6ca2eb27a05aff8d0c35dbb011172697a30e39427042d5e697f8"
   },
   {
     "path": "provenance/external_inputs.json",
@@ -236,8 +246,8 @@
   },
   {
     "path": "provenance/master_files.json",
-    "bytes": 44895,
-    "sha256": "58924b23e0214cad418cc17793c9bd4ab6a57cc326aa3cb3f5d2b4a4080cfb60"
+    "bytes": 67827,
+    "sha256": "5382601eefe2ee611e232912cb08fc634b3cc65f39187131482a2a59541fdb07"
   },
   {
     "path": "provenance/model_source_archive.json",
@@ -250,9 +260,19 @@
     "sha256": "c1e5a59f2d2ddbea8d50b34cef7dfb708fecafc74d0bfa707414d3aa1cd8a9ee"
   },
   {
-    "path": "provenance/paired_master_archive.json",
-    "bytes": 506,
-    "sha256": "f37ef9929af4ad2d5b2b6f6f79a297308005eb225ed516f4ae44f42b81d89d13"
+    "path": "provenance/publication_verification.json",
+    "bytes": 485,
+    "sha256": "9b91a3e8efd437a30dae9bfa9fd2a43c8881f4646a505cacdd15ddf7a83b695b"
+  },
+  {
+    "path": "provenance/raw_data_release.json",
+    "bytes": 484,
+    "sha256": "e05f93a2da9f5a535de94de0cd95287b7685cc6b0f5c263589f4ba88f7b811d2"
+  },
+  {
+    "path": "provenance/spatial_support_verification.json",
+    "bytes": 292,
+    "sha256": "df53d0ee7cffb1191871e86cc5c78ea054a1f1981f272d2034e5c66f4ef26e25"
   },
   {
     "path": "provenance/study_design.json",
@@ -266,8 +286,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 5741,
-    "sha256": "95d46c5874c56d2f2e0b99a81f335cf61aa643a90076d16509ac877965a457ee"
+    "bytes": 5803,
+    "sha256": "1c5dcde2dd4cf733c01625c21c8d2bf63e1a59fd8fdaab79a397ce9a1e0c5c8d"
   },
   {
     "path": "requirements.txt",
@@ -295,14 +315,19 @@
     "sha256": "1ac3a167ec9b9f978f8dae6331bf0d5694bff2328c8993874b7844bcc3046286"
   },
   {
+    "path": "workflow/analysis/test_warning_rules.py",
+    "bytes": 5382,
+    "sha256": "d5713f38b8ebbbb9ae4e300b9537fec1e71a725b637ba30c5432ba374ab0e33c"
+  },
+  {
     "path": "workflow/analysis/verify_against_reference.py",
     "bytes": 4373,
     "sha256": "bf82f64c51cccb3cf8015f20d7f599248cccb466f07cc7efe731e486836b73fe"
   },
   {
     "path": "workflow/archive/export_hpg_reproducibility.py",
-    "bytes": 5741,
-    "sha256": "c95f3ba4ad33ee20ba2bf9e3e7f19d0bf3acb5eaf64f6c55a2e8d5dce2f8e820"
+    "bytes": 7017,
+    "sha256": "b26dd09d9ed576ad17adb77a6aa638ab20bf4244e089c289b880820e21e3eff5"
   },
   {
     "path": "workflow/archive/package_masters.py",
@@ -455,6 +480,11 @@
     "sha256": "af38459f5a95f6421b773e23b6ba35886071047224371887ca7499e5a81a3866"
   },
   {
+    "path": "workflow/campaigns/onset_dsv/scripts/beruski_rules.py",
+    "bytes": 7929,
+    "sha256": "121b5b15a57304ac2658d5c43de8a2243f304f81c0ddb9baf851e313d0a0c9fd"
+  },
+  {
     "path": "workflow/campaigns/onset_dsv/scripts/beruski_worker_support.py",
     "bytes": 4114,
     "sha256": "a56747ece21851138657013944041b82d60d129674bc9e718f790d780583356c"
@@ -561,8 +591,8 @@
   },
   {
     "path": "workflow/download_data.py",
-    "bytes": 3028,
-    "sha256": "6123206c302eac6e55c0a40b7d6e19731e7cc8ee87c672b0a4ca2be41a23e3de"
+    "bytes": 2952,
+    "sha256": "cf51d14c417e469b919cec626da88f402100e8e4c2367f3f522dab638b52c9be"
   },
   {
     "path": "workflow/maturity/final_revisions/Bolivia/merge_partial_master.py",

@@ -2,7 +2,7 @@
 
 ## Reanalyse the raw results
 
-The country masters, fixed spatial weights, executed maturity groups and processing code are sufficient to recompute the yield/loss analyses. This route does not use the crop executable or external climate/soil data. The complete Albania master is included as an executable example; the full 103-country archive is distributed as a release asset.
+The country masters, fixed spatial weights, executed maturity groups and processing code are sufficient to recompute the yield/loss analyses. This route does not use the crop executable or external climate/soil data. The complete Albania master is included as an executable example; all 103 original country masters are distributed as individual release assets and can be retrieved with the automatic downloader.
 
 ## Rerun the crop and disease simulations
 

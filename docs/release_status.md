@@ -11,7 +11,7 @@ Snapshot: 24 November 2026.
 | Disease parameter files and executed country assignments | Included |
 | Disease calibration/validation observations | Historical per-curve diagnostics included; raw curves, experiment metadata and source-scale provenance still to assemble |
 | Annual SSP CO₂ | Included: concentrations, DSSAT inputs and source checksums |
-| Raw paired country masters | 103 original files in the separate data-release archive; all file hashes verified |
+| Raw paired country masters | 103 original gzip CSVs in the data release; per-file checksums and an automatic downloader included |
 | Raw corrected DSV application outputs | Running; to add after completion and verification |
 | Model source | Frozen source archive and original build script included in `model/` |
 | Production Linux executable | Included in `model/bin/dscsm048`; matches the campaign SHA-256 |

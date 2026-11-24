@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "date": "2026-11-24",
+  "scope": "Export file coverage and preservation of source files, using a synthetic directory layout and the real verified executable",
+  "checks": [
+    "actual production calibrated.gpkg location",
+    "zone_sites GeoPackages included",
+    "executed calendar checksum proof retained",
+    "soil files catalogued without implicit bulk redistribution",
+    "all source bytes unchanged"
+  ],
+  "note": "This is not a crop-model run or validation of the unexported production environment."
+}

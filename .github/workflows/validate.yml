@@ -14,6 +14,8 @@ jobs:
         run: python3 workflow/verify_repository.py
       - name: Check Python syntax
         run: python3 -m compileall -q workflow
+      - name: Check scientific warning rules
+        run: python3 workflow/analysis/test_warning_rules.py
       - name: Install pinned numerical packages
         run: python3 -m pip install -r requirements.txt
       - name: Process complete real-data example

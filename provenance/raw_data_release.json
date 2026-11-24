@@ -1,0 +1,12 @@
+{
+  "repository": "gutluca/SbRust_Global",
+  "tag": "v0.1.0-data",
+  "release_url": "https://github.com/gutluca/SbRust_Global/releases/tag/v0.1.0-data",
+  "asset_base_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/",
+  "format": "103 original semicolon-delimited gzip CSV country masters",
+  "country_count": 103,
+  "paired_records": 76415200,
+  "compressed_country_file_bytes": 2073032430,
+  "manifest": "provenance/master_files.json",
+  "doi": null
+}

@@ -6,6 +6,6 @@ authors:
   - family-names: Luca
     given-names: Gustavo
 repository-code: "https://github.com/gutluca/SbRust_Global"
-version: "0.1.0"
+version: "0.1.1"
 date-released: "2026-11-24"
 license: BSD-3-Clause

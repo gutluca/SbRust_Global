@@ -9,7 +9,9 @@
     "points": 17,
     "historical_rows": 14450,
     "future_rows": 63750,
-    "historical_source_sha256": "b499b27028dc6ab45c82f2dd8993901d24facb007319deaf327e72d19e72664e"
+    "historical_source_sha256": "b499b27028dc6ab45c82f2dd8993901d24facb007319deaf327e72d19e72664e",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Albania.csv.gz",
+    "server_digest": "sha256:29a59e7d8c9423643d781889419252d641644250207821fd6cb1c9add4bf58ba"
   },
   {
     "country": "Algeria",
@@ -21,7 +23,9 @@
     "points": 2,
     "historical_rows": 1700,
     "future_rows": 7500,
-    "historical_source_sha256": "ef4afca587528429785b74ccd42332448df720b4a5150ef7f20c0fb73301d69a"
+    "historical_source_sha256": "ef4afca587528429785b74ccd42332448df720b4a5150ef7f20c0fb73301d69a",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Algeria.csv.gz",
+    "server_digest": "sha256:7a77dfe78e9e68456beeeb475a28f2cf69d05e6a4fed83d21d97d33c3d68b3eb"
   },
   {
     "country": "Andorra",
@@ -33,7 +37,9 @@
     "points": 1,
     "historical_rows": 850,
     "future_rows": 3750,
-    "historical_source_sha256": "cab5fe6fda4f0ff2377bef703670ecd6e9046d07ff678b126b99b1afc579bb23"
+    "historical_source_sha256": "cab5fe6fda4f0ff2377bef703670ecd6e9046d07ff678b126b99b1afc579bb23",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Andorra.csv.gz",
+    "server_digest": "sha256:7082ff4e03295655a590d4024c8fc7f1b9e766843be13730a0431e568d8fe9e7"
   },
   {
     "country": "Angola",
@@ -45,7 +51,9 @@
     "points": 221,
     "historical_rows": 187850,
     "future_rows": 828750,
-    "historical_source_sha256": "d2c8a4c2e3947a0a29825e338f83dd4c24de08d64bc46795be357705102f4c18"
+    "historical_source_sha256": "d2c8a4c2e3947a0a29825e338f83dd4c24de08d64bc46795be357705102f4c18",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Angola.csv.gz",
+    "server_digest": "sha256:851f2c6f467d25588eae5c2be651a4dacd73e4aac074262dd3b0d06052b9a1e8"
   },
   {
     "country": "Argentina",
@@ -57,7 +65,9 @@
     "points": 555,
     "historical_rows": 471750,
     "future_rows": 2081250,
-    "historical_source_sha256": "e70d24def1d6b7f122b1d459eba5538dd7a0822a38ce47641379c61a67469bc8"
+    "historical_source_sha256": "e70d24def1d6b7f122b1d459eba5538dd7a0822a38ce47641379c61a67469bc8",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Argentina.csv.gz",
+    "server_digest": "sha256:7ea65cfc00fb4f5ba52afb10251837d02d3eb53937dc027ca9f32beceed07e50"
   },
   {
     "country": "Australia",
@@ -69,7 +79,9 @@
     "points": 110,
     "historical_rows": 93500,
     "future_rows": 412500,
-    "historical_source_sha256": "970bc6e8e922525445730e8cb607daf8547658ee6bed2267ffdbe7fcb6e90b9d"
+    "historical_source_sha256": "970bc6e8e922525445730e8cb607daf8547658ee6bed2267ffdbe7fcb6e90b9d",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Australia.csv.gz",
+    "server_digest": "sha256:dd5e6ce60e87cba83795bd477adaf6914d34a752f0e0b3226adf325860e88285"
   },
   {
     "country": "Austria",
@@ -81,7 +93,9 @@
     "points": 34,
     "historical_rows": 28900,
     "future_rows": 127500,
-    "historical_source_sha256": "ab3fe7bace1450fc8867bd133be8835cba74084f6643785827c45a1903647ad9"
+    "historical_source_sha256": "ab3fe7bace1450fc8867bd133be8835cba74084f6643785827c45a1903647ad9",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Austria.csv.gz",
+    "server_digest": "sha256:049720a3c747409a446924cb21b352058e5a331cc3a00280b8a6048f52099de0"
   },
   {
     "country": "Azerbaijan",
@@ -93,7 +107,9 @@
     "points": 44,
     "historical_rows": 37400,
     "future_rows": 165000,
-    "historical_source_sha256": "34d1103e39b2c03b432eb418f81bba53adfdcb3ff3970691e67618a9722e6086"
+    "historical_source_sha256": "34d1103e39b2c03b432eb418f81bba53adfdcb3ff3970691e67618a9722e6086",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Azerbaijan.csv.gz",
+    "server_digest": "sha256:f7e0f7089ab70ac6f03c0aa22e1be705f68944799a56ff14ecba13062a092f71"
   },
   {
     "country": "Bangladesh",
@@ -105,7 +121,9 @@
     "points": 36,
     "historical_rows": 30600,
     "future_rows": 135000,
-    "historical_source_sha256": "de0398b3ebcf1dae097960137cecb513362fa1c57ec988137f8485e7d44cd305"
+    "historical_source_sha256": "de0398b3ebcf1dae097960137cecb513362fa1c57ec988137f8485e7d44cd305",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Bangladesh.csv.gz",
+    "server_digest": "sha256:56e6ee564ea766eae3eaeaeb07dc5de321adf11707bdc2816932337357804828"
   },
   {
     "country": "Belarus",
@@ -117,7 +135,9 @@
     "points": 9,
     "historical_rows": 7650,
     "future_rows": 33750,
-    "historical_source_sha256": "69ee3b00bd65d7d3b131eb6a37b23039881759ebef572fc0bff1b2e12e1e3aeb"
+    "historical_source_sha256": "69ee3b00bd65d7d3b131eb6a37b23039881759ebef572fc0bff1b2e12e1e3aeb",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Belarus.csv.gz",
+    "server_digest": "sha256:0c05dc55713324db10f2c9916d3e231f2b0d17e2dd08007ac2969f3785e71490"
   },
   {
     "country": "Belize",
@@ -129,7 +149,9 @@
     "points": 9,
     "historical_rows": 7650,
     "future_rows": 33750,
-    "historical_source_sha256": "98dc47bc2fc5dbb02a6c5b91b8e79f15e2e76ac51d8dace2d24948622d0259be"
+    "historical_source_sha256": "98dc47bc2fc5dbb02a6c5b91b8e79f15e2e76ac51d8dace2d24948622d0259be",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Belize.csv.gz",
+    "server_digest": "sha256:1a2ceb3a9f9f8e7b668d15d8eade98cc31cfd6247172bd95ecb27a2afbb80305"
   },
   {
     "country": "Benin",
@@ -141,7 +163,9 @@
     "points": 54,
     "historical_rows": 45900,
     "future_rows": 202500,
-    "historical_source_sha256": "9027923376788e57bc0cba35d18cac61ab2a7b8a2e97efaaf4a86646d4841216"
+    "historical_source_sha256": "9027923376788e57bc0cba35d18cac61ab2a7b8a2e97efaaf4a86646d4841216",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Benin.csv.gz",
+    "server_digest": "sha256:f546b30a87899f20003ab402ddaf15d23e5d94a459a310366824ee93a1efe833"
   },
   {
     "country": "Bolivia",
@@ -153,7 +177,9 @@
     "points": 169,
     "historical_rows": 143650,
     "future_rows": 633750,
-    "historical_source_sha256": "8f156709752f62897dd4069740e1c2228329fb5a8728a148c89d983732cc3a71"
+    "historical_source_sha256": "8f156709752f62897dd4069740e1c2228329fb5a8728a148c89d983732cc3a71",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Bolivia.csv.gz",
+    "server_digest": "sha256:c5ad984e51ab72b569b9dcf016cece838b5fc70ce2a77cd21ed0e0a409523dcb"
   },
   {
     "country": "Bosnia & Herzegovina",
@@ -165,7 +191,9 @@
     "points": 29,
     "historical_rows": 24650,
     "future_rows": 108750,
-    "historical_source_sha256": "f5535daa05750e495d6350a09b30f992d2f708d50b2866c728cbb24f967b9fe1"
+    "historical_source_sha256": "f5535daa05750e495d6350a09b30f992d2f708d50b2866c728cbb24f967b9fe1",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Bosnia_Herzegovina.csv.gz",
+    "server_digest": "sha256:c68f6669bd77fe187562af1c494ca4d523f1216bcbb15e293053004f1a9eae47"
   },
   {
     "country": "Botswana",
@@ -177,7 +205,9 @@
     "points": 2,
     "historical_rows": 1700,
     "future_rows": 7500,
-    "historical_source_sha256": "7cc194808674eb0db8105bf2faf875fa4bda2c2ffb74ce23d074d7579d09f7c5"
+    "historical_source_sha256": "7cc194808674eb0db8105bf2faf875fa4bda2c2ffb74ce23d074d7579d09f7c5",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Botswana.csv.gz",
+    "server_digest": "sha256:9ec8982fb1e379a9aaa94ae8d299e20e64809ddd48ccaea60caa2de27b6cdb02"
   },
   {
     "country": "Brazil",
@@ -189,7 +219,9 @@
     "points": 1666,
     "historical_rows": 1416100,
     "future_rows": 6247500,
-    "historical_source_sha256": "bf2200edbf42842414944079e29e66fbfd7a4217abd9118ac60e50ce4da7567e"
+    "historical_source_sha256": "bf2200edbf42842414944079e29e66fbfd7a4217abd9118ac60e50ce4da7567e",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Brazil.csv.gz",
+    "server_digest": "sha256:f6cf71420df8315c36e6d2000c59db3ead7b984c0246e3d5eb4f7eb04de7351e"
   },
   {
     "country": "Bulgaria",
@@ -201,7 +233,9 @@
     "points": 67,
     "historical_rows": 56950,
     "future_rows": 251250,
-    "historical_source_sha256": "d258272a0d683d8629e93f3c161a2b2de4c3531d7c157a0a6315df33ab994272"
+    "historical_source_sha256": "d258272a0d683d8629e93f3c161a2b2de4c3531d7c157a0a6315df33ab994272",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Bulgaria.csv.gz",
+    "server_digest": "sha256:e4b7f853606af360f9dd6a6bfc9ac48a146c7cb329c88330dd873cbd6269651f"
   },
   {
     "country": "Burkina Faso",
@@ -213,7 +247,9 @@
     "points": 107,
     "historical_rows": 90950,
     "future_rows": 401250,
-    "historical_source_sha256": "8077b630a141a72eb76c4aff143c487ec7b3b39bbff71dfffc46762d78b53a44"
+    "historical_source_sha256": "8077b630a141a72eb76c4aff143c487ec7b3b39bbff71dfffc46762d78b53a44",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Burkina_Faso.csv.gz",
+    "server_digest": "sha256:4042b6ba2f59b302ac79ae3b113dc6ef3964793306ea80b756f23e4c4f78bd0c"
   },
   {
     "country": "Burundi",
@@ -225,7 +261,9 @@
     "points": 16,
     "historical_rows": 13600,
     "future_rows": 60000,
-    "historical_source_sha256": "f9ab41ede0d1c1607b952a0165a690874682dad6e9c5539e6ecbcffb94144abb"
+    "historical_source_sha256": "f9ab41ede0d1c1607b952a0165a690874682dad6e9c5539e6ecbcffb94144abb",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Burundi.csv.gz",
+    "server_digest": "sha256:ef498505b9f125e5890e8323e9b4e434af39c6a9ed1c82dae327b9d7a7ab82d5"
   },
   {
     "country": "Cambodia",
@@ -237,7 +275,9 @@
     "points": 64,
     "historical_rows": 54400,
     "future_rows": 240000,
-    "historical_source_sha256": "d38440b07e655b782645fe3ff5a53d9f247e309d900d1a81309e669c95f2845f"
+    "historical_source_sha256": "d38440b07e655b782645fe3ff5a53d9f247e309d900d1a81309e669c95f2845f",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Cambodia.csv.gz",
+    "server_digest": "sha256:ac1d4f526625851a4dd734be6cc08c5a66447887490963bd9f248aabdcbb3e67"
   },
   {
     "country": "Cameroon",
@@ -249,7 +289,9 @@
     "points": 138,
     "historical_rows": 117300,
     "future_rows": 517500,
-    "historical_source_sha256": "3ba26ae04361b7e741c3aed435e1bb924056203e582cf9051f529af316000082"
+    "historical_source_sha256": "3ba26ae04361b7e741c3aed435e1bb924056203e582cf9051f529af316000082",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Cameroon.csv.gz",
+    "server_digest": "sha256:b8894e69b494a360089557e6ec15282806a160e2764214810f8a981010da2923"
   },
   {
     "country": "Canada",
@@ -261,7 +303,9 @@
     "points": 285,
     "historical_rows": 242250,
     "future_rows": 1068750,
-    "historical_source_sha256": "23c9dfebe6549a4aaa8672f064202fb9114698187b745f97fa097bb1340aaaba"
+    "historical_source_sha256": "23c9dfebe6549a4aaa8672f064202fb9114698187b745f97fa097bb1340aaaba",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Canada.csv.gz",
+    "server_digest": "sha256:d8a0cc5c087879cf8450c4be8b18f628335c313005cd70f0980996837d07ca5c"
   },
   {
     "country": "Central African Republic",
@@ -273,7 +317,9 @@
     "points": 1,
     "historical_rows": 850,
     "future_rows": 3750,
-    "historical_source_sha256": "bee099fc5fbcdc30f5d1801408ae7413090afbd956f83fe0a0c209dc3316ed1c"
+    "historical_source_sha256": "bee099fc5fbcdc30f5d1801408ae7413090afbd956f83fe0a0c209dc3316ed1c",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Central_African_Republic.csv.gz",
+    "server_digest": "sha256:e7502ddba747d8f28cfd0566240353ba4ebb1bb22e62f50caad151f51b2c9ede"
   },
   {
     "country": "Chad",
@@ -285,7 +331,9 @@
     "points": 7,
     "historical_rows": 5950,
     "future_rows": 26250,
-    "historical_source_sha256": "68dd233c640af2bdc8639d22b39dcbb0a4da068cce3dd723c057dbbfc9526653"
+    "historical_source_sha256": "68dd233c640af2bdc8639d22b39dcbb0a4da068cce3dd723c057dbbfc9526653",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Chad.csv.gz",
+    "server_digest": "sha256:74cfea77fb85f204d23c2dbd4f9b909a9ea265e8cb63254c8e5ed6f668236500"
   },
   {
     "country": "China",
@@ -297,7 +345,9 @@
     "points": 2008,
     "historical_rows": 1706800,
     "future_rows": 7530000,
-    "historical_source_sha256": "9dbc636f4738cd2ad2da8fbb94a9210daf8e7c86cf7f1dbc8eba335f8c25bf71"
+    "historical_source_sha256": "9dbc636f4738cd2ad2da8fbb94a9210daf8e7c86cf7f1dbc8eba335f8c25bf71",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_China.csv.gz",
+    "server_digest": "sha256:926a618a56cc19017f7f539a56111125e7fa0632b09c91c83bcfc5d8a483acc7"
   },
   {
     "country": "Colombia",
@@ -309,7 +359,9 @@
     "points": 48,
     "historical_rows": 40800,
     "future_rows": 180000,
-    "historical_source_sha256": "0b58de59517416cf0c70ae1cc87ab92a1241ca60d518552d3132e5f8cb5422a3"
+    "historical_source_sha256": "0b58de59517416cf0c70ae1cc87ab92a1241ca60d518552d3132e5f8cb5422a3",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Colombia.csv.gz",
+    "server_digest": "sha256:a3ec72e32afe549cbd6d6267e7a04c75541b1078e42dfef3ba7a90fa345a5098"
   },
   {
     "country": "Congo",
@@ -321,7 +373,9 @@
     "points": 4,
     "historical_rows": 3400,
     "future_rows": 15000,
-    "historical_source_sha256": "b960cf7eafb6751421631acb41fe480049c9d8272a5f50b6d20525040864aca4"
+    "historical_source_sha256": "b960cf7eafb6751421631acb41fe480049c9d8272a5f50b6d20525040864aca4",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Congo.csv.gz",
+    "server_digest": "sha256:dd77307bd0a27ef6d6ffedcf7b921d01b0fabcf0df462181ddfa3528ed79f0f5"
   },
   {
     "country": "Congo, DRC",
@@ -333,7 +387,9 @@
     "points": 537,
     "historical_rows": 456450,
     "future_rows": 2013750,
-    "historical_source_sha256": "0b30525822ffb6a68bce49dd2df01b7f87d71e9608670222c5908e322b45254f"
+    "historical_source_sha256": "0b30525822ffb6a68bce49dd2df01b7f87d71e9608670222c5908e322b45254f",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Congo_DRC.csv.gz",
+    "server_digest": "sha256:55f5830625c98f6298aeb324f6c0fe0be5baf0831ed0703aff0bb7041b7523bd"
   },
   {
     "country": "Cote d'Ivoire",
@@ -345,7 +401,9 @@
     "points": 128,
     "historical_rows": 108800,
     "future_rows": 480000,
-    "historical_source_sha256": "ab504aa007a6acc3d0a3c477a62360551e8c8a67e3bc35edac7cefa718e87237"
+    "historical_source_sha256": "ab504aa007a6acc3d0a3c477a62360551e8c8a67e3bc35edac7cefa718e87237",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Cote_d_Ivoire.csv.gz",
+    "server_digest": "sha256:da414520c10c69e56860b6932beec73d3c10d9c37b0eb086f2998312da359039"
   },
   {
     "country": "Croatia",
@@ -357,7 +415,9 @@
     "points": 44,
     "historical_rows": 37400,
     "future_rows": 165000,
-    "historical_source_sha256": "35765a23b51640e5b4300288fbbbb24acf70dd523d895cbb2cec7adf79f6a0d0"
+    "historical_source_sha256": "35765a23b51640e5b4300288fbbbb24acf70dd523d895cbb2cec7adf79f6a0d0",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Croatia.csv.gz",
+    "server_digest": "sha256:dad116cb849342afd3f96c677e1385df127aa5258dc06763e0d2bb454e93ecf9"
   },
   {
     "country": "Cuba",
@@ -369,7 +429,9 @@
     "points": 62,
     "historical_rows": 52700,
     "future_rows": 232500,
-    "historical_source_sha256": "9f0b7b89bc45ddaa3e4f14d7cee3130cf5d7d66815639b330f95556ee52b7d5e"
+    "historical_source_sha256": "9f0b7b89bc45ddaa3e4f14d7cee3130cf5d7d66815639b330f95556ee52b7d5e",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Cuba.csv.gz",
+    "server_digest": "sha256:1f5716d5fc45812b863c11e79332834e7dfcc079d47344a7c8ee343638904d73"
   },
   {
     "country": "Czech Republic",
@@ -381,7 +443,9 @@
     "points": 51,
     "historical_rows": 43350,
     "future_rows": 191250,
-    "historical_source_sha256": "9c806131e4ec2d4921b8b30c1a43b204489f203224f0da8a6a8f3117b2667964"
+    "historical_source_sha256": "9c806131e4ec2d4921b8b30c1a43b204489f203224f0da8a6a8f3117b2667964",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Czech_Republic.csv.gz",
+    "server_digest": "sha256:949a50bf38c75b7d864ca1b40880dd97b6c15414a1a71349ed482decb6467814"
   },
   {
     "country": "Ecuador",
@@ -393,7 +457,9 @@
     "points": 76,
     "historical_rows": 64600,
     "future_rows": 285000,
-    "historical_source_sha256": "f4b815f6388c9e3ccd337ac765928f28fb251f7dc6f07b6b87028074be80d8e9"
+    "historical_source_sha256": "f4b815f6388c9e3ccd337ac765928f28fb251f7dc6f07b6b87028074be80d8e9",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Ecuador.csv.gz",
+    "server_digest": "sha256:bca3a745725db95717c3b24abdce4125f255e674059c6165ab1380a97d41a707"
   },
   {
     "country": "El Salvador",
@@ -405,7 +471,9 @@
     "points": 13,
     "historical_rows": 11050,
     "future_rows": 48750,
-    "historical_source_sha256": "975cf202ef9400ba69559adae465d36fc61f2173c067338ce4521b33ca411017"
+    "historical_source_sha256": "975cf202ef9400ba69559adae465d36fc61f2173c067338ce4521b33ca411017",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_El_Salvador.csv.gz",
+    "server_digest": "sha256:8d982d895bc98a4fbd30d4103445f190f41eb1072ef90a4c16de7e3bf12592a2"
   },
   {
     "country": "Ethiopia",
@@ -417,7 +485,9 @@
     "points": 151,
     "historical_rows": 128350,
     "future_rows": 566250,
-    "historical_source_sha256": "4a62227836549e2745c46100609ea5d2b151156d5d5d3c53db546e1e4fa4d60f"
+    "historical_source_sha256": "4a62227836549e2745c46100609ea5d2b151156d5d5d3c53db546e1e4fa4d60f",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Ethiopia.csv.gz",
+    "server_digest": "sha256:584dafa4b74b52c89df20c58720e16305d094fd5315fb353538031886f980fa2"
   },
   {
     "country": "France",
@@ -429,7 +499,9 @@
     "points": 257,
     "historical_rows": 218450,
     "future_rows": 963750,
-    "historical_source_sha256": "00b03b8019423f4a1373ab129b45e4334b38b7aed24a3fee2e661f4e6e07d9ea"
+    "historical_source_sha256": "00b03b8019423f4a1373ab129b45e4334b38b7aed24a3fee2e661f4e6e07d9ea",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_France.csv.gz",
+    "server_digest": "sha256:009843f28eb0f1f37cffb48d84e13ef0caacfe61c93efd0ada6ad186d522111b"
   },
   {
     "country": "Gabon",
@@ -441,7 +513,9 @@
     "points": 91,
     "historical_rows": 77350,
     "future_rows": 341250,
-    "historical_source_sha256": "d492bb830212d4cceab89b048ee9aea1559807a567d34790e6c28fdadb6c6e36"
+    "historical_source_sha256": "d492bb830212d4cceab89b048ee9aea1559807a567d34790e6c28fdadb6c6e36",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Gabon.csv.gz",
+    "server_digest": "sha256:d03f61da5c6c064dff3336581c46d39f57268d57e5953a86f12f6bd5cb19f298"
   },
   {
     "country": "Georgia",
@@ -453,7 +527,9 @@
     "points": 28,
     "historical_rows": 23800,
     "future_rows": 105000,
-    "historical_source_sha256": "35cda9d2a55194e913cb533f975b9633a771d53d6d6d1abac27f6a570d7e0c32"
+    "historical_source_sha256": "35cda9d2a55194e913cb533f975b9633a771d53d6d6d1abac27f6a570d7e0c32",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Georgia.csv.gz",
+    "server_digest": "sha256:3f812543f2fb83646c6f6a6715ae8f1d84416b6efc19827fae1e9bd0bae0b5c2"
   },
   {
     "country": "Germany",
@@ -465,7 +541,9 @@
     "points": 194,
     "historical_rows": 164900,
     "future_rows": 727500,
-    "historical_source_sha256": "9390c9eefe0854d02809fc12ac142dd4996b607b6978bfac88b5038a032b9789"
+    "historical_source_sha256": "9390c9eefe0854d02809fc12ac142dd4996b607b6978bfac88b5038a032b9789",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Germany.csv.gz",
+    "server_digest": "sha256:f17c2148b2ce83378d889e6a24e03479b8aa19d283796d881438335b303bc267"
   },
   {
     "country": "Ghana",
@@ -477,7 +555,9 @@
     "points": 59,
     "historical_rows": 50150,
     "future_rows": 221250,
-    "historical_source_sha256": "d60ba14999d8043c09bafd69ebaa8b93f302cbe721d319c70c2a2e08ce2908e2"
+    "historical_source_sha256": "d60ba14999d8043c09bafd69ebaa8b93f302cbe721d319c70c2a2e08ce2908e2",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Ghana.csv.gz",
+    "server_digest": "sha256:0d10445391f8a4aae5a207b89242a2d8d835df40dd88835b9dd3478647b64c39"
   },
   {
     "country": "Greece",
@@ -489,7 +569,9 @@
     "points": 44,
     "historical_rows": 37400,
     "future_rows": 165000,
-    "historical_source_sha256": "58eac5836dc54c8eb91b297c1823f3311a4c7f80a374bfdbddf2d03a322a5e99"
+    "historical_source_sha256": "58eac5836dc54c8eb91b297c1823f3311a4c7f80a374bfdbddf2d03a322a5e99",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Greece.csv.gz",
+    "server_digest": "sha256:023411fe617ad2346fca6a62731ee492e8cc0f0bd753be56962bf07e119d770f"
   },
   {
     "country": "Guatemala",
@@ -501,7 +583,9 @@
     "points": 48,
     "historical_rows": 40800,
     "future_rows": 180000,
-    "historical_source_sha256": "2f2d9fa13c42f4adb2ffa00a40d6322a758f4e89c3d6b293d57df601ccbe6402"
+    "historical_source_sha256": "2f2d9fa13c42f4adb2ffa00a40d6322a758f4e89c3d6b293d57df601ccbe6402",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Guatemala.csv.gz",
+    "server_digest": "sha256:8d00daeb5bc7cf041d88d7cc37ed6cb73d2f93de3323e35f2b4830994a7d5b73"
   },
   {
     "country": "Guinea",
@@ -513,7 +597,9 @@
     "points": 4,
     "historical_rows": 3400,
     "future_rows": 15000,
-    "historical_source_sha256": "3223aab3eed78dc11874d5004351ddb57efca6659a356c5bd7cbec84dd1cad65"
+    "historical_source_sha256": "3223aab3eed78dc11874d5004351ddb57efca6659a356c5bd7cbec84dd1cad65",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Guinea.csv.gz",
+    "server_digest": "sha256:1e1c6944ce977253d98ba119842c80b8b6f37c00c1767f4704fa54a772a0b087"
   },
   {
     "country": "Honduras",
@@ -525,7 +611,9 @@
     "points": 52,
     "historical_rows": 44200,
     "future_rows": 195000,
-    "historical_source_sha256": "5556e8ac91ca4d3c149aace0d924f2d512f4b545cf9cfdbb006eb63e538afcfc"
+    "historical_source_sha256": "5556e8ac91ca4d3c149aace0d924f2d512f4b545cf9cfdbb006eb63e538afcfc",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Honduras.csv.gz",
+    "server_digest": "sha256:bba1efc79942c3bfa7926409deb734147710efbc2cbec0022679efbcda939470"
   },
   {
     "country": "Hungary",
@@ -537,7 +625,9 @@
     "points": 58,
     "historical_rows": 49300,
     "future_rows": 217500,
-    "historical_source_sha256": "e5aa6f46ad4c0d8e94e017366f8dcb9d358d132ee04b716d4f5256b5df586388"
+    "historical_source_sha256": "e5aa6f46ad4c0d8e94e017366f8dcb9d358d132ee04b716d4f5256b5df586388",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Hungary.csv.gz",
+    "server_digest": "sha256:22b35fab49ec31ca6758e425655f54f137f3ab4465128bbf5c36d2536c735994"
   },
   {
     "country": "India",
@@ -549,7 +639,9 @@
     "points": 784,
     "historical_rows": 666400,
     "future_rows": 2940000,
-    "historical_source_sha256": "f094757e22f4b4fbab074bfa53cf3fa334ab5962dbdbdfc83dd137843ac3fec4"
+    "historical_source_sha256": "f094757e22f4b4fbab074bfa53cf3fa334ab5962dbdbdfc83dd137843ac3fec4",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_India.csv.gz",
+    "server_digest": "sha256:c8753f540843b779360ad331131004458c2aac4869723f4743254570759f960e"
   },
   {
     "country": "Indonesia",
@@ -561,7 +653,9 @@
     "points": 624,
     "historical_rows": 530400,
     "future_rows": 2340000,
-    "historical_source_sha256": "8facee733bc8750aa7e7e67ecb2fe000ff19efd7ebedc794ddae8f97bf0f9f31"
+    "historical_source_sha256": "8facee733bc8750aa7e7e67ecb2fe000ff19efd7ebedc794ddae8f97bf0f9f31",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Indonesia.csv.gz",
+    "server_digest": "sha256:449691232c10544e15b239bb9591010aee93b9d71f99ddeb74f3685c2c7e217f"
   },
   {
     "country": "Iran",
@@ -573,7 +667,9 @@
     "points": 76,
     "historical_rows": 64600,
     "future_rows": 285000,
-    "historical_source_sha256": "028f764ca36716b69c344fdfe6fec940c366ba2ccc7f1ccc1ae1c1a20064f990"
+    "historical_source_sha256": "028f764ca36716b69c344fdfe6fec940c366ba2ccc7f1ccc1ae1c1a20064f990",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Iran.csv.gz",
+    "server_digest": "sha256:01b9d67545802452039ed2380154389e5546b0b8b485f59f7a0c5c2cb381f399"
   },
   {
     "country": "Italy",
@@ -585,7 +681,9 @@
     "points": 106,
     "historical_rows": 90100,
     "future_rows": 397500,
-    "historical_source_sha256": "e693ec1b07d5355d09bb1b7f484cf1279e18ae6a6c76f8c682c0b87dafe87208"
+    "historical_source_sha256": "e693ec1b07d5355d09bb1b7f484cf1279e18ae6a6c76f8c682c0b87dafe87208",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Italy.csv.gz",
+    "server_digest": "sha256:c50eb18151aebfe46246af917c419d36004b4affbeeee5beef6a4e38b943c1ab"
   },
   {
     "country": "Japan",
@@ -597,7 +695,9 @@
     "points": 190,
     "historical_rows": 161500,
     "future_rows": 712500,
-    "historical_source_sha256": "8c09c81882f0201d1ad58bfef3711adb31b8fde89d2be3885c7f7c9a377594a3"
+    "historical_source_sha256": "8c09c81882f0201d1ad58bfef3711adb31b8fde89d2be3885c7f7c9a377594a3",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Japan.csv.gz",
+    "server_digest": "sha256:9144518e4933d546a826d81182dd518e9513633d5fb085b05eec2093ff4728b6"
   },
   {
     "country": "Kenya",
@@ -609,7 +709,9 @@
     "points": 80,
     "historical_rows": 68000,
     "future_rows": 300000,
-    "historical_source_sha256": "79d251e577e7fb987f223614fa42f922e48cdfaaa2a91e18c700b4775d71209e"
+    "historical_source_sha256": "79d251e577e7fb987f223614fa42f922e48cdfaaa2a91e18c700b4775d71209e",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Kenya.csv.gz",
+    "server_digest": "sha256:03fc914a191164ffa144fe451129e99a25093661b655860efbe45e9171d05ae6"
   },
   {
     "country": "Kosovo",
@@ -621,7 +723,9 @@
     "points": 2,
     "historical_rows": 1700,
     "future_rows": 7500,
-    "historical_source_sha256": "5463548367a621349765ad165fd1260388d2a100ce8e858e97547d7d1b6a2d0d"
+    "historical_source_sha256": "5463548367a621349765ad165fd1260388d2a100ce8e858e97547d7d1b6a2d0d",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Kosovo.csv.gz",
+    "server_digest": "sha256:1f9f7736bb249467b1be66d0b3d4cfa271c30826b20c1ac5f50be44c77f46dfb"
   },
   {
     "country": "Laos",
@@ -633,7 +737,9 @@
     "points": 105,
     "historical_rows": 89250,
     "future_rows": 393750,
-    "historical_source_sha256": "8706d001b6bca21faae9d1f4ddb1ed081fb6ff8b3a4c422281fce175c5a8487d"
+    "historical_source_sha256": "8706d001b6bca21faae9d1f4ddb1ed081fb6ff8b3a4c422281fce175c5a8487d",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Laos.csv.gz",
+    "server_digest": "sha256:00abfea0786ee1871b32bdff80f205cc16e51c6c9f587e1bce7efc44bc9deb3e"
   },
   {
     "country": "Liberia",
@@ -645,7 +751,9 @@
     "points": 47,
     "historical_rows": 39950,
     "future_rows": 176250,
-    "historical_source_sha256": "113c23299d50759f392e13dba5937cb415fd32673aa7ecc6ae43710e54f48815"
+    "historical_source_sha256": "113c23299d50759f392e13dba5937cb415fd32673aa7ecc6ae43710e54f48815",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Liberia.csv.gz",
+    "server_digest": "sha256:d07b8080f70001ca772fda05cccf8ab7af05438f1e66ebbb97e923095a425cd0"
   },
   {
     "country": "Macedonia",
@@ -657,7 +765,9 @@
     "points": 18,
     "historical_rows": 15300,
     "future_rows": 67500,
-    "historical_source_sha256": "c5974d255306a5771ab93da1ed0c4888543c2c48f6b0cd09490dc6dd4c713c0a"
+    "historical_source_sha256": "c5974d255306a5771ab93da1ed0c4888543c2c48f6b0cd09490dc6dd4c713c0a",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Macedonia.csv.gz",
+    "server_digest": "sha256:118acc17382a2d997f475607a82de31053d2850144000dfb28539042735e36e2"
   },
   {
     "country": "Madagascar",
@@ -669,7 +779,9 @@
     "points": 41,
     "historical_rows": 34850,
     "future_rows": 153750,
-    "historical_source_sha256": "0e082c3d276491c6928d43420e0194f7eadeaaf23fe6a409afd830c3638f6294"
+    "historical_source_sha256": "0e082c3d276491c6928d43420e0194f7eadeaaf23fe6a409afd830c3638f6294",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Madagascar.csv.gz",
+    "server_digest": "sha256:4922b2b833631d1e65502e71815ae6289359be1f10663fe08697ef763bed3fad"
   },
   {
     "country": "Malawi",
@@ -681,7 +793,9 @@
     "points": 56,
     "historical_rows": 47600,
     "future_rows": 210000,
-    "historical_source_sha256": "193af5b5cc745abc219a0d589ad196932574f4760833a9eafb4339f05d888f43"
+    "historical_source_sha256": "193af5b5cc745abc219a0d589ad196932574f4760833a9eafb4339f05d888f43",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Malawi.csv.gz",
+    "server_digest": "sha256:a710fa8349c2c88f398bd14bcd7b4a240579e64eef6fa214b0c5fe2f6cf12622"
   },
   {
     "country": "Mali",
@@ -693,7 +807,9 @@
     "points": 177,
     "historical_rows": 150450,
     "future_rows": 663750,
-    "historical_source_sha256": "61ff02d507957d05aa49aff7b70478ad855ec27f6e37d1026ce079a94945db8d"
+    "historical_source_sha256": "61ff02d507957d05aa49aff7b70478ad855ec27f6e37d1026ce079a94945db8d",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Mali.csv.gz",
+    "server_digest": "sha256:25bdb0829e2bb45526eec8a0df632428e683499a935ecac7d7aa447eea695aaf"
   },
   {
     "country": "Mexico",
@@ -705,7 +821,9 @@
     "points": 101,
     "historical_rows": 85850,
     "future_rows": 378750,
-    "historical_source_sha256": "8c6ec7100ca85004fd8a9e6ff4a99e9c1282b318f456d295e1b6f7ed5d88df3b"
+    "historical_source_sha256": "8c6ec7100ca85004fd8a9e6ff4a99e9c1282b318f456d295e1b6f7ed5d88df3b",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Mexico.csv.gz",
+    "server_digest": "sha256:da9a503688049cc04965b109b3cf9422e6b07aadb2d492bafd4fa38184d42445"
   },
   {
     "country": "Moldova",
@@ -717,7 +835,9 @@
     "points": 25,
     "historical_rows": 21250,
     "future_rows": 93750,
-    "historical_source_sha256": "b68dba56c4801f50cf9d0891cc43c979ed449071f34741b55cc3ee085e2b3f4f"
+    "historical_source_sha256": "b68dba56c4801f50cf9d0891cc43c979ed449071f34741b55cc3ee085e2b3f4f",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Moldova.csv.gz",
+    "server_digest": "sha256:82280c4642852391280bdd88726570e0249145c85549521750e4f23216dd47ed"
   },
   {
     "country": "Morocco",
@@ -729,7 +849,9 @@
     "points": 57,
     "historical_rows": 48450,
     "future_rows": 213750,
-    "historical_source_sha256": "78893fcc8b2873483400bcd2c648c6873a2c5384897354487052f9543a86a953"
+    "historical_source_sha256": "78893fcc8b2873483400bcd2c648c6873a2c5384897354487052f9543a86a953",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Morocco.csv.gz",
+    "server_digest": "sha256:511af1f3147ce108e5314e5d127453e66991892f3539c1e3474285ebe460dcd3"
   },
   {
     "country": "Mozambique",
@@ -741,7 +863,9 @@
     "points": 176,
     "historical_rows": 149600,
     "future_rows": 660000,
-    "historical_source_sha256": "d2ccb567122c8e8f4ab1b6dd8c60c0a61fd8c278dc3a110fc25fc86d581ffa98"
+    "historical_source_sha256": "d2ccb567122c8e8f4ab1b6dd8c60c0a61fd8c278dc3a110fc25fc86d581ffa98",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Mozambique.csv.gz",
+    "server_digest": "sha256:c05efea459098359ceb5efba1ce86d6617ad29b76267ce3153a464c1ff890f27"
   },
   {
     "country": "Myanmar",
@@ -753,7 +877,9 @@
     "points": 240,
     "historical_rows": 204000,
     "future_rows": 900000,
-    "historical_source_sha256": "c85b7887423a0748a707ff35803d416ecc1b63a68e4918ba6f19072db6210ca8"
+    "historical_source_sha256": "c85b7887423a0748a707ff35803d416ecc1b63a68e4918ba6f19072db6210ca8",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Myanmar.csv.gz",
+    "server_digest": "sha256:1d4e2fc20c851acb0a4d57e433ade19810e8f8393b787732b5750dcb291cfbf8"
   },
   {
     "country": "Nepal",
@@ -765,7 +891,9 @@
     "points": 46,
     "historical_rows": 39100,
     "future_rows": 172500,
-    "historical_source_sha256": "74d921a73f58be7486ddb0559c4ab24bd380d8d64bf2e74c3ec6a47344e2acf2"
+    "historical_source_sha256": "74d921a73f58be7486ddb0559c4ab24bd380d8d64bf2e74c3ec6a47344e2acf2",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Nepal.csv.gz",
+    "server_digest": "sha256:db9ed9f67e573adb0117e9214835574b30446049b1419d4198165ce1fba02be9"
   },
   {
     "country": "Nicaragua",
@@ -777,7 +905,9 @@
     "points": 35,
     "historical_rows": 29750,
     "future_rows": 131250,
-    "historical_source_sha256": "81690dc215c43dd3b108aa1e7d98de5a361bb3cffcd713382ae965eaf1fc3a67"
+    "historical_source_sha256": "81690dc215c43dd3b108aa1e7d98de5a361bb3cffcd713382ae965eaf1fc3a67",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Nicaragua.csv.gz",
+    "server_digest": "sha256:32707da8041c71655e2b93b01963847a333aa5d2f5dcdf1fdffd2c0bfb78e9f6"
   },
   {
     "country": "Niger",
@@ -789,7 +919,9 @@
     "points": 4,
     "historical_rows": 3400,
     "future_rows": 15000,
-    "historical_source_sha256": "1f949dce20b00b1fdb415fe0cedd05ab1cbbd8d6e50ba933b02dc8198d30c11d"
+    "historical_source_sha256": "1f949dce20b00b1fdb415fe0cedd05ab1cbbd8d6e50ba933b02dc8198d30c11d",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Niger.csv.gz",
+    "server_digest": "sha256:ca9aea6f33959e37909026022457b4cb886406adb8e74f6afa552aa87fd39304"
   },
   {
     "country": "Nigeria",
@@ -801,7 +933,9 @@
     "points": 310,
     "historical_rows": 263500,
     "future_rows": 1162500,
-    "historical_source_sha256": "16488abf34913fabdcf3273d00a14edb37bbae996b8833af850b27bd65b9a3b8"
+    "historical_source_sha256": "16488abf34913fabdcf3273d00a14edb37bbae996b8833af850b27bd65b9a3b8",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Nigeria.csv.gz",
+    "server_digest": "sha256:1292d1f8c83f67a4eecc44a2e99da7bce6935ed8a7052ef115261be3b8c91a6a"
   },
   {
     "country": "North Korea",
@@ -813,7 +947,9 @@
     "points": 67,
     "historical_rows": 56950,
     "future_rows": 251250,
-    "historical_source_sha256": "3e40f51a8a83d72ff79dd04a12cb7f711fd866db08f64dbb66b45a003c665977"
+    "historical_source_sha256": "3e40f51a8a83d72ff79dd04a12cb7f711fd866db08f64dbb66b45a003c665977",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_North_Korea.csv.gz",
+    "server_digest": "sha256:42a33ec0fc9b78e5868cb1ab82ec924a7354fc061bf2a151d9c82673738700a7"
   },
   {
     "country": "Panama",
@@ -825,7 +961,9 @@
     "points": 33,
     "historical_rows": 28050,
     "future_rows": 123750,
-    "historical_source_sha256": "a29d52d01d5da89bfa6a3fd43a88aec1d113548de9bb20a7a027808d27e4d07b"
+    "historical_source_sha256": "a29d52d01d5da89bfa6a3fd43a88aec1d113548de9bb20a7a027808d27e4d07b",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Panama.csv.gz",
+    "server_digest": "sha256:1a2a83d636c0f6c35ba0debc15a55eecba5fa15c4bf3b7192a16c14b1d9240d1"
   },
   {
     "country": "Paraguay",
@@ -837,7 +975,9 @@
     "points": 172,
     "historical_rows": 146200,
     "future_rows": 645000,
-    "historical_source_sha256": "ca0350059893d32b98721fad9deb2b9310d9c1c09fc39fc954f0122254367570"
+    "historical_source_sha256": "ca0350059893d32b98721fad9deb2b9310d9c1c09fc39fc954f0122254367570",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Paraguay.csv.gz",
+    "server_digest": "sha256:6af2cd4c3e11552391b179b668d21e0399adbd60487955fca358f31af6967482"
   },
   {
     "country": "Peru",
@@ -849,7 +989,9 @@
     "points": 76,
     "historical_rows": 64600,
     "future_rows": 285000,
-    "historical_source_sha256": "1c2f34229a520624357486f3b153ded3dd09732319106d417283d26c2cd7f95a"
+    "historical_source_sha256": "1c2f34229a520624357486f3b153ded3dd09732319106d417283d26c2cd7f95a",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Peru.csv.gz",
+    "server_digest": "sha256:04ce0c49c4bd99360f66627165565bc9d168bf6310ae6d0b2466d299e0b39781"
   },
   {
     "country": "Philippines",
@@ -861,7 +1003,9 @@
     "points": 58,
     "historical_rows": 49300,
     "future_rows": 217500,
-    "historical_source_sha256": "25b5fbd2b94d157ea24f63e61732f2c1549a977321ab68e09c050df5ce325aed"
+    "historical_source_sha256": "25b5fbd2b94d157ea24f63e61732f2c1549a977321ab68e09c050df5ce325aed",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Philippines.csv.gz",
+    "server_digest": "sha256:98103ef932d77c53b053ff3962f80b3e0fc303a78a07786a625c04d56c52da75"
   },
   {
     "country": "Poland",
@@ -873,7 +1017,9 @@
     "points": 176,
     "historical_rows": 149600,
     "future_rows": 660000,
-    "historical_source_sha256": "4646fea5690e15a082e86f528051cc6518b8e066d43e9666800c61290789b16c"
+    "historical_source_sha256": "4646fea5690e15a082e86f528051cc6518b8e066d43e9666800c61290789b16c",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Poland.csv.gz",
+    "server_digest": "sha256:de342dfa9729d73a7005a1ec03e967ecaf22eafa980c80e0c7973fc97b9b7b97"
   },
   {
     "country": "Portugal",
@@ -885,7 +1031,9 @@
     "points": 3,
     "historical_rows": 2550,
     "future_rows": 11250,
-    "historical_source_sha256": "a1e28f05317194ccb0fba3f2e8a7a7b20c5c9a772cb37bb3795b088dd412b090"
+    "historical_source_sha256": "a1e28f05317194ccb0fba3f2e8a7a7b20c5c9a772cb37bb3795b088dd412b090",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Portugal.csv.gz",
+    "server_digest": "sha256:24f0401ac194838f5e11b15b180c7c964c0f70c255b9f038ad4f4caa3558b43b"
   },
   {
     "country": "Romania",
@@ -897,7 +1045,9 @@
     "points": 81,
     "historical_rows": 68850,
     "future_rows": 303750,
-    "historical_source_sha256": "428355b155698bf8ee2d300750987cd671ccccff199417c1ddf0c50efb5bb2d2"
+    "historical_source_sha256": "428355b155698bf8ee2d300750987cd671ccccff199417c1ddf0c50efb5bb2d2",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Romania.csv.gz",
+    "server_digest": "sha256:23d1b8f2802057a8bf09db5441950b0834cb6b01449811b0f1ed0a85628cd2b3"
   },
   {
     "country": "Russia",
@@ -909,7 +1059,9 @@
     "points": 1153,
     "historical_rows": 980050,
     "future_rows": 4323750,
-    "historical_source_sha256": "533f549e9d789f37839183a7731534ebd0dedcdd264f9e44358b8e3aa2bfafdf"
+    "historical_source_sha256": "533f549e9d789f37839183a7731534ebd0dedcdd264f9e44358b8e3aa2bfafdf",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Russia.csv.gz",
+    "server_digest": "sha256:430b235d93c5c61dbef698d5d3bf839a1bb645fdb548ae46be26deb3f0641ac8"
   },
   {
     "country": "Rwanda",
@@ -921,7 +1073,9 @@
     "points": 15,
     "historical_rows": 12750,
     "future_rows": 56250,
-    "historical_source_sha256": "5875e930c8d21ac9afe963ea1634098911671855860199fa370d8987c9c475a8"
+    "historical_source_sha256": "5875e930c8d21ac9afe963ea1634098911671855860199fa370d8987c9c475a8",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Rwanda.csv.gz",
+    "server_digest": "sha256:c7e6ddb8791bbd898b25822502a67878e2ca97edf3d3d5278952195b641cb583"
   },
   {
     "country": "Serbia",
@@ -933,7 +1087,9 @@
     "points": 51,
     "historical_rows": 43350,
     "future_rows": 191250,
-    "historical_source_sha256": "34fe0a7a0c6980608ae8c3772edda949ce05aa42fd40a2ca9802188ee61a484c"
+    "historical_source_sha256": "34fe0a7a0c6980608ae8c3772edda949ce05aa42fd40a2ca9802188ee61a484c",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Serbia.csv.gz",
+    "server_digest": "sha256:5975fce68d346506af24ba6a9fb271d171a09efe6ec250df7160fe9483c18110"
   },
   {
     "country": "Slovenia",
@@ -945,7 +1101,9 @@
     "points": 16,
     "historical_rows": 13600,
     "future_rows": 60000,
-    "historical_source_sha256": "5a9f1837bf41ed1472c419338f8a3f59956e39eb578f0c5a46c574e929384304"
+    "historical_source_sha256": "5a9f1837bf41ed1472c419338f8a3f59956e39eb578f0c5a46c574e929384304",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Slovenia.csv.gz",
+    "server_digest": "sha256:78c3d2deda7d4ddd95e6b9fb6a16f2dc7b396ddde22673e92d115f995d2e6df8"
   },
   {
     "country": "South Africa",
@@ -957,7 +1115,9 @@
     "points": 217,
     "historical_rows": 184450,
     "future_rows": 813750,
-    "historical_source_sha256": "39d978e4ed35084b6b1043069a63512615ac76289f808bfd0caae52fed6693a8"
+    "historical_source_sha256": "39d978e4ed35084b6b1043069a63512615ac76289f808bfd0caae52fed6693a8",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_South_Africa.csv.gz",
+    "server_digest": "sha256:53829a1e0967c9365cfca5b9731310e459ab6ee9a9518ba4a8d69c01c81b7363"
   },
   {
     "country": "South Korea",
@@ -969,7 +1129,9 @@
     "points": 54,
     "historical_rows": 45900,
     "future_rows": 202500,
-    "historical_source_sha256": "bab1df8fe5ae6772c6d6b092358a0c0e8dc7e1cef48842c42b7489c1f7d84255"
+    "historical_source_sha256": "bab1df8fe5ae6772c6d6b092358a0c0e8dc7e1cef48842c42b7489c1f7d84255",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_South_Korea.csv.gz",
+    "server_digest": "sha256:0b5f39125dba03d0f15700c9e5c05993fdea9109fce6602be7ed3f8fad128fe8"
   },
   {
     "country": "Spain",
@@ -981,7 +1143,9 @@
     "points": 144,
     "historical_rows": 122400,
     "future_rows": 540000,
-    "historical_source_sha256": "fc52b1f6984e5f61638f52c7c7f9c743f21cdfaa134c906710e6818f9196e9f1"
+    "historical_source_sha256": "fc52b1f6984e5f61638f52c7c7f9c743f21cdfaa134c906710e6818f9196e9f1",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Spain.csv.gz",
+    "server_digest": "sha256:b999c5c91d813eb59a517b72ca5d44f28c5c672fc94c5c9078e4f5e917a96231"
   },
   {
     "country": "Sri Lanka",
@@ -993,7 +1157,9 @@
     "points": 25,
     "historical_rows": 21250,
     "future_rows": 93750,
-    "historical_source_sha256": "21d75aaff81cc82d3871829f65b7399d9d06ce7f1adf43596e67488f16b70b9e"
+    "historical_source_sha256": "21d75aaff81cc82d3871829f65b7399d9d06ce7f1adf43596e67488f16b70b9e",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Sri_Lanka.csv.gz",
+    "server_digest": "sha256:e61bf634b0e8e3b683f51a1409a9453635f1af70f6d6c5b119d239b34281c025"
   },
   {
     "country": "Sudan",
@@ -1005,7 +1171,9 @@
     "points": 1,
     "historical_rows": 850,
     "future_rows": 3750,
-    "historical_source_sha256": "0eea60ffe458e9c8599e7bc437186aa930f092fc9742599f97f6e1da197be7f9"
+    "historical_source_sha256": "0eea60ffe458e9c8599e7bc437186aa930f092fc9742599f97f6e1da197be7f9",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Sudan.csv.gz",
+    "server_digest": "sha256:2e0514ba77d3110fcce2f7eb5c06d32ddc542244d4b2461f8ca92471f3cc3804"
   },
   {
     "country": "Suriname",
@@ -1017,7 +1185,9 @@
     "points": 6,
     "historical_rows": 5100,
     "future_rows": 22500,
-    "historical_source_sha256": "aa0534bda974ee8d006d94f25ddc4e28d9ac3000579485a30b980fbc7648c81c"
+    "historical_source_sha256": "aa0534bda974ee8d006d94f25ddc4e28d9ac3000579485a30b980fbc7648c81c",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Suriname.csv.gz",
+    "server_digest": "sha256:59270c9925eeb5e1017eb2223a867d8eca0e6985f414a548cde8f690194a649a"
   },
   {
     "country": "Swaziland",
@@ -1029,7 +1199,9 @@
     "points": 1,
     "historical_rows": 850,
     "future_rows": 3750,
-    "historical_source_sha256": "71cc50edc0864cb864117371ccad6ff7de41ef7e699bb7130c7dcc9d39438687"
+    "historical_source_sha256": "71cc50edc0864cb864117371ccad6ff7de41ef7e699bb7130c7dcc9d39438687",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Swaziland.csv.gz",
+    "server_digest": "sha256:e7d9e66aba79e02b2f87172f58b4f96bba7bda09fc172495e92112eb428f43a2"
   },
   {
     "country": "Switzerland",
@@ -1041,7 +1213,9 @@
     "points": 13,
     "historical_rows": 11050,
     "future_rows": 48750,
-    "historical_source_sha256": "1edd78dd1ce09229ace9997e09e7f3c35b0afa4c077c26d98982d0873749c477"
+    "historical_source_sha256": "1edd78dd1ce09229ace9997e09e7f3c35b0afa4c077c26d98982d0873749c477",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Switzerland.csv.gz",
+    "server_digest": "sha256:a5a2bb364eac304ca813e42ae98d88b87efe0fa71b8c8b9e2662019c6c985ee5"
   },
   {
     "country": "Syria",
@@ -1053,7 +1227,9 @@
     "points": 19,
     "historical_rows": 16150,
     "future_rows": 71250,
-    "historical_source_sha256": "4f8f06066e88b99c17b41cab86bb47939f1338d6ac1fdd3ae57a8004013f5779"
+    "historical_source_sha256": "4f8f06066e88b99c17b41cab86bb47939f1338d6ac1fdd3ae57a8004013f5779",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Syria.csv.gz",
+    "server_digest": "sha256:a87af119565eddd4e17eff1840343094e7fcc15b3616733b2171206cb47ff2ba"
   },
   {
     "country": "Taiwan",
@@ -1065,7 +1241,9 @@
     "points": 21,
     "historical_rows": 17850,
     "future_rows": 78750,
-    "historical_source_sha256": "d775120ccb9406a4524e35bd8712b27f9419b481595220f2ebfe00cfe422222e"
+    "historical_source_sha256": "d775120ccb9406a4524e35bd8712b27f9419b481595220f2ebfe00cfe422222e",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Taiwan.csv.gz",
+    "server_digest": "sha256:7c69cdac6f0257b306f9c4f9759b99eff1d1a8679bcfe659b606669ace11bbec"
   },
   {
     "country": "Tajikistan",
@@ -1077,7 +1255,9 @@
     "points": 24,
     "historical_rows": 20400,
     "future_rows": 90000,
-    "historical_source_sha256": "829964f3ed6ef157d3e2a365aa62fa81f49498587aed4111ec62f53abc564465"
+    "historical_source_sha256": "829964f3ed6ef157d3e2a365aa62fa81f49498587aed4111ec62f53abc564465",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Tajikistan.csv.gz",
+    "server_digest": "sha256:b9a080e22bedf8baa9d589b08e750febd959f200f6baa855109192fdfd48eb67"
   },
   {
     "country": "Tanzania",
@@ -1089,7 +1269,9 @@
     "points": 204,
     "historical_rows": 173400,
     "future_rows": 765000,
-    "historical_source_sha256": "2946d032d467e98b9a156165397ec38644838f9e4a1235791243d37ff0929cbc"
+    "historical_source_sha256": "2946d032d467e98b9a156165397ec38644838f9e4a1235791243d37ff0929cbc",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Tanzania.csv.gz",
+    "server_digest": "sha256:ba753bde3a94401653a78a593a2f1001ae0725b72651c01c7cd68b8db4a9cc12"
   },
   {
     "country": "Thailand",
@@ -1101,7 +1283,9 @@
     "points": 81,
     "historical_rows": 68850,
     "future_rows": 303750,
-    "historical_source_sha256": "8bd10fca572df0222049218873a1bc3f65f7a3d4e189a77c7427defd86b94795"
+    "historical_source_sha256": "8bd10fca572df0222049218873a1bc3f65f7a3d4e189a77c7427defd86b94795",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Thailand.csv.gz",
+    "server_digest": "sha256:a5eacedf7ecd642de5f416951488a70a34f4b34f9f6ef48b28184d163198652a"
   },
   {
     "country": "Timor Leste",
@@ -1113,7 +1297,9 @@
     "points": 12,
     "historical_rows": 10200,
     "future_rows": 45000,
-    "historical_source_sha256": "fd22636378fe41b7de6f444214d7d3a5ce83a50364b636a439fe5f8b18ea57ee"
+    "historical_source_sha256": "fd22636378fe41b7de6f444214d7d3a5ce83a50364b636a439fe5f8b18ea57ee",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Timor_Leste.csv.gz",
+    "server_digest": "sha256:af32df9ae1338de5db5f137a3ba33a2ee41978d63c4ecfc134b50e38acb7dade"
   },
   {
     "country": "Togo",
@@ -1125,7 +1311,9 @@
     "points": 31,
     "historical_rows": 26350,
     "future_rows": 116250,
-    "historical_source_sha256": "79a699cd2cbc4f9b15c66b2d5de937308db6388f280efaa864e4ee7d584894c0"
+    "historical_source_sha256": "79a699cd2cbc4f9b15c66b2d5de937308db6388f280efaa864e4ee7d584894c0",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Togo.csv.gz",
+    "server_digest": "sha256:88603859fd41e19ab013ef116e1833907d0ed91c6065fdf5fdd358216c3da0bd"
   },
   {
     "country": "Uganda",
@@ -1137,7 +1325,9 @@
     "points": 75,
     "historical_rows": 63750,
     "future_rows": 281250,
-    "historical_source_sha256": "48e86404ee1cac4d3c0e4a5c1802d1b19ec637f61fd476de5bbed8d741ab9945"
+    "historical_source_sha256": "48e86404ee1cac4d3c0e4a5c1802d1b19ec637f61fd476de5bbed8d741ab9945",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Uganda.csv.gz",
+    "server_digest": "sha256:ac355ee59d316969d5a171a53048e99175c14194e3661d46b01531fc1251beb7"
   },
   {
     "country": "Ukraine",
@@ -1149,7 +1339,9 @@
     "points": 335,
     "historical_rows": 284750,
     "future_rows": 1256250,
-    "historical_source_sha256": "22faed3d94a1ae99986ae669c194302c8a43c9cd5f2c140f671539cc726ad232"
+    "historical_source_sha256": "22faed3d94a1ae99986ae669c194302c8a43c9cd5f2c140f671539cc726ad232",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Ukraine.csv.gz",
+    "server_digest": "sha256:c61b74721373af178fbd564b3b58b2559faf9d631d9770bbc75a6363a142d88d"
   },
   {
     "country": "United States",
@@ -1161,7 +1353,9 @@
     "points": 1865,
     "historical_rows": 1585250,
     "future_rows": 6993750,
-    "historical_source_sha256": "231a7b6486150b735a18136d9106c262d0dd5aa55b22963637ba2cfb0f93cbf6"
+    "historical_source_sha256": "231a7b6486150b735a18136d9106c262d0dd5aa55b22963637ba2cfb0f93cbf6",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_United_States.csv.gz",
+    "server_digest": "sha256:fed6d7ba7f32b1a494e9d62100c313a22a89db2745bdd86176686b2fd1c58ed2"
   },
   {
     "country": "Uruguay",
@@ -1173,7 +1367,9 @@
     "points": 70,
     "historical_rows": 59500,
     "future_rows": 262500,
-    "historical_source_sha256": "e22d16a5f72f5d437e46e339547587beafaee748b395b6ef1261d33ed5dce1f8"
+    "historical_source_sha256": "e22d16a5f72f5d437e46e339547587beafaee748b395b6ef1261d33ed5dce1f8",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Uruguay.csv.gz",
+    "server_digest": "sha256:b8203aed0b30d04b5b95e23ca1eb4a51408f09b4c753f32b7771f1ea2f218876"
   },
   {
     "country": "Uzbekistan",
@@ -1185,7 +1381,9 @@
     "points": 20,
     "historical_rows": 17000,
     "future_rows": 75000,
-    "historical_source_sha256": "8fb4730faaecbbcfe3dd88cfc2a7a6d64dadffc6a5a8b2836ee429c1dae1f71a"
+    "historical_source_sha256": "8fb4730faaecbbcfe3dd88cfc2a7a6d64dadffc6a5a8b2836ee429c1dae1f71a",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Uzbekistan.csv.gz",
+    "server_digest": "sha256:800316ad3244bda8c88df572c7e3a399ec6d28f34c4dbf73eddff1bb1fbf9e2f"
   },
   {
     "country": "Venezuela",
@@ -1197,7 +1395,9 @@
     "points": 40,
     "historical_rows": 34000,
     "future_rows": 150000,
-    "historical_source_sha256": "1b4db5eb675977b343a47cbd47ec9b0bf1f8acedbc70ed6a50afc140d5b8defa"
+    "historical_source_sha256": "1b4db5eb675977b343a47cbd47ec9b0bf1f8acedbc70ed6a50afc140d5b8defa",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Venezuela.csv.gz",
+    "server_digest": "sha256:b9566aad2175f8d9d8861d874b64da4a176b5a98bbe446dd54ce981dd89b544b"
   },
   {
     "country": "Vietnam",
@@ -1209,7 +1409,9 @@
     "points": 152,
     "historical_rows": 129200,
     "future_rows": 570000,
-    "historical_source_sha256": "6f9371b79237e9f56bf87760d8c12935662d3d99781fe31a06eccbb07b710e84"
+    "historical_source_sha256": "6f9371b79237e9f56bf87760d8c12935662d3d99781fe31a06eccbb07b710e84",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Vietnam.csv.gz",
+    "server_digest": "sha256:a896a08698b28b05f3715c182945672c2167fec113a20de04eeae99d80522301"
   },
   {
     "country": "Zambia",
@@ -1221,7 +1423,9 @@
     "points": 258,
     "historical_rows": 219300,
     "future_rows": 967500,
-    "historical_source_sha256": "e1ac503e80894def1f7c34efc2fb28fbee262d97c7059b3b5606793179d83dd7"
+    "historical_source_sha256": "e1ac503e80894def1f7c34efc2fb28fbee262d97c7059b3b5606793179d83dd7",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Zambia.csv.gz",
+    "server_digest": "sha256:7ba8f3f14847f3b88e4f8bf684560d52f9a87bf10036e17544accb885c61dc04"
   },
   {
     "country": "Zimbabwe",
@@ -1233,6 +1437,8 @@
     "points": 143,
     "historical_rows": 121550,
     "future_rows": 536250,
-    "historical_source_sha256": "e2e1f971b2a3932848d005a0a44f8c4a26b9f32dc3f4853c0e2e30d22542a9d9"
+    "historical_source_sha256": "e2e1f971b2a3932848d005a0a44f8c4a26b9f32dc3f4853c0e2e30d22542a9d9",
+    "download_url": "https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/summary_master_Zimbabwe.csv.gz",
+    "server_digest": "sha256:1bf5115a7549d9428c43bdd4205b01039af0b6a9e4bb9de0844262ce1bd8a784"
   }
 ]

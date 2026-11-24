@@ -13,7 +13,7 @@ Project references:
 
 ## Production executable
 
-[bin/dscsm048](bin/dscsm048) is the exact Linux x86-64 ELF executable retrieved from the production project. Its SHA-256 matches the hash recorded in the corrected global campaign:
+[bin/dscsm048](bin/dscsm048) ([direct download](https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/dscsm048-linux-x86_64)) is the exact Linux x86-64 ELF executable retrieved from the production project. Its SHA-256 matches the hash recorded in the corrected global campaign:
 
 ```text
 811a53c4d85d2f47ecf7815d9c46bc75fbc5fe5dbd2dd26aae3fce606f2ba41e

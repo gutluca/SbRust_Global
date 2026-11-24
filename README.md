@@ -28,7 +28,7 @@ See [methods.md](docs/methods.md) for spatial selection, calibration policies, c
 
 The final country masters contain **76,415,200 paired records**. Every row includes the matched disease-free and disease-affected soybean yields; both arms are supplied in the same files. The original compressed CSVs are retained without applying the analysis filter or changing their contents.
 
-The 103 masters are distributed as a **[2.07 GB raw-data archive](https://github.com/gutluca/SbRust_Global/releases/download/v0.1.0-data/SbRust_Global_paired_masters_20261123.tar)** attached to the [data release](https://github.com/gutluca/SbRust_Global/releases/tag/v0.1.0-data). [master_files.json](provenance/master_files.json) lists each country file, row count, size and SHA-256 checksum. The [data dictionary](docs/data_dictionary.md) documents the semicolon-delimited gzip CSVs. The download command below verifies the archive and every extracted country file.
+The **[data release](https://github.com/gutluca/SbRust_Global/releases/tag/v0.1.0-data)** distributes the 103 original gzip CSVs as individual country downloads (2.07 GB in total). [master_files.json](provenance/master_files.json) lists each file, row count, size and SHA-256 checksum. The [data dictionary](docs/data_dictionary.md) documents the semicolon-delimited format. The download command below retrieves and verifies the complete dataset; individual countries can also be selected.
 
 The corrected yield campaign is complete. The corrected DSV application-demand campaign is still running; its raw outputs will be added after completion and verification.
 
@@ -58,6 +58,8 @@ python3 workflow/analysis/run_analysis.py --data-root data/raw --output results/
 ```
 
 Existing output directories are not overwritten. The raw files are retained unchanged; validity filtering is applied only during processing.
+
+To download a subset, add `--countries Brazil "United States"` to the download command, then pass the same selection to `run_analysis.py`.
 
 ## External inputs
 

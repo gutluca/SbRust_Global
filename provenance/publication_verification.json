@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "date": "2026-11-24",
+  "release_url": "https://github.com/gutluca/SbRust_Global/releases/tag/v0.1.0-data",
+  "country_files_verified": 103,
+  "paired_records": 76415200,
+  "country_file_bytes": 2073032430,
+  "verification": "Every server-reported asset size and SHA-256 matched its original country master manifest.",
+  "executable_server_sha256": "sha256:811a53c4d85d2f47ecf7815d9c46bc75fbc5fe5dbd2dd26aae3fce606f2ba41e",
+  "archive_doi": null
+}
