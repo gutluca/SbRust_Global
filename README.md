@@ -22,7 +22,7 @@ The study covers 103 countries, 16,612 country–cell fragments and 15,765 disti
 
 One maturity group is fixed per country–cell. Annual future CO₂ follows the matching SSP concentrations from [Meinshausen et al. (2020)](https://doi.org/10.5194/gmd-13-3571-2020).
 
-See [methods.md](docs/methods.md) for spatial selection, calibration policies, calendars, paired disease runs and processing rules.
+See [methods.md](docs/methods.md) for the study design, calendars, paired disease runs and output processing.
 
 ## Raw results
 
@@ -46,7 +46,7 @@ python3 workflow/analysis/run_analysis.py --data-root examples/data --countries 
 python3 workflow/analysis/check_example.py --output results/example
 ```
 
-The [example](examples/README.md) contains the complete unmodified Albania master: 17 country–cells and 78,200 raw records. The documented filter retains 78,005 and excludes 195. Python 3.12 and pinned numerical packages are used for verification; automated checks run on pushes and pull requests.
+The example contains the complete unmodified Albania master: 17 country–cells and 78,200 raw records. The documented filter retains 78,005 and excludes 195. Python 3.12 and pinned numerical packages are used for verification; automated checks run on pushes and pull requests.
 
 ## Process all 103 countries
 
@@ -61,8 +61,8 @@ To download a subset, add `--countries Brazil "United States"` to the download c
 
 ## External inputs
 
-Weather and soil data are required to rerun DSSAT, but are not needed to reanalyse the raw masters. Their provider records and the original calendar filenames are documented in [external_inputs.md](docs/external_inputs.md) and [external_inputs.json](provenance/external_inputs.json). The exact processed-weather catalogue, site-to-soil mappings and executed runtime/configuration environment still need export from the original production project. The included binary is therefore one component of the model installation, not a complete simulation-input bundle.
+The spatial tables include the SPAM-derived soybean study mask, fixed harvested-area weights and maturity groups used in the simulations. GGCMI/ISIMIP crop calendars, weather and eGHR soils are documented in [sources_and_licensing.md](docs/sources_and_licensing.md), with study filenames in [external_inputs.json](provenance/external_inputs.json).
 
-See [reproduction.md](docs/reproduction.md) for the workflow and [release_status.md](docs/release_status.md) for the exact scope of this snapshot. A final archival code/data DOI will be added when the study release is frozen.
+See [reproduction.md](docs/reproduction.md) for output processing, the production workflow and model input requirements.
 
 Original model and input terms apply separately from the licence for the custom workflow. Source attribution and access information are recorded in [sources_and_licensing.md](docs/sources_and_licensing.md).

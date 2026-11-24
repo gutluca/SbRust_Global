@@ -1,43 +1,48 @@
 # Reproduction
 
-## Editing the repository
+## Process the raw outputs
 
-README, documentation and code can be edited normally; Git records their versions. The checksum inventory protects frozen input data, example data, model artifacts and provenance records. After an intentional change to those assets, run `python3 workflow/update_checksums.py`, review the resulting manifest changes and commit them together. Downloaded files under `data/raw/` are verified by the downloader and are excluded from the tracked inventory.
-
-## Read the raw outputs
-
-Run `python3 workflow/download_data.py --output data/raw` to retrieve the original files as `data/raw/countries/<country>/summary_master_<country>.csv.gz`. Add `--countries Albania` to retrieve a subset. Each country is verified against the original compressed-file SHA-256. The CSV separator is `;`. Read maturity-group labels as strings to preserve `000`, `00` and `0`. Keep the original compressed files unchanged: their hashes identify the exact simulation outputs.
-
-## Process the paired outputs
+From the repository root, install the processing dependencies and verify the shared assets:
 
 ```bash
 python3 -m pip install -r requirements.txt
 python3 workflow/verify_repository.py
-python3 workflow/analysis/run_analysis.py --data-root DATA_ROOT --output results/analysis --workers 2
 ```
 
-`DATA_ROOT` contains the extracted `countries/` directory. The default run processes all 103 countries; add `--countries Albania` for a small real-data check. The output directory must be new. The program verifies each input checksum, applies the documented row filter and computes country/cell/ensemble aggregates. It does not modify the raw masters or launch DSSAT.
-
-The preserved numerical reference is `workflow/analysis/reference/analyze_20261123.py`. The portable `engine.py` changes paths, constructs expected experiment keys from the design and removes a descriptive old-campaign comparison. Filtering, formulas, completeness rules and area weighting are retained. Checks of 8,519,200 raw records from Brazil, Bolivia and Albania reproduced 22 reference tables exactly; the receipt is in `provenance/analysis_portability_verification.json`.
-
-## Reconstruct simulations
-
-The processing stages are:
-
-1. `workflow/production_reference/build_sites.py`: build country–cell sites from harvested area, boundaries and weather indexing.
-2. Calendar and maturity scripts in the same folder: generate historical candidate runs, collate candidate scores and select a fixed group. Final Brazil/Bolivia revisions are retained in `workflow/maturity/final_revisions`.
-3. `workflow/campaigns/co2_future`: prepare and execute the future paired simulations with the corrected CO₂ inputs.
-4. `workflow/campaigns/onset_dsv`: construct healthy-crop trajectories and calculate DSV application demand.
-5. Annual collation, merging and validation scripts: produce the paired country masters.
-
-These production scripts retain the original HiPerGator layout. They document the executed implementation; their launchers are not a fresh-checkout installer. The exact production engine, site/soil mappings, input configurations, runtime tables and Python/Pythia environment still need exporting from the original project. `workflow/archive/export_hpg_reproducibility.py` prepares that bounded, read-only export. Input weather, calendars, soils and spatial rasters must be obtained under their source terms.
-
-The model source and production binary identification are in `model/`. The binary must match the recorded SHA-256; another local Windows build is not the production Linux executable.
-
-## Package raw results
+Run the complete Albania example:
 
 ```bash
-python3 workflow/archive/package_masters.py --data-root DATA_ROOT --output /path/to/archive/SbRust_Global_paired_masters_20261123.tar
+python3 workflow/analysis/run_analysis.py --data-root examples/data --countries Albania --output results/example --workers 1
+python3 workflow/analysis/check_example.py --output results/example
 ```
 
-This verifies all listed source files and packages the original gzip CSVs without filtering or recompressing them. An existing archive is not overwritten.
+The example contains 17 country–cells and 78,200 raw paired records; the analysis retains 78,005 records. To process all 103 countries:
+
+```bash
+python3 workflow/download_data.py --output data/raw
+python3 workflow/analysis/run_analysis.py --data-root data/raw --output results/global --workers 2
+```
+
+Add `--countries Albania` to both commands to process a subset. The downloader verifies each original compressed file against [master_files.json](../provenance/master_files.json). The processing code applies the [yield filter and aggregation rules](methods.md#yield-processing). Each run uses a new output directory and preserves the raw inputs.
+
+Original masters are semicolon-delimited gzip CSVs under `countries/<country>/summary_master_<country>.csv.gz`. Read maturity-group labels as strings to preserve `000`, `00` and `0`. See the [data dictionary](data_dictionary.md) for column definitions.
+
+The numerical verification compared 8,519,200 raw records from Brazil, Bolivia and Albania with the reference implementation and reproduced 22 tables exactly. The receipt is in [analysis_portability_verification.json](../provenance/analysis_portability_verification.json).
+
+## Production workflow
+
+| Stage | Implementation |
+| --- | --- |
+| Spatial preprocessing and calendar preparation | [workflow/production_reference](../workflow/production_reference) |
+| Maturity-group selection | [workflow/maturity](../workflow/maturity), with settings and scores in `data/calibration` and `provenance` |
+| Paired future simulations with SSP-specific CO₂ | [workflow/campaigns/co2_future](../workflow/campaigns/co2_future) |
+| Healthy-crop trajectories and DSV application calculations | [workflow/campaigns/onset_dsv](../workflow/campaigns/onset_dsv) |
+| Master-file processing | [workflow/analysis](../workflow/analysis) |
+
+Production launchers use the original HiPerGator directory conventions; adapt paths and scheduler settings to the target installation. DSSAT runs require daily weather, GGCMI crop calendars, eGHR soil profiles, site and management configurations, and DSSAT runtime/standard/genotype tables. Input sources and study filenames are listed in [sources_and_licensing.md](sources_and_licensing.md) and [external_inputs.json](../provenance/external_inputs.json). The Python/Pythia environment used by the production launchers is separate from the pinned dependencies for raw-output processing.
+
+The [model documentation](../model/README.md) identifies the production Linux executable and provides build instructions for the archived source. [export_hpg_reproducibility.py](../workflow/archive/export_hpg_reproducibility.py) packages production site/configuration and runtime files from the original study directory.
+
+## File integrity
+
+README, documentation and code can be edited normally; Git records their versions. The checksum inventory protects frozen research data, example data, model artifacts and provenance records. After an intentional change to those assets, run `python3 workflow/update_checksums.py`, review the manifest changes and commit them together. Downloaded files under `data/raw/` are verified by the downloader.
