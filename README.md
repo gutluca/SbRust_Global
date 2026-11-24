@@ -46,7 +46,7 @@ python3 workflow/analysis/run_analysis.py --data-root examples/data --countries 
 python3 workflow/analysis/check_example.py --output results/example
 ```
 
-The example contains the complete unmodified Albania master: 17 country–cells and 78,200 raw records. The documented filter retains 78,005 and excludes 195. Python 3.12 and pinned numerical packages are used for verification; automated checks run on pushes and pull requests.
+The example contains the complete unmodified Albania master: 17 country–cells and 78,200 raw records. The documented filter retains 78,005 and excludes 195. Python 3.12 and pinned numerical packages are used for verification. Validation can be run manually from the Actions tab.
 
 ## Process all 103 countries
 

@@ -85,11 +85,6 @@
     "sha256": "6d7034c0bdd0773372015ed16a0dbd9d31f874f5aba47b4123dc8ddc6750fc5f"
   },
   {
-    "path": "data/spatial/excluded_country_cells.csv",
-    "bytes": 33056,
-    "sha256": "7bec4bf3aef344a5e68c003f3dd960ea0007a2246ffc006a3a4b8fa11e1bd30c"
-  },
-  {
     "path": "data/spatial/selected_maturity_groups.csv",
     "bytes": 1257591,
     "sha256": "007a0aca098f1e2a0f29a4a346ea6ab348cf408fe7a21dce5e9885e92e4caaa1"

@@ -14,7 +14,7 @@ All CSV files use UTF-8. Compact public tables use commas; original master CSVs 
 | GM | Executed DSSAT generic maturity-group label; string |
 | GM_SOURCE | Source record for the executed maturity-group assignment |
 
-`soybean_study_mask.csv` contains the retained coordinates, area weights and weather identifiers. `selected_maturity_groups.csv` adds the executed group and its source record. `excluded_country_cells.csv` records spatial selection decisions and candidate labels; use the selected-maturity-group table for assignments to retained cells.
+`soybean_study_mask.csv` contains the retained coordinates, area weights and weather identifiers. `selected_maturity_groups.csv` adds the executed group and its source record.
 
 ## Original paired masters
 

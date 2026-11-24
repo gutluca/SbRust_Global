@@ -2,7 +2,7 @@
 
 ## Spatial support and experiment
 
-Rainfed soybean harvested area from SPAM 2020 V2r2 is aggregated from the native 5 arcmin raster to 0.5° country–cell fragments. The retained study mask covers 103 countries, 16,612 country–cell fragments and 15,765 distinct coordinate pairs, representing 117.85 million ha. Harvested area is fixed across periods and scenarios. The coordinates, weather identifiers and area weights are in [soybean_study_mask.csv](../data/spatial/soybean_study_mask.csv); the spatial selection records are in [excluded_country_cells.csv](../data/spatial/excluded_country_cells.csv).
+Rainfed soybean harvested area from SPAM 2020 V2r2 is aggregated from the native 5 arcmin raster to 0.5° country–cell fragments. The retained study mask covers 103 countries, 16,612 country–cell fragments and 15,765 distinct coordinate pairs, representing 117.85 million ha. Harvested area is fixed across periods and scenarios. The coordinates, weather identifiers and area weights are in [soybean_study_mask.csv](../data/spatial/soybean_study_mask.csv).
 
 The experiment compares 1981–2014 with 2020–2039 and 2040–2069 under SSP1-2.6, SSP3-7.0 and SSP5-8.5. Five weather GCMs are used: GFDL-ESM4, IPSL-CM6A-LR, MPI-ESM1-2-HR, MRI-ESM2-0 and UKESM1-0-LL. Each country–cell has 4,600 raw paired records: `34×5×5 + 50×3×5×5`. The experiment identifiers and counts are recorded in [study_design.json](../provenance/study_design.json).
 

@@ -1,5 +1,6 @@
-name: Validate research workflow
-on: [push, pull_request]
+name: Validate research workflow manually
+on:
+  workflow_dispatch:
 jobs:
   integrity:
     runs-on: ubuntu-latest
