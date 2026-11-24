@@ -20,17 +20,15 @@ This repository supports reanalysis of the original paired outputs and documents
 
 The study covers 103 countries, 16,612 country–cell fragments and 15,765 distinct coordinate pairs. Rainfed soybean harvested area is held fixed across experiments. The simulations use five GCMs, five sowing-date alternatives, a 1981–2014 baseline and future periods of 2020–2039 and 2040–2069 under SSP1-2.6, SSP3-7.0 and SSP5-8.5.
 
-One maturity group is fixed per country–cell. The executed assignments include the final Brazil v3 and Bolivia v2 revisions of 17 November 2026. Annual future CO₂ follows the matching SSP concentrations from [Meinshausen et al. (2020)](https://doi.org/10.5194/gmd-13-3571-2020).
+One maturity group is fixed per country–cell. Annual future CO₂ follows the matching SSP concentrations from [Meinshausen et al. (2020)](https://doi.org/10.5194/gmd-13-3571-2020).
 
 See [methods.md](docs/methods.md) for spatial selection, calibration policies, calendars, paired disease runs and processing rules.
 
 ## Raw results
 
-The final country masters contain **76,415,200 paired records**. Every row includes the matched disease-free and disease-affected soybean yields; both arms are supplied in the same files. The original compressed CSVs are retained without applying the analysis filter or changing their contents.
+The final country masters contain 76,415,200 paired records. Every row includes the matched disease-free and disease-affected soybean yields; both arms are supplied in the same files. The original compressed CSVs are retained without applying the analysis filter or changing their contents.
 
 The **[data release](https://github.com/gutluca/SbRust_Global/releases/tag/v0.1.0-data)** distributes the 103 original gzip CSVs as individual country downloads (2.07 GB in total). [master_files.json](provenance/master_files.json) lists each file, row count, size and SHA-256 checksum. The [data dictionary](docs/data_dictionary.md) documents the semicolon-delimited format. The download command below retrieves and verifies the complete dataset; individual countries can also be selected.
-
-The corrected yield campaign is complete. The corrected DSV application-demand campaign is still running; its raw outputs will be added after completion and verification.
 
 ## Code and executable
 
