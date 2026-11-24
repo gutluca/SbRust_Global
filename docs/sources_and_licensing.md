@@ -14,7 +14,7 @@
 
 ## Crop calendar files
 
-The study references the following GGCMI/ISIMIP NetCDF files:
+The following GGCMI/ISIMIP NetCDF files are supplied unchanged in [data/calendars](../data/calendars):
 
 ```text
 ggcmi-crop-calendar_gfdl-esm4_histsoc_soy-noirr_annual_1991_2014.nc
@@ -23,7 +23,7 @@ ggcmi-crop-calendar_ipsl-cm6a-lr_ssp370_soy-noirr_annual_2015_2100.nc
 ggcmi-crop-calendar_ipsl-cm6a-lr_ssp585_soy-noirr_annual_2015_2100.nc
 ```
 
-Historical calibration uses 1991–2014. Future annual dates use the calendar for the matching SSP. The source filenames identify the study's calendar series when consulting the provider catalogue. Input records and production directory conventions are in [external_inputs.json](../provenance/external_inputs.json).
+Maturity-group calibration uses only the historical 1991–2014 file. The three future files provide SSP-specific annual sowing dates; the calibrated maturity group remains fixed. Within each SSP, the calendar reference is shared across all five weather GCMs. The source filenames identify the study's calendar series when consulting the provider catalogue. Input records and production directory conventions are in [external_inputs.json](../provenance/external_inputs.json).
 
 ## Licensing
 

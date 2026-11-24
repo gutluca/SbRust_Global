@@ -1,5 +1,25 @@
 [
   {
+    "path": "data/calendars/ggcmi-crop-calendar_gfdl-esm4_histsoc_soy-noirr_annual_1991_2014.nc",
+    "bytes": 6027841,
+    "sha256": "0de6121bed2c8f01ecbb3a044538e2a3f4443c2d6a80438da0524d64e3d17e13"
+  },
+  {
+    "path": "data/calendars/ggcmi-crop-calendar_ipsl-cm6a-lr_ssp126_soy-noirr_annual_2015_2100.nc",
+    "bytes": 23192943,
+    "sha256": "ad15730e0592b82d7b2ac2a1bc444795ca49f99b5ae6951e657cae87b3e1c563"
+  },
+  {
+    "path": "data/calendars/ggcmi-crop-calendar_ipsl-cm6a-lr_ssp370_soy-noirr_annual_2015_2100.nc",
+    "bytes": 23310878,
+    "sha256": "f507025c5a19af94e62b3e248ca867e503bcc5cc356c9aace6319a328efda64a"
+  },
+  {
+    "path": "data/calendars/ggcmi-crop-calendar_ipsl-cm6a-lr_ssp585_soy-noirr_annual_2015_2100.nc",
+    "bytes": 23410018,
+    "sha256": "7ce73764b62a1ddf371714d044ac2e668c520df364f97fe8cfa57e322e4a0285"
+  },
+  {
     "path": "data/calibration/Bolivia_candidate_scores.csv.gz",
     "bytes": 28535,
     "sha256": "0d6c2f187d9e63e016163f10e176fcf20272895eaacd0102985a71e5cf8944f3"
@@ -141,8 +161,8 @@
   },
   {
     "path": "provenance/external_inputs.json",
-    "bytes": 2949,
-    "sha256": "4b43a5d0425fc0722e93c52dbf2cbd2796558246f97df81c7f3eb40a88663b8d"
+    "bytes": 4851,
+    "sha256": "1b56fb0d647004df3607fbfcbaa4380c110914f388f90a8ab95cdfab31fe47f7"
   },
   {
     "path": "provenance/gm_policy_Bolivia.json",

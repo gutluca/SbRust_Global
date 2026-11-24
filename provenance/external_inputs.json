@@ -30,19 +30,35 @@
     "study_files": {
       "historical": {
         "filename": "ggcmi-crop-calendar_gfdl-esm4_histsoc_soy-noirr_annual_1991_2014.nc",
-        "sha256": null
+        "sha256": "0de6121bed2c8f01ecbb3a044538e2a3f4443c2d6a80438da0524d64e3d17e13",
+        "repository_path": "data/calendars/ggcmi-crop-calendar_gfdl-esm4_histsoc_soy-noirr_annual_1991_2014.nc",
+        "bytes": 6027841,
+        "sha256_scope": "included unmodified source copy",
+        "role": "maturity calibration and historical sowing reference"
       },
       "ssp126": {
         "filename": "ggcmi-crop-calendar_ipsl-cm6a-lr_ssp126_soy-noirr_annual_2015_2100.nc",
-        "sha256": null
+        "sha256": "ad15730e0592b82d7b2ac2a1bc444795ca49f99b5ae6951e657cae87b3e1c563",
+        "repository_path": "data/calendars/ggcmi-crop-calendar_ipsl-cm6a-lr_ssp126_soy-noirr_annual_2015_2100.nc",
+        "bytes": 23192943,
+        "sha256_scope": "included unmodified source copy",
+        "role": "annual future sowing reference for ssp126"
       },
       "ssp370": {
         "filename": "ggcmi-crop-calendar_ipsl-cm6a-lr_ssp370_soy-noirr_annual_2015_2100.nc",
-        "sha256": null
+        "sha256": "f507025c5a19af94e62b3e248ca867e503bcc5cc356c9aace6319a328efda64a",
+        "repository_path": "data/calendars/ggcmi-crop-calendar_ipsl-cm6a-lr_ssp370_soy-noirr_annual_2015_2100.nc",
+        "bytes": 23310878,
+        "sha256_scope": "included unmodified source copy",
+        "role": "annual future sowing reference for ssp370"
       },
       "ssp585": {
         "filename": "ggcmi-crop-calendar_ipsl-cm6a-lr_ssp585_soy-noirr_annual_2015_2100.nc",
-        "sha256": null
+        "sha256": "7ce73764b62a1ddf371714d044ac2e668c520df364f97fe8cfa57e322e4a0285",
+        "repository_path": "data/calendars/ggcmi-crop-calendar_ipsl-cm6a-lr_ssp585_soy-noirr_annual_2015_2100.nc",
+        "bytes": 23410018,
+        "sha256_scope": "included unmodified source copy",
+        "role": "annual future sowing reference for ssp585"
       }
     },
     "historical_reference": {
@@ -53,7 +69,28 @@
       "end_year": 2014,
       "stat": "median"
     },
-    "status": "exact_original_file_hashes_to_export"
+    "status": "source_files_included",
+    "execution_reference_check": {
+      "evidence": "archived production project and annual configurations from Argentina",
+      "project_sha256": "2ea3b33cbd8b8ef1bb0c9810f034b2c281db7b06d8327a1a017b8512ec2b0adc",
+      "historical_reference": {
+        "gcm": "GFDL-ESM4",
+        "years": [
+          1991,
+          2014
+        ],
+        "baseline_stat": "median"
+      },
+      "future_reference_gcm": "IPSL-CM6A-LR",
+      "future_configurations_checked": 750,
+      "configurations_per_scenario_and_weather_gcm": 50,
+      "future_scenarios": [
+        "ssp126",
+        "ssp370",
+        "ssp585"
+      ],
+      "maturity_group_fixed_after_historical_calibration": true
+    }
   },
   "soils": {
     "source_doi": "10.7910/DVN/1PEEY0",

@@ -10,6 +10,7 @@ This repository supports reanalysis of the original paired outputs and documents
 | --- | --- |
 | [data/spatial](data/spatial) | Retained soybean study mask and executed maturity groups |
 | [data/calibration](data/calibration) | Disease parameters, country assignments, maturity-group candidate scores and final selection decisions |
+| [data/calendars](data/calendars) | GGCMI historical calibration calendar and annual future sowing calendars |
 | [data/co2](data/co2) | Annual SSP-specific CO₂ concentrations, DSSAT input files and source provenance |
 | [model](model) | Frozen model source, build script and identification of the production executable |
 | [workflow](workflow) | Spatial preprocessing, maturity calibration/selection, paired simulations, DSV application calculations and output processing |
@@ -61,7 +62,7 @@ To download a subset, add `--countries Brazil "United States"` to the download c
 
 ## External inputs
 
-The spatial tables include the SPAM-derived soybean study mask, fixed harvested-area weights and maturity groups used in the simulations. GGCMI/ISIMIP crop calendars, weather and eGHR soils are documented in [sources_and_licensing.md](docs/sources_and_licensing.md), with study filenames in [external_inputs.json](provenance/external_inputs.json).
+The spatial tables include the SPAM-derived soybean study mask, fixed harvested-area weights and maturity groups used in the simulations. The four original GGCMI/ISIMIP NetCDF files are in [data/calendars](data/calendars): one historical file for maturity calibration and three SSP-specific files for annual future sowing dates. Weather and eGHR soil sources are documented in [sources_and_licensing.md](docs/sources_and_licensing.md), with study filenames in [external_inputs.json](provenance/external_inputs.json).
 
 See [reproduction.md](docs/reproduction.md) for output processing, the production workflow and model input requirements.
 
