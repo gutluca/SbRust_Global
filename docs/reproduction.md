@@ -1,5 +1,9 @@
 # Reproduction
 
+## Editing the repository
+
+README, documentation and code can be edited normally; Git records their versions. The checksum inventory protects frozen input data, example data, model artifacts and provenance records. After an intentional change to those assets, run `python3 workflow/update_checksums.py`, review the resulting manifest changes and commit them together. Downloaded files under `data/raw/` are verified by the downloader and are excluded from the tracked inventory.
+
 ## Read the raw outputs
 
 Run `python3 workflow/download_data.py --output data/raw` to retrieve the original files as `data/raw/countries/<country>/summary_master_<country>.csv.gz`. Add `--countries Albania` to retrieve a subset. Each country is verified against the original compressed-file SHA-256. The CSV separator is `;`. Read maturity-group labels as strings to preserve `000`, `00` and `0`. Keep the original compressed files unchanged: their hashes identify the exact simulation outputs.

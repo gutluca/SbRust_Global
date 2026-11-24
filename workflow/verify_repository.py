@@ -4,6 +4,7 @@ import csv
 import hashlib
 import json
 from pathlib import Path
+from checksum_inventory import verify_inventory
 
 
 def sha(path):
@@ -39,10 +40,7 @@ def main():
     assert binary.stat().st_size==executable['bytes'] and sha(binary)==executable['sha256']
     with binary.open('rb') as stream:
         assert stream.read(6)==b'\x7fELF\x02\x01', 'Expected the production Linux ELF64 executable'
-    inventory=repo/'provenance/repository_files.json'
-    if inventory.exists():
-        for item in json.loads(inventory.read_text(encoding='utf-8')):
-            assert sha(repo/item['path'])==item['sha256'],item['path']
+    verify_inventory(repo)
     print(f"PASS: 103 countries; {len(gm):,} country-cells; {design['raw_paired_rows']:,} paired rows; critical parameter/CO2 hashes verified.")
 
 

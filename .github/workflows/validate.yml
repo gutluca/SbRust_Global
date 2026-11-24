@@ -12,6 +12,8 @@ jobs:
           python-version: '3.12'
       - name: Verify study population and frozen input checksums
         run: python3 workflow/verify_repository.py
+      - name: Check editable documentation and frozen-asset protection
+        run: python3 workflow/test_checksum_inventory.py
       - name: Check Python syntax
         run: python3 -m compileall -q workflow
       - name: Check scientific warning rules
