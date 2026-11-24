@@ -2,14 +2,14 @@
 
 Methodology, input data, model code and raw outputs for global soybean rust simulations with DISMO integrated into DSSAT.
 
-This repository supports **reanalysis of the original paired outputs** and documents the inputs needed to **rerun the crop and disease model**. A complete real-data example and the verified production Linux executable are included. The current snapshot is dated 24 November 2026; the corrected application-demand campaign is still in progress.
+This repository supports reanalysis of the original paired outputs and documents the inputs needed to rerun the crop and disease model. A complete real-data example and the verified production Linux executable are included.
 
 ## Repository contents
 
 | Folder | Contents |
 | --- | --- |
-| [data/spatial](data/spatial) | Retained soybean study mask, executed maturity groups and excluded country–cells |
-| [data/calibration](data/calibration) | Disease parameters, country assignments, maturity-group candidate scores and final Brazil/Bolivia selection decisions |
+| [data/spatial](data/spatial) | Retained soybean study mask and executed maturity groups |
+| [data/calibration](data/calibration) | Disease parameters, country assignments, maturity-group candidate scores and final selection decisions |
 | [data/co2](data/co2) | Annual SSP-specific CO₂ concentrations, DSSAT input files and source provenance |
 | [model](model) | Frozen model source, build script and identification of the production executable |
 | [workflow](workflow) | Spatial preprocessing, maturity calibration/selection, paired simulations, DSV application calculations and output processing |
