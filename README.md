@@ -35,7 +35,7 @@ The **[data release](https://github.com/gutluca/SbRust_Global/releases/tag/v0.1.
 - **DISMO–DSSAT integration:** [gutluca/dssat-csm-os, dismo-integration](https://github.com/gutluca/dssat-csm-os/tree/dismo-integration).
 - **DSSAT upstream:** [DSSAT/dssat-csm-os](https://github.com/DSSAT/dssat-csm-os).
 - **Frozen source included here:** [model/source](model/source).
-- **Production executable:** [model/bin/dscsm048](model/bin/dscsm048), Linux x86-64, verified against the campaign's SHA-256. Build/source provenance and runtime requirements are described in [model/README.md](model/README.md).
+- **Production executable:** [model/bin/dscsm048](model/bin/dscsm048), Linux x86-64. Build/source provenance and runtime requirements are described in [model/README.md](model/README.md).
 
 ## Quick start: real-data example
 
